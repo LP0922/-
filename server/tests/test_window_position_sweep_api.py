@@ -18,7 +18,7 @@ from device_control_server import (
 )
 from device_dashboard import HTML as DEVICE_DASHBOARD_HTML
 from powder_sampling_control.dispensing_algorithm.feedback_profiles import interpolate_profile
-from test_window_position_sweep import position_schedule
+from device_maintenance import position_schedule
 
 
 class WindowPositionSweepTests(unittest.TestCase):

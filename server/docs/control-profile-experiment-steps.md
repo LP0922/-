@@ -102,7 +102,7 @@ Dashboard操作：进入“自动实验/参数网格”，选择膨润土模板�
 2. 将扫描结果回收到对应的 `data/powder_library` 工作空间。
 3. 运行草稿生成预览：
 
-   `python scripts/generate_control_profile.py bentonite`
+   `python scripts/plan_cli.py profile bentonite`
 
 4. 检查输出中的 `generation_warnings`；关键警告没有消除时不得将配置当作正式方法。
 5. 确认后才使用 `--write --force` 更新草稿配置。

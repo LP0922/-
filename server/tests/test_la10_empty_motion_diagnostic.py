@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from diagnose_la10_empty_motion import diagnose
+from device_maintenance import diagnose
 from powder_sampling_control.device_adapters.la10_modbus_rtu import LA10Status, VibrationSettings
 
 

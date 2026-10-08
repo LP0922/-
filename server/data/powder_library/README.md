@@ -109,6 +109,6 @@
 2. **新粉匹配**：新粉跑快速探针（3-5频点×2占空比）→ 提取特征向量 →
    与库内所有粉体计算欧氏距离 → 继承最近邻的推荐参数
 3. **持续扩充**：每加入一种新粉，其工作空间写入库，丰富匹配基础
-4. **生成草稿**：运行 `python scripts/generate_control_profile.py POWDER_ID`
+4. **生成草稿**：运行 `python scripts/plan_cli.py profile POWDER_ID`
    预览候选配置；确认后使用 `--write --force` 更新草稿
 5. **实验验证**：按 `docs/control-profile-experiment-steps.md` 验证锚点和插值目标

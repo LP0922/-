@@ -56,8 +56,8 @@ normalized to integers when loaded.
 The current files are `draft` configurations derived from incomplete
 workspaces.  The dashboard exposes their warnings and each submitted run logs
 the profile status and whether its target was exact, interpolated, or
-extrapolated.  Use `scripts/generate_control_profile.py POWDER_ID` to preview a
+extrapolated.  Use `scripts/plan_cli.py profile POWDER_ID` to preview a
 new draft after updating a workspace.
 
-Use `scripts/calibrate_feed_yield.py` to collect a physical stable mass-delta
-sample. It is preview-only unless `--execute` is supplied.
+Use `scripts/device_maintenance.py calibrate-yield` to collect a physical
+stable mass-delta sample. It is preview-only unless `--execute` is supplied.

@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SCRIPT_PATH = PROJECT_ROOT / "scripts" / "scan_low_rate_startup.py"
-SPEC = importlib.util.spec_from_file_location("low_rate_scan", SCRIPT_PATH)
+SCRIPT_PATH = PROJECT_ROOT / "scripts" / "device_maintenance.py"
+SPEC = importlib.util.spec_from_file_location("device_maintenance", SCRIPT_PATH)
 low_rate_scan = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(low_rate_scan)
 
