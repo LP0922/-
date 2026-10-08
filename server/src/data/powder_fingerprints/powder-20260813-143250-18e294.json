@@ -1,0 +1,336 @@
+{
+  "powder_id": "powder-20260813-143250-18e294",
+  "powder_name": "加重剂（重晶石）",
+  "created_at": "2026-08-13T06:32:50.267700+00:00",
+  "probe_parameters": {
+    "frequency_hz": 40,
+    "duty_permyriad": 2000,
+    "window_position_units": 250,
+    "duration_s": 10.0
+  },
+  "feature_vector": {
+    "startup_delay_s": 1.39,
+    "steady_rate_mg_s": 40.05,
+    "rate_cv_pct": 20.4,
+    "tail_mass_mg": 36.0,
+    "settling_time_s": 2.281
+  },
+  "classification": {
+    "category": "Medium-flow",
+    "tags": []
+  },
+  "applied_profile": {
+    "preset_id": "60hz-p150",
+    "maximum_flow_rate_mg_s": 120.0,
+    "fixed_tail_mass_mg": 2.0,
+    "force_stop_offset_mg": 10.0,
+    "duty_step_per_update": 30,
+    "emergency_duty_step_per_update": 80,
+    "position_feedback_enabled": false,
+    "profile_overrides": {
+      "100": {
+        "coarse_rate_mg_s": 25.0,
+        "fine_rate_mg_s": 15.0,
+        "precision_start_remaining_mg": 40.0,
+        "tail_taper_start_remaining_mg": 70.0,
+        "tail_taper_end_remaining_mg": 15.0
+      }
+    }
+  },
+  "probe_raw_summary": {
+    "startup_phase": [
+      {
+        "elapsed_s": 0.125,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.39,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.593,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.781,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.984,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.187,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.39,
+        "mass_mg": 8.0
+      },
+      {
+        "elapsed_s": 1.578,
+        "mass_mg": 19.0
+      },
+      {
+        "elapsed_s": 1.797,
+        "mass_mg": 31.0
+      },
+      {
+        "elapsed_s": 1.984,
+        "mass_mg": 44.0
+      }
+    ],
+    "steady_phase": [
+      {
+        "elapsed_s": 0.125,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.39,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.593,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.781,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.984,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.187,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.39,
+        "mass_mg": 8.0
+      },
+      {
+        "elapsed_s": 1.578,
+        "mass_mg": 19.0
+      },
+      {
+        "elapsed_s": 1.797,
+        "mass_mg": 31.0
+      },
+      {
+        "elapsed_s": 1.984,
+        "mass_mg": 44.0
+      },
+      {
+        "elapsed_s": 2.187,
+        "mass_mg": 57.0
+      },
+      {
+        "elapsed_s": 2.39,
+        "mass_mg": 67.0
+      },
+      {
+        "elapsed_s": 2.593,
+        "mass_mg": 79.0
+      },
+      {
+        "elapsed_s": 2.781,
+        "mass_mg": 88.0
+      },
+      {
+        "elapsed_s": 2.984,
+        "mass_mg": 96.0
+      },
+      {
+        "elapsed_s": 3.187,
+        "mass_mg": 104.0
+      },
+      {
+        "elapsed_s": 3.39,
+        "mass_mg": 114.0
+      },
+      {
+        "elapsed_s": 3.578,
+        "mass_mg": 126.0
+      },
+      {
+        "elapsed_s": 3.797,
+        "mass_mg": 139.0
+      },
+      {
+        "elapsed_s": 4.0,
+        "mass_mg": 152.0
+      },
+      {
+        "elapsed_s": 4.25,
+        "mass_mg": 166.0
+      },
+      {
+        "elapsed_s": 4.468,
+        "mass_mg": 176.0
+      },
+      {
+        "elapsed_s": 4.656,
+        "mass_mg": 183.0
+      },
+      {
+        "elapsed_s": 4.859,
+        "mass_mg": 189.0
+      },
+      {
+        "elapsed_s": 5.062,
+        "mass_mg": 196.0
+      },
+      {
+        "elapsed_s": 5.265,
+        "mass_mg": 203.0
+      },
+      {
+        "elapsed_s": 5.453,
+        "mass_mg": 211.0
+      },
+      {
+        "elapsed_s": 5.656,
+        "mass_mg": 218.0
+      },
+      {
+        "elapsed_s": 5.859,
+        "mass_mg": 224.0
+      },
+      {
+        "elapsed_s": 6.062,
+        "mass_mg": 231.0
+      },
+      {
+        "elapsed_s": 6.25,
+        "mass_mg": 237.0
+      },
+      {
+        "elapsed_s": 6.468,
+        "mass_mg": 244.0
+      },
+      {
+        "elapsed_s": 6.656,
+        "mass_mg": 252.0
+      },
+      {
+        "elapsed_s": 6.859,
+        "mass_mg": 260.0
+      },
+      {
+        "elapsed_s": 7.062,
+        "mass_mg": 268.0
+      },
+      {
+        "elapsed_s": 7.265,
+        "mass_mg": 276.0
+      },
+      {
+        "elapsed_s": 7.453,
+        "mass_mg": 284.0
+      },
+      {
+        "elapsed_s": 7.656,
+        "mass_mg": 291.0
+      },
+      {
+        "elapsed_s": 7.859,
+        "mass_mg": 297.0
+      },
+      {
+        "elapsed_s": 8.062,
+        "mass_mg": 303.0
+      },
+      {
+        "elapsed_s": 8.25,
+        "mass_mg": 309.0
+      },
+      {
+        "elapsed_s": 8.468,
+        "mass_mg": 316.0
+      },
+      {
+        "elapsed_s": 8.656,
+        "mass_mg": 322.0
+      },
+      {
+        "elapsed_s": 8.859,
+        "mass_mg": 330.0
+      },
+      {
+        "elapsed_s": 9.047,
+        "mass_mg": 339.0
+      },
+      {
+        "elapsed_s": 9.265,
+        "mass_mg": 350.0
+      },
+      {
+        "elapsed_s": 9.453,
+        "mass_mg": 360.0
+      },
+      {
+        "elapsed_s": 9.656,
+        "mass_mg": 372.0
+      },
+      {
+        "elapsed_s": 9.859,
+        "mass_mg": 381.0
+      },
+      {
+        "elapsed_s": 10.062,
+        "mass_mg": 390.0
+      }
+    ],
+    "settling_phase": [
+      {
+        "elapsed_s": 0.078,
+        "mass_mg": 398.0
+      },
+      {
+        "elapsed_s": 0.296,
+        "mass_mg": 404.0
+      },
+      {
+        "elapsed_s": 0.484,
+        "mass_mg": 410.0
+      },
+      {
+        "elapsed_s": 0.687,
+        "mass_mg": 415.0
+      },
+      {
+        "elapsed_s": 0.89,
+        "mass_mg": 420.0
+      },
+      {
+        "elapsed_s": 1.093,
+        "mass_mg": 423.0
+      },
+      {
+        "elapsed_s": 1.281,
+        "mass_mg": 425.0
+      },
+      {
+        "elapsed_s": 1.468,
+        "mass_mg": 426.0
+      },
+      {
+        "elapsed_s": 1.687,
+        "mass_mg": 426.0
+      },
+      {
+        "elapsed_s": 1.875,
+        "mass_mg": 426.0
+      },
+      {
+        "elapsed_s": 2.078,
+        "mass_mg": 426.0
+      },
+      {
+        "elapsed_s": 2.281,
+        "mass_mg": 426.0
+      }
+    ]
+  }
+}

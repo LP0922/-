@@ -1,0 +1,36 @@
+# AT8811/AT8812/AT8813 B/C series Modbus RTU configuration template.
+device_id: balance_01
+driver: at881x_modbus_rtu
+serial:
+  port: COM_TO_BE_CONFIRMED
+  baudrate: 9600
+  bytesize: 8
+  parity: N
+  stopbits: 1
+  slave_address: 1
+
+# Confirm with certified reference masses before enabling production or ILC updates.
+weight_conversion:
+  scale_mg_per_count: null
+  offset_mg: 0.0
+  # Generate and validate these values with:
+  # python scripts/calibrate_at8811c_scale.py --execute --port COM9
+  calibration_file: config/devices/at8811c-calibration.json
+
+polling:
+  interval_ms: 50
+  response_timeout_ms: 200
+  max_consecutive_failures: 3
+
+stability:
+  require_hardware_stable_bit: true
+  window_ms: TO_BE_CONFIRMED
+  max_range_mg: TO_BE_CONFIRMED
+  max_slope_mg_per_s: TO_BE_CONFIRMED
+
+# Runtime dispensing must never write calibration or communication registers.
+write_policy:
+  allow_zero_in_tare_state: true
+  allow_configuration_writes: false
+  allow_calibration_writes: false
+  allow_factory_reset: false

@@ -1,0 +1,30 @@
+{
+  "target_mass": {
+    "minimum_mg": 100,
+    "maximum_mg": 1000,
+    "integer_only": true
+  },
+  "acceptance": {
+    "minimum_offset_mg": -10.0,
+    "maximum_offset_mg": 10.0
+  },
+  "default_target_rate_bands": [
+    {
+      "minimum_target_mg": 100,
+      "maximum_target_mg": 500,
+      "coarse_rate_mg_s": 25.0,
+      "fine_rate_mg_s": 15.0,
+      "precision_rate_mg_s": 10.0,
+      "settle_rate_mg_s": 0.0
+    },
+    {
+      "minimum_target_mg": 501,
+      "maximum_target_mg": 1000,
+      "coarse_rate_mg_s": 35.0,
+      "fine_rate_mg_s": 20.0,
+      "precision_rate_mg_s": 14.0,
+      "settle_rate_mg_s": 0.0
+    }
+  ],
+  "maximum_dispense_time_s": 180.0
+}

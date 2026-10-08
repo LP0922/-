@@ -1,0 +1,51 @@
+﻿elapsed_s,measurement_read_s,mass_mg,filtered_mass_mg,predicted_mass_mg,rate_valid,rate_mg_s,predicted_rate_mg_s,control_rate_mg_s,acceleration_mg_s2,jerk_mg_s3,estimated_tail_mg,projected_stop_mass_mg,predictive_stop_candidate,stop_confirmation_count,stop_confirmation_required,stall_recovery_active,stall_recovery_attempt,stage,target_rate_mg_s,frequency_hz,duty_permyriad,window_position_units,stable,status_word,reason
+6.0,0.125,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.219,0.109,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.469,0.141,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.672,0.094,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.86,0.079,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+7.078,0.109,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+7.344,0.156,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+7.594,0.141,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,observe light-powder mass gain before increasing duty
+7.875,0.156,6.0,2.7,4.643,True,2.135,3.047,3.047,1.216,0.865,7.431,13.431,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+8.078,0.093,6.0,4.437,7.926,True,3.782,5.521,5.521,2.319,1.779,9.433,15.433,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+8.328,0.14,6.0,5.7,9.826,True,4.58,6.423,6.423,2.459,1.535,10.099,16.099,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+8.61,0.157,12.0,9.299,15.529,True,7.014,9.599,9.599,3.447,1.929,12.564,24.564,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+8.875,0.156,12.0,11.603,18.769,True,8.2,10.908,10.908,3.611,1.667,13.52,25.52,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.063,0.078,12.0,12.665,19.703,True,8.235,10.533,10.533,3.064,0.751,13.124,25.124,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.344,0.156,19.0,16.855,25.802,True,10.484,13.375,13.375,3.854,1.164,15.306,34.306,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.61,0.157,19.0,19.429,28.875,True,11.216,13.974,13.974,3.677,0.798,15.683,34.683,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.86,0.141,26.0,23.991,35.486,True,13.596,17.056,17.056,4.612,1.387,18.069,44.069,False,0,2,False,0,coarse,15.0,80,2180,1100,True,256,"predicted flow is above target; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+10.078,0.109,26.0,26.586,38.367,True,14.113,17.304,17.304,4.254,0.78,18.155,44.155,False,0,2,False,0,coarse,15.0,80,2170,1100,True,256,"predicted flow is above target; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+10.344,0.156,26.0,28.47,39.548,True,13.557,15.985,15.985,3.238,-0.139,18.548,44.548,False,0,2,False,0,coarse,15.0,80,2140,1100,True,256,predicted flow is above target; reduce duty
+10.594,0.141,32.0,31.978,43.678,True,14.382,16.819,16.819,3.249,-0.103,17.569,49.569,False,0,2,False,0,coarse,15.0,80,2140,1100,True,256,predicted flow is above target; reduce duty
+10.813,0.11,32.0,33.763,44.598,True,13.63,15.264,15.264,2.179,-1.059,17.598,49.598,False,0,2,False,0,coarse,15.0,80,2140,1100,True,256,predicted flow is inside the duty deadband
+11.078,0.156,32.0,34.998,44.375,True,12.15,12.853,12.853,0.937,-1.785,17.375,49.375,False,0,2,False,0,coarse,15.0,80,2140,1100,True,256,light powder is gaining mass; hold duty
+11.328,0.14,37.0,37.586,46.742,True,11.958,12.457,12.457,0.664,-1.646,14.742,51.742,False,0,2,False,0,coarse,15.0,80,2139,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+11.547,0.109,37.0,38.771,46.631,True,10.633,10.326,10.633,-0.41,-2.298,14.631,51.631,False,0,2,False,0,coarse,15.0,80,2139,1100,True,256,light powder is gaining mass; hold duty
+11.813,0.157,37.0,39.522,45.715,True,8.8,7.715,8.8,-1.447,-2.618,13.715,50.715,False,0,2,False,0,coarse,15.0,80,2139,1100,True,256,light powder is gaining mass; hold duty
+12.063,0.141,43.0,42.272,48.687,True,8.968,8.137,8.968,-1.108,-1.823,11.278,54.278,False,0,2,False,0,coarse,15.0,80,2132,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+12.281,0.109,43.0,43.661,49.367,True,8.176,7.041,8.176,-1.512,-1.83,11.367,54.367,False,0,2,False,0,coarse,15.0,80,2130,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+12.531,0.14,43.0,44.461,48.896,True,6.735,5.09,6.735,-2.193,-2.008,10.896,53.896,False,0,2,False,0,coarse,15.0,80,2130,1100,True,256,light powder is gaining mass; hold duty
+12.735,0.094,43.0,44.534,47.306,True,4.92,2.471,4.92,-3.265,-2.658,9.306,52.306,False,0,2,False,0,coarse,15.0,80,2130,1100,True,256,light powder is gaining mass; hold duty
+12.953,0.109,49.0,47.091,50.851,True,5.8,4.228,5.8,-2.097,-1.054,9.06,58.06,False,0,2,False,0,coarse,15.0,80,2124,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.203,0.14,49.0,48.712,52.274,True,5.486,4.014,5.486,-1.962,-0.736,8.84,57.84,False,0,2,False,0,coarse,15.0,80,2119,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.406,0.093,49.0,49.432,52.32,True,4.701,3.0,4.701,-2.267,-0.889,8.32,57.32,False,0,2,False,0,coarse,15.0,80,2119,1100,True,256,light powder is gaining mass; hold duty
+13.672,0.156,54.0,52.131,55.741,True,5.375,4.251,5.375,-1.499,-0.133,8.763,62.763,False,0,2,False,0,coarse,15.0,80,2106,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.875,0.094,54.0,53.555,57.324,True,5.469,4.581,5.469,-1.185,0.203,8.829,62.829,False,0,2,False,0,coarse,15.0,80,2101,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.141,0.156,54.0,54.532,57.73,True,4.79,3.738,4.79,-1.404,-0.002,8.73,62.73,False,0,2,False,0,coarse,15.0,80,2099,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.328,0.078,59.0,57.022,61.928,True,6.451,6.632,6.632,0.242,1.758,9.702,68.702,False,0,2,False,0,coarse,15.0,80,2084,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.61,0.157,60.0,59.368,64.696,True,6.927,7.281,7.281,0.473,1.57,10.213,70.213,False,0,2,False,0,coarse,15.0,80,2074,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.875,0.156,60.0,60.671,65.67,True,6.592,6.738,6.738,0.195,1.046,10.67,70.67,False,0,2,False,0,coarse,15.0,80,2070,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+15.141,0.156,66.0,64.037,70.308,True,7.985,8.737,8.737,1.002,1.444,11.361,77.361,False,0,2,False,0,fine,3.0,80,2010,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+15.344,0.094,66.0,65.823,72.4,True,8.347,9.192,9.192,1.127,1.278,11.71,77.71,False,0,2,False,0,fine,3.0,80,2010,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+15.61,0.157,71.0,69.396,77.205,True,9.743,11.083,11.083,1.786,1.518,13.195,84.195,False,0,2,False,0,fine,3.0,80,2010,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+15.86,0.141,72.0,71.938,80.124,True,10.234,11.596,11.596,1.815,1.238,13.562,85.562,False,0,2,False,0,fine,3.0,80,1950,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+16.141,0.156,72.0,73.587,81.221,True,9.718,10.64,10.64,1.23,0.574,14.221,86.221,False,0,2,False,0,fine,3.0,80,1950,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+16.344,0.094,76.0,75.772,83.792,True,10.172,11.215,11.215,1.391,0.618,13.192,89.192,False,0,2,False,0,fine,3.0,80,1950,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+16.61,0.157,76.0,77.39,84.814,True,9.592,10.207,10.207,0.82,0.065,13.814,89.814,False,0,2,False,0,fine,3.0,80,1890,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+16.875,0.156,76.0,78.178,84.391,True,8.315,8.253,8.315,-0.082,-0.629,13.391,89.391,False,0,2,False,0,fine,3.0,80,1890,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+17.063,0.078,82.0,80.757,88.148,True,9.502,10.207,10.207,0.941,0.585,12.376,94.376,False,0,2,False,0,fine,3.0,80,1890,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+17.266,0.094,83.0,82.838,90.513,True,9.838,10.629,10.629,1.055,0.581,12.699,95.699,False,0,2,False,0,fine,3.0,80,1830,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+17.547,0.156,83.0,84.454,91.495,True,9.193,9.583,9.583,0.52,0.083,13.495,96.495,False,0,2,False,0,fine,3.0,80,1830,1100,True,256,predicted flow is above the overspeed guard; reduce duty
+17.797,0.141,90.0,88.223,96.563,True,10.616,11.626,11.626,1.347,0.728,13.468,103.468,False,0,2,False,0,settle,0.0,80,1830,1100,True,256,force stop: mass 90.0 >= 90 mg

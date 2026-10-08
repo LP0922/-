@@ -1,0 +1,197 @@
+{
+  "run_id": "disp-batch-1sets-20260920_165643-68f61d",
+  "test_type": "dispense_batch",
+  "powder_id": "powder-20260814-143554-702da0",
+  "powder_name": "封堵剂1",
+  "tare_between_sets": true,
+  "close_window_between_runs": true,
+  "set_count": 1,
+  "set_results": [
+    {
+      "set_index": 1,
+      "powder_id": "powder-20260814-143554-702da0",
+      "powder_name": "封堵剂1",
+      "target_mg": 900,
+      "frequency_hz": 80,
+      "duty_permyriad": 2200,
+      "window_position_units": 1100,
+      "repeat_count": 10,
+      "result": "failed",
+      "acceptance_passed": false,
+      "final_mass_mg": 918.3,
+      "actual_duration_s": 49.6,
+      "rep_results": [
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r01-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 919.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 919.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1103,
+            "after_position_units": 80,
+            "distance_register": 501,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r02-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 921.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 921.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1100,
+            "after_position_units": 83,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r03-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 922.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 922.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1106,
+            "after_position_units": 77,
+            "distance_register": 503,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r04-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 926.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 926.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1103,
+            "after_position_units": 77,
+            "distance_register": 501,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r05-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 922.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 922.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1101,
+            "after_position_units": 87,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r06-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 923.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 923.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1102,
+            "after_position_units": 60,
+            "distance_register": 1002,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r07-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 913.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 913.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1101,
+            "after_position_units": 85,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r08-900mg-80hz-22pct",
+          "result": "completed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 907.0,
+          "error": null,
+          "acceptance_error": null,
+          "window_close_after_run": {
+            "before_position_units": 1101,
+            "after_position_units": 86,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r09-900mg-80hz-22pct",
+          "result": "completed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 907.0,
+          "error": null,
+          "acceptance_error": null,
+          "window_close_after_run": {
+            "before_position_units": 1099,
+            "after_position_units": 78,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        },
+        {
+          "run_id": "disp-batch-1sets-20260920_165643-68f61d-s01r10-900mg-80hz-22pct",
+          "result": "failed",
+          "powder_id": "powder-20260814-143554-702da0",
+          "powder_name": "封堵剂1",
+          "final_mass_mg": 923.0,
+          "error": null,
+          "acceptance_error": "final stable mass outside 890-910 mg: 923.0 mg",
+          "window_close_after_run": {
+            "before_position_units": 1101,
+            "after_position_units": 83,
+            "distance_register": 500,
+            "already_closed": false
+          },
+          "window_close_error": null
+        }
+      ]
+    }
+  ],
+  "started_at_utc": "2026-09-20T08:56:43.908587+00:00",
+  "result": "completed",
+  "acceptance_passed": false,
+  "cross_set_summary": {
+    "total_sets": 1,
+    "passed_sets": 0,
+    "pass_rate": 0.0,
+    "avg_final_mass_mg": 918.3
+  },
+  "finished_at_utc": "2026-09-20T09:05:54.961405+00:00"
+}

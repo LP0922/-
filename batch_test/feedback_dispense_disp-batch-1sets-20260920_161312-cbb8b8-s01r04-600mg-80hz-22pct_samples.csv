@@ -1,0 +1,89 @@
+﻿elapsed_s,measurement_read_s,mass_mg,filtered_mass_mg,predicted_mass_mg,rate_valid,rate_mg_s,predicted_rate_mg_s,control_rate_mg_s,acceleration_mg_s2,jerk_mg_s3,estimated_tail_mg,projected_stop_mass_mg,predictive_stop_candidate,stop_confirmation_count,stop_confirmation_required,stall_recovery_active,stall_recovery_attempt,stage,target_rate_mg_s,frequency_hz,duty_permyriad,window_position_units,stable,status_word,reason
+5.86,0.125,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.063,0.094,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.25,0.078,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.469,0.109,7.0,3.15,6.204,False,3.196,4.948,4.948,2.335,2.133,9.036,16.036,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+6.735,0.157,7.0,5.396,9.924,False,4.914,7.16,7.16,2.995,2.202,10.746,17.746,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+6.985,0.141,19.0,12.245,21.903,False,10.576,15.18,15.18,6.139,4.277,17.13,36.13,False,0,2,False,0,coarse,15.0,80,2200,1100,False,0,motion estimate not valid; hold seed parameters
+7.203,0.093,23.0,18.433,32.738,False,15.723,22.424,22.424,8.935,5.987,22.886,45.886,False,0,2,False,0,coarse,15.0,80,2200,1100,False,0,motion estimate not valid; hold seed parameters
+7.469,0.156,29.0,25.662,43.847,True,20.381,28.112,28.112,10.307,5.821,27.203,56.203,False,0,2,False,0,coarse,15.0,80,2120,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+7.719,0.141,36.0,33.294,55.242,True,24.926,33.601,33.601,11.567,5.664,31.355,67.355,False,0,2,False,0,coarse,15.0,80,2120,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+8.0,0.156,44.0,42.215,67.652,True,29.331,38.5,38.5,12.224,5.0,34.945,78.945,False,0,2,False,0,coarse,15.0,80,2040,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+8.266,0.156,52.0,51.147,79.558,True,33.166,42.597,42.597,12.575,4.263,37.899,89.899,False,0,2,False,0,coarse,15.0,80,2040,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+8.547,0.172,60.0,60.53,91.279,True,36.357,45.641,45.641,12.38,3.272,39.982,99.982,False,0,2,False,0,coarse,15.0,80,1960,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+8.797,0.141,69.0,69.553,102.249,True,39.049,48.141,48.141,12.122,2.411,41.668,110.668,False,0,2,False,0,coarse,15.0,80,1960,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+9.0,0.094,74.0,76.051,108.808,True,39.672,47.678,47.678,10.674,0.502,40.99,114.99,False,0,2,False,0,coarse,15.0,80,1960,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+9.25,0.14,81.0,83.917,116.702,True,40.22,47.207,47.207,9.316,-0.684,40.702,121.702,False,0,2,False,0,coarse,15.0,80,1880,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+9.469,0.094,86.0,89.822,121.105,True,39.087,44.336,44.336,6.998,-2.664,40.105,126.105,False,0,2,False,0,coarse,15.0,80,1880,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+9.735,0.157,95.0,98.006,128.797,True,38.894,43.215,43.215,5.762,-3.061,38.797,133.797,False,0,2,False,0,coarse,15.0,80,1880,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+9.985,0.141,102.0,105.25,134.923,True,37.97,41.157,41.157,4.249,-3.659,37.923,139.923,False,0,2,False,0,coarse,15.0,80,1800,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+10.203,0.109,109.0,111.546,139.883,True,36.773,38.791,38.791,2.691,-4.357,35.883,144.883,False,0,2,False,0,coarse,15.0,80,1800,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+10.469,0.156,117.0,119.433,146.778,True,35.826,37.094,37.094,1.691,-4.238,34.778,151.778,False,0,2,False,0,coarse,15.0,80,1800,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+10.719,0.141,125.0,126.893,153.275,True,34.872,35.479,35.479,0.81,-4.095,33.275,158.275,False,0,2,False,0,coarse,15.0,80,1720,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+10.938,0.11,130.0,132.502,157.032,True,32.972,32.441,32.972,-0.708,-4.662,32.032,162.032,False,0,2,False,0,coarse,15.0,80,1720,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+11.203,0.156,138.0,139.768,163.041,True,31.571,30.491,31.571,-1.441,-4.282,30.041,168.041,False,0,2,False,0,coarse,15.0,80,1720,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+11.453,0.14,145.0,146.439,168.469,True,30.165,28.582,30.165,-2.11,-3.962,28.469,173.469,False,0,2,False,0,coarse,15.0,80,1640,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+11.672,0.109,151.0,152.097,172.91,True,28.792,26.71,28.792,-2.776,-3.777,26.91,177.91,False,0,2,False,0,coarse,15.0,80,1640,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+11.938,0.157,159.0,159.361,179.394,True,27.806,25.613,27.806,-2.924,-3.133,25.394,184.394,False,0,2,False,0,coarse,15.0,80,1640,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+12.188,0.141,166.0,166.122,185.524,True,26.987,24.751,26.987,-2.981,-2.552,24.524,190.524,False,0,2,False,0,coarse,15.0,80,1560,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+12.406,0.109,171.0,171.514,190.018,True,25.908,23.437,25.908,-3.296,-2.33,24.018,195.018,False,0,2,False,0,coarse,15.0,80,1560,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+12.672,0.156,180.0,179.059,197.497,True,25.675,23.493,25.675,-2.909,-1.573,22.972,202.972,False,0,2,False,0,coarse,15.0,80,1560,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+12.922,0.141,187.0,186.113,204.606,True,25.593,23.721,25.593,-2.496,-0.928,22.915,209.915,False,0,2,False,0,coarse,15.0,80,1480,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+13.141,0.11,194.0,192.712,211.817,True,26.116,24.83,26.116,-1.714,-0.029,23.281,217.281,False,0,2,False,0,coarse,15.0,80,1480,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+13.391,0.141,202.0,200.453,220.283,True,26.813,26.067,26.813,-0.994,0.553,23.769,225.769,False,0,2,False,0,coarse,15.0,80,1480,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+13.594,0.094,208.0,206.831,227.527,True,27.657,27.53,27.657,-0.169,1.255,24.527,232.527,False,0,2,False,0,coarse,15.0,80,1400,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+13.797,0.094,214.0,213.143,234.559,True,28.39,28.717,28.717,0.435,1.6,25.559,239.559,False,0,2,False,0,coarse,15.0,80,1400,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+14.063,0.141,221.0,220.841,242.443,True,28.615,28.991,28.991,0.501,1.329,26.443,247.443,False,0,2,False,0,coarse,15.0,80,1400,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+14.266,0.094,228.0,227.263,249.583,True,29.377,30.143,30.143,1.021,1.576,26.583,254.583,False,0,2,False,0,coarse,15.0,80,1320,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+14.453,0.078,235.0,233.776,257.418,True,30.758,32.288,32.288,2.04,2.35,28.101,263.101,False,0,2,False,0,coarse,15.0,80,1320,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+14.735,0.157,244.0,243.192,267.739,True,31.854,33.606,33.606,2.335,2.09,29.096,273.096,False,0,2,False,0,coarse,15.0,80,1320,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+14.938,0.094,250.0,249.839,274.882,True,32.473,34.31,34.31,2.449,1.784,29.882,279.882,False,0,2,False,0,coarse,15.0,80,1240,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+15.188,0.141,259.0,258.468,284.331,True,33.472,35.494,35.494,2.697,1.625,30.507,289.507,False,0,2,False,0,coarse,15.0,80,1240,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+15.406,0.109,265.0,265.456,291.395,True,33.679,35.492,35.492,2.418,1.044,31.395,296.395,False,0,2,False,0,coarse,15.0,80,1240,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+15.656,0.156,273.0,273.523,299.562,True,33.903,35.534,35.534,2.174,0.64,31.562,304.562,False,0,2,False,0,coarse,15.0,80,1160,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+15.86,0.094,278.0,279.367,304.556,True,33.129,34.043,34.043,1.219,-0.424,31.556,309.556,False,0,2,False,0,coarse,15.0,80,1160,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+16.141,0.172,286.0,287.498,312.062,True,32.502,33.002,33.002,0.667,-0.732,31.062,317.062,False,0,2,False,0,coarse,15.0,80,1160,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+16.391,0.141,293.0,294.454,318.159,True,31.611,31.603,31.611,-0.01,-1.127,30.159,323.159,False,0,2,False,0,coarse,15.0,80,1080,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+16.594,0.094,299.0,300.029,322.837,True,30.687,30.134,30.687,-0.737,-1.618,28.837,327.837,False,0,2,False,0,coarse,15.0,80,1080,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+16.797,0.094,304.0,305.234,326.856,True,29.432,28.226,29.432,-1.608,-2.152,27.856,331.856,False,0,2,False,0,coarse,15.0,80,1080,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+17.063,0.157,312.0,312.553,333.507,True,28.626,27.25,28.626,-1.835,-1.893,26.507,338.507,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+17.328,0.156,322.0,320.941,342.198,True,28.866,27.819,28.866,-1.397,-1.183,25.206,347.206,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+17.516,0.078,329.0,327.539,349.997,True,30.017,29.872,30.017,-0.194,0.333,26.012,355.012,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+17.735,0.094,336.0,334.959,358.211,True,30.838,31.166,31.166,0.437,0.843,27.211,363.211,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+18.0,0.156,344.0,343.531,367.166,True,31.276,31.75,31.75,0.632,0.821,28.166,372.166,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+18.25,0.14,354.0,352.553,377.285,True,32.486,33.465,33.465,1.305,1.195,28.745,382.745,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+18.469,0.109,359.0,359.384,384.026,True,32.453,33.257,33.257,1.072,0.743,30.026,389.026,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+18.735,0.157,368.0,368.03,392.866,True,32.717,33.512,33.512,1.059,0.585,29.866,397.866,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+18.985,0.141,377.0,376.583,401.9,True,33.285,34.225,34.225,1.253,0.623,29.9,406.9,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+19.203,0.109,384.0,383.928,409.507,True,33.618,34.591,34.591,1.297,0.539,30.507,414.507,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+19.469,0.156,393.0,392.954,418.82,True,33.995,34.982,34.982,1.316,0.445,30.82,423.82,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+19.719,0.141,401.0,401.272,427.201,True,34.126,35.018,35.018,1.19,0.255,31.201,432.201,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+20.0,0.156,409.0,410.049,435.611,True,33.781,34.384,34.384,0.803,-0.071,31.611,440.611,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+20.266,0.156,417.0,418.135,443.144,True,33.219,33.472,33.472,0.336,-0.408,31.144,448.144,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+20.531,0.156,425.0,426.072,450.472,True,32.573,32.492,32.573,-0.108,-0.661,30.472,455.472,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+20.797,0.156,435.0,434.853,459.323,True,32.644,32.609,32.644,-0.048,-0.484,29.323,464.323,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+21.0,0.094,441.0,441.263,465.497,True,32.399,32.224,32.399,-0.233,-0.57,29.497,470.497,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+21.25,0.14,450.0,449.646,474.075,True,32.598,32.547,32.598,-0.069,-0.324,29.075,479.075,False,0,2,False,0,coarse,15.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+21.469,0.109,456.0,456.431,480.507,True,32.225,31.978,32.225,-0.33,-0.498,29.507,485.507,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+21.735,0.157,464.0,464.545,488.213,True,31.765,31.35,31.765,-0.554,-0.567,29.213,493.213,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+21.985,0.141,470.0,471.358,494.004,True,30.639,29.75,30.639,-1.186,-0.959,29.004,499.004,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+22.203,0.109,475.0,476.655,497.787,True,29.0,27.351,29.0,-2.199,-1.697,27.787,502.787,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+22.469,0.156,482.0,483.26,503.161,True,27.554,25.516,27.554,-2.717,-1.747,26.161,508.161,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+22.719,0.141,489.0,489.585,508.581,True,26.449,24.207,26.449,-2.989,-1.615,24.581,513.581,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+22.938,0.11,494.0,494.718,512.654,True,25.198,22.629,25.198,-3.425,-1.69,23.654,517.654,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+23.125,0.094,500.0,499.654,517.442,True,24.894,22.542,24.894,-3.137,-1.044,22.442,522.442,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+23.328,0.093,505.0,504.803,522.285,True,24.434,22.185,24.434,-2.998,-0.698,22.285,527.285,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+23.531,0.093,512.0,510.736,528.862,True,24.957,23.378,24.957,-2.106,0.32,22.47,534.47,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+23.797,0.156,519.0,518.065,536.358,True,25.036,23.745,25.036,-1.721,0.545,22.525,541.525,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+24.063,0.157,527.0,525.715,544.472,True,25.457,24.562,25.457,-1.193,0.833,22.82,549.82,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+24.344,0.172,534.0,533.352,552.239,True,25.541,24.825,25.541,-0.954,0.837,23.239,557.239,False,0,2,False,0,fine,6.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+24.594,0.141,541.0,540.289,559.478,True,25.819,25.352,25.819,-0.623,0.934,23.478,564.478,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+24.797,0.094,545.0,545.285,564.131,True,25.438,24.82,25.438,-0.824,0.549,24.131,569.131,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+24.985,0.079,552.0,550.929,570.684,True,26.319,26.362,26.362,0.058,1.378,23.684,575.684,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+25.203,0.109,558.0,557.267,577.617,True,26.943,27.322,27.322,0.506,1.514,24.617,582.617,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+25.469,0.156,564.0,564.249,584.543,True,26.907,27.21,27.21,0.404,1.134,25.543,589.543,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+25.719,0.141,572.0,571.443,592.19,True,27.413,27.91,27.91,0.663,1.114,25.19,597.19,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+25.938,0.11,577.0,577.255,597.908,True,27.347,27.728,27.728,0.509,0.751,25.908,602.908,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+26.188,0.141,583.0,583.609,603.946,True,27.031,27.2,27.2,0.225,0.374,25.946,608.946,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+26.391,0.094,587.0,588.156,607.521,True,26.042,25.599,26.042,-0.591,-0.505,25.521,612.521,False,0,2,False,0,fine,3.0,80,1000,1100,False,0,predicted flow is above the overspeed guard; reduce duty
+26.61,0.11,591.0,592.565,610.592,True,24.614,23.459,24.614,-1.54,-1.27,24.592,615.592,False,0,2,False,0,settle,0.0,80,1000,1100,False,0,force stop: mass 591.0 >= 590 mg

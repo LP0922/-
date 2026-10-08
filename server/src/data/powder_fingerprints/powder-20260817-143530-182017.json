@@ -1,0 +1,334 @@
+{
+  "powder_id": "powder-20260817-143530-182017",
+  "powder_name": "封堵剂2",
+  "created_at": "2026-08-17T06:35:30.394597+00:00",
+  "probe_parameters": {
+    "frequency_hz": 40,
+    "duty_permyriad": 2000,
+    "window_position_units": 250,
+    "duration_s": 10.0
+  },
+  "feature_vector": {
+    "startup_delay_s": 1.125,
+    "steady_rate_mg_s": 39.02,
+    "rate_cv_pct": 35.4,
+    "tail_mass_mg": 22.0,
+    "settling_time_s": 1.953
+  },
+  "classification": {
+    "category": "Medium-flow",
+    "tags": []
+  },
+  "applied_profile": {
+    "preset_id": "80hz-22pct-p400-plugging-agent-2",
+    "maximum_flow_rate_mg_s": 40.0,
+    "fixed_tail_mass_mg": 2.0,
+    "force_stop_offset_mg": 10.0,
+    "max_duty_permyriad": 3000,
+    "flow_hold_enabled": true,
+    "flow_hold_window_s": 4.0,
+    "flow_hold_min_gain_mg": 20.0,
+    "flow_response_check_s": 4.0,
+    "flow_response_min_improvement_mg_s": 1.0,
+    "duty_step_per_update": 30,
+    "emergency_duty_step_per_update": 80,
+    "position_feedback_enabled": false,
+    "profile_overrides": {
+      "100": {
+        "coarse_rate_mg_s": 25.0,
+        "fine_rate_mg_s": 15.0,
+        "precision_start_remaining_mg": 40.0,
+        "tail_taper_start_remaining_mg": 70.0,
+        "tail_taper_end_remaining_mg": 15.0
+      }
+    }
+  },
+  "probe_raw_summary": {
+    "startup_phase": [
+      {
+        "elapsed_s": 0.14,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.328,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.531,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.718,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.937,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 1.125,
+        "mass_mg": 24.0
+      },
+      {
+        "elapsed_s": 1.328,
+        "mass_mg": 34.0
+      },
+      {
+        "elapsed_s": 1.531,
+        "mass_mg": 47.0
+      },
+      {
+        "elapsed_s": 1.734,
+        "mass_mg": 62.0
+      },
+      {
+        "elapsed_s": 1.922,
+        "mass_mg": 76.0
+      }
+    ],
+    "steady_phase": [
+      {
+        "elapsed_s": 0.14,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.328,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.531,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.718,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 0.937,
+        "mass_mg": 12.0
+      },
+      {
+        "elapsed_s": 1.125,
+        "mass_mg": 24.0
+      },
+      {
+        "elapsed_s": 1.328,
+        "mass_mg": 34.0
+      },
+      {
+        "elapsed_s": 1.531,
+        "mass_mg": 47.0
+      },
+      {
+        "elapsed_s": 1.734,
+        "mass_mg": 62.0
+      },
+      {
+        "elapsed_s": 1.922,
+        "mass_mg": 76.0
+      },
+      {
+        "elapsed_s": 2.125,
+        "mass_mg": 90.0
+      },
+      {
+        "elapsed_s": 2.328,
+        "mass_mg": 104.0
+      },
+      {
+        "elapsed_s": 2.531,
+        "mass_mg": 117.0
+      },
+      {
+        "elapsed_s": 2.734,
+        "mass_mg": 131.0
+      },
+      {
+        "elapsed_s": 3.0,
+        "mass_mg": 148.0
+      },
+      {
+        "elapsed_s": 3.187,
+        "mass_mg": 161.0
+      },
+      {
+        "elapsed_s": 3.39,
+        "mass_mg": 174.0
+      },
+      {
+        "elapsed_s": 3.609,
+        "mass_mg": 186.0
+      },
+      {
+        "elapsed_s": 3.797,
+        "mass_mg": 198.0
+      },
+      {
+        "elapsed_s": 4.0,
+        "mass_mg": 208.0
+      },
+      {
+        "elapsed_s": 4.187,
+        "mass_mg": 216.0
+      },
+      {
+        "elapsed_s": 4.406,
+        "mass_mg": 224.0
+      },
+      {
+        "elapsed_s": 4.593,
+        "mass_mg": 232.0
+      },
+      {
+        "elapsed_s": 4.797,
+        "mass_mg": 240.0
+      },
+      {
+        "elapsed_s": 5.0,
+        "mass_mg": 247.0
+      },
+      {
+        "elapsed_s": 5.203,
+        "mass_mg": 254.0
+      },
+      {
+        "elapsed_s": 5.39,
+        "mass_mg": 262.0
+      },
+      {
+        "elapsed_s": 5.609,
+        "mass_mg": 269.0
+      },
+      {
+        "elapsed_s": 5.797,
+        "mass_mg": 275.0
+      },
+      {
+        "elapsed_s": 6.0,
+        "mass_mg": 281.0
+      },
+      {
+        "elapsed_s": 6.187,
+        "mass_mg": 286.0
+      },
+      {
+        "elapsed_s": 6.406,
+        "mass_mg": 291.0
+      },
+      {
+        "elapsed_s": 6.593,
+        "mass_mg": 297.0
+      },
+      {
+        "elapsed_s": 6.797,
+        "mass_mg": 302.0
+      },
+      {
+        "elapsed_s": 7.0,
+        "mass_mg": 309.0
+      },
+      {
+        "elapsed_s": 7.203,
+        "mass_mg": 316.0
+      },
+      {
+        "elapsed_s": 7.39,
+        "mass_mg": 324.0
+      },
+      {
+        "elapsed_s": 7.609,
+        "mass_mg": 331.0
+      },
+      {
+        "elapsed_s": 7.797,
+        "mass_mg": 338.0
+      },
+      {
+        "elapsed_s": 8.0,
+        "mass_mg": 345.0
+      },
+      {
+        "elapsed_s": 8.187,
+        "mass_mg": 351.0
+      },
+      {
+        "elapsed_s": 8.406,
+        "mass_mg": 358.0
+      },
+      {
+        "elapsed_s": 8.593,
+        "mass_mg": 366.0
+      },
+      {
+        "elapsed_s": 8.797,
+        "mass_mg": 374.0
+      },
+      {
+        "elapsed_s": 9.0,
+        "mass_mg": 381.0
+      },
+      {
+        "elapsed_s": 9.203,
+        "mass_mg": 392.0
+      },
+      {
+        "elapsed_s": 9.39,
+        "mass_mg": 402.0
+      },
+      {
+        "elapsed_s": 9.593,
+        "mass_mg": 412.0
+      },
+      {
+        "elapsed_s": 9.797,
+        "mass_mg": 422.0
+      },
+      {
+        "elapsed_s": 10.0,
+        "mass_mg": 430.0
+      }
+    ],
+    "settling_phase": [
+      {
+        "elapsed_s": 0.078,
+        "mass_mg": 437.0
+      },
+      {
+        "elapsed_s": 0.297,
+        "mass_mg": 441.0
+      },
+      {
+        "elapsed_s": 0.484,
+        "mass_mg": 445.0
+      },
+      {
+        "elapsed_s": 0.688,
+        "mass_mg": 449.0
+      },
+      {
+        "elapsed_s": 0.891,
+        "mass_mg": 451.0
+      },
+      {
+        "elapsed_s": 1.156,
+        "mass_mg": 452.0
+      },
+      {
+        "elapsed_s": 1.344,
+        "mass_mg": 452.0
+      },
+      {
+        "elapsed_s": 1.547,
+        "mass_mg": 452.0
+      },
+      {
+        "elapsed_s": 1.75,
+        "mass_mg": 452.0
+      },
+      {
+        "elapsed_s": 1.953,
+        "mass_mg": 452.0
+      }
+    ]
+  }
+}

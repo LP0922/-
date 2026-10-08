@@ -1,0 +1,349 @@
+{
+  "powder_id": "bentonite",
+  "powder_name": "膨润土",
+  "created_at": "2026-08-11T02:11:54.149694+00:00",
+  "probe_parameters": {
+    "frequency_hz": 40,
+    "duty_permyriad": 2000,
+    "window_position_units": 250,
+    "duration_s": 10.0
+  },
+  "feature_vector": {
+    "startup_delay_s": 1.125,
+    "steady_rate_mg_s": 35.47,
+    "rate_cv_pct": 24.3,
+    "tail_mass_mg": 34.0,
+    "settling_time_s": 2.157
+  },
+  "classification": {
+    "category": "Medium-flow",
+    "tags": []
+  },
+  "applied_profile": {
+    "control_profile_status": "validated",
+    "validated_target_masses_mg": [1000],
+    "preset_id": "80hz-22pct-p300-bentonite",
+    "maximum_flow_rate_mg_s": 50.0,
+    "fixed_tail_mass_mg": 5.0,
+    "fast_predictive_stop_enabled": true,
+    "fast_predictive_stop_rate_mg_s": 20.0,
+    "fast_predictive_stop_confirmations": 1,
+    "projected_safety_stop_enabled": true,
+    "projected_safety_stop_offset_mg": 5.0,
+    "force_stop_offset_mg": 10.0,
+    "duty_step_per_update": 50,
+    "emergency_duty_step_per_update": 200,
+    "position_feedback_enabled": false,
+    "max_duty_permyriad": 5000,
+    "flow_hold_enabled": false,
+    "profile_overrides": {
+      "100": {
+        "coarse_rate_mg_s": 25.0,
+        "fine_rate_mg_s": 15.0,
+        "precision_start_remaining_mg": 40.0,
+        "tail_taper_start_remaining_mg": 70.0,
+        "tail_taper_end_remaining_mg": 15.0
+      },
+      "1000": {
+        "coarse_rate_mg_s": 35.0,
+        "fine_rate_mg_s": 20.0,
+        "precision_rate_mg_s": 14.0,
+        "precision_start_remaining_mg": 37.5,
+        "tail_taper_start_remaining_mg": 137.5,
+        "tail_taper_end_remaining_mg": 10.0
+      }
+    }
+  },
+  "probe_raw_summary": {
+    "startup_phase": [
+      {
+        "elapsed_s": 0.109,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.312,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.515,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.719,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.906,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.125,
+        "mass_mg": 20.0
+      },
+      {
+        "elapsed_s": 1.312,
+        "mass_mg": 31.0
+      },
+      {
+        "elapsed_s": 1.515,
+        "mass_mg": 45.0
+      },
+      {
+        "elapsed_s": 1.703,
+        "mass_mg": 59.0
+      },
+      {
+        "elapsed_s": 1.922,
+        "mass_mg": 68.0
+      }
+    ],
+    "steady_phase": [
+      {
+        "elapsed_s": 0.109,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.312,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.515,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.719,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 0.906,
+        "mass_mg": 0.0
+      },
+      {
+        "elapsed_s": 1.125,
+        "mass_mg": 20.0
+      },
+      {
+        "elapsed_s": 1.312,
+        "mass_mg": 31.0
+      },
+      {
+        "elapsed_s": 1.515,
+        "mass_mg": 45.0
+      },
+      {
+        "elapsed_s": 1.703,
+        "mass_mg": 59.0
+      },
+      {
+        "elapsed_s": 1.922,
+        "mass_mg": 68.0
+      },
+      {
+        "elapsed_s": 2.109,
+        "mass_mg": 78.0
+      },
+      {
+        "elapsed_s": 2.312,
+        "mass_mg": 87.0
+      },
+      {
+        "elapsed_s": 2.515,
+        "mass_mg": 97.0
+      },
+      {
+        "elapsed_s": 2.719,
+        "mass_mg": 106.0
+      },
+      {
+        "elapsed_s": 2.906,
+        "mass_mg": 115.0
+      },
+      {
+        "elapsed_s": 3.125,
+        "mass_mg": 124.0
+      },
+      {
+        "elapsed_s": 3.312,
+        "mass_mg": 133.0
+      },
+      {
+        "elapsed_s": 3.515,
+        "mass_mg": 143.0
+      },
+      {
+        "elapsed_s": 3.703,
+        "mass_mg": 152.0
+      },
+      {
+        "elapsed_s": 3.922,
+        "mass_mg": 161.0
+      },
+      {
+        "elapsed_s": 4.109,
+        "mass_mg": 171.0
+      },
+      {
+        "elapsed_s": 4.312,
+        "mass_mg": 180.0
+      },
+      {
+        "elapsed_s": 4.515,
+        "mass_mg": 187.0
+      },
+      {
+        "elapsed_s": 4.719,
+        "mass_mg": 194.0
+      },
+      {
+        "elapsed_s": 4.906,
+        "mass_mg": 201.0
+      },
+      {
+        "elapsed_s": 5.109,
+        "mass_mg": 207.0
+      },
+      {
+        "elapsed_s": 5.312,
+        "mass_mg": 213.0
+      },
+      {
+        "elapsed_s": 5.515,
+        "mass_mg": 220.0
+      },
+      {
+        "elapsed_s": 5.703,
+        "mass_mg": 226.0
+      },
+      {
+        "elapsed_s": 5.922,
+        "mass_mg": 232.0
+      },
+      {
+        "elapsed_s": 6.109,
+        "mass_mg": 239.0
+      },
+      {
+        "elapsed_s": 6.312,
+        "mass_mg": 245.0
+      },
+      {
+        "elapsed_s": 6.515,
+        "mass_mg": 252.0
+      },
+      {
+        "elapsed_s": 6.719,
+        "mass_mg": 259.0
+      },
+      {
+        "elapsed_s": 6.906,
+        "mass_mg": 265.0
+      },
+      {
+        "elapsed_s": 7.109,
+        "mass_mg": 272.0
+      },
+      {
+        "elapsed_s": 7.312,
+        "mass_mg": 279.0
+      },
+      {
+        "elapsed_s": 7.515,
+        "mass_mg": 286.0
+      },
+      {
+        "elapsed_s": 7.703,
+        "mass_mg": 292.0
+      },
+      {
+        "elapsed_s": 7.922,
+        "mass_mg": 298.0
+      },
+      {
+        "elapsed_s": 8.109,
+        "mass_mg": 305.0
+      },
+      {
+        "elapsed_s": 8.312,
+        "mass_mg": 311.0
+      },
+      {
+        "elapsed_s": 8.515,
+        "mass_mg": 317.0
+      },
+      {
+        "elapsed_s": 8.719,
+        "mass_mg": 324.0
+      },
+      {
+        "elapsed_s": 8.906,
+        "mass_mg": 330.0
+      },
+      {
+        "elapsed_s": 9.109,
+        "mass_mg": 337.0
+      },
+      {
+        "elapsed_s": 9.312,
+        "mass_mg": 343.0
+      },
+      {
+        "elapsed_s": 9.515,
+        "mass_mg": 350.0
+      },
+      {
+        "elapsed_s": 9.703,
+        "mass_mg": 357.0
+      },
+      {
+        "elapsed_s": 9.922,
+        "mass_mg": 364.0
+      }
+    ],
+    "settling_phase": [
+      {
+        "elapsed_s": 0.157,
+        "mass_mg": 373.0
+      },
+      {
+        "elapsed_s": 0.36,
+        "mass_mg": 378.0
+      },
+      {
+        "elapsed_s": 0.563,
+        "mass_mg": 384.0
+      },
+      {
+        "elapsed_s": 0.766,
+        "mass_mg": 389.0
+      },
+      {
+        "elapsed_s": 0.954,
+        "mass_mg": 393.0
+      },
+      {
+        "elapsed_s": 1.157,
+        "mass_mg": 396.0
+      },
+      {
+        "elapsed_s": 1.36,
+        "mass_mg": 398.0
+      },
+      {
+        "elapsed_s": 1.563,
+        "mass_mg": 398.0
+      },
+      {
+        "elapsed_s": 1.75,
+        "mass_mg": 398.0
+      },
+      {
+        "elapsed_s": 1.969,
+        "mass_mg": 398.0
+      },
+      {
+        "elapsed_s": 2.157,
+        "mass_mg": 398.0
+      }
+    ]
+  }
+}

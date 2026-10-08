@@ -1,0 +1,74 @@
+{
+  "profiles": [
+    {
+      "profile_id": "reference-powder-100mg-v1",
+      "powder_type": "reference_powder",
+      "powder_batch": "reference_batch",
+      "feeder_head": "la10_vibration_head",
+      "recipe_version": "v1",
+      "target_mass_mg": 100,
+      "slow_entry_margin_mg": 25,
+      "fine_entry_margin_mg": 5,
+      "hard_overweight_margin_mg": 8,
+      "coarse": {
+        "window_position_units": 500,
+        "frequency_hz": 30,
+        "duty_permyriad": 3000,
+        "reference_mg_per_s": 25.0,
+        "min_duration_ms": 300,
+        "max_duration_ms": 4000
+      },
+      "slow": {
+        "window_position_units": 470,
+        "frequency_hz": 20,
+        "duty_permyriad": 2200,
+        "reference_mg_per_s": 10.0,
+        "min_duration_ms": 120,
+        "max_duration_ms": 700
+      },
+      "fine": {
+        "window_position_units": 430,
+        "frequency_hz": 10,
+        "duty_permyriad": 1200,
+        "reference_mg_per_s": 3.0,
+        "min_duration_ms": 80,
+        "max_duration_ms": 250
+      }
+    },
+    {
+      "profile_id": "reference-powder-500mg-v1",
+      "powder_type": "reference_powder",
+      "powder_batch": "reference_batch",
+      "feeder_head": "la10_vibration_head",
+      "recipe_version": "v1",
+      "target_mass_mg": 500,
+      "slow_entry_margin_mg": 100,
+      "fine_entry_margin_mg": 12,
+      "hard_overweight_margin_mg": 25,
+      "coarse": {
+        "window_position_units": 550,
+        "frequency_hz": 40,
+        "duty_permyriad": 2200,
+        "reference_mg_per_s": 50.0,
+        "min_duration_ms": 500,
+        "max_duration_ms": 8000
+      },
+      "slow": {
+        "window_position_units": 500,
+        "frequency_hz": 25,
+        "duty_permyriad": 2000,
+        "reference_mg_per_s": 18.0,
+        "min_duration_ms": 150,
+        "max_duration_ms": 1000
+      },
+      "fine": {
+        "window_position_units": 430,
+        "frequency_hz": 10,
+        "duty_permyriad": 1200,
+        "reference_mg_per_s": 3.0,
+        "min_duration_ms": 80,
+        "max_duration_ms": 350
+      }
+    }
+  ]
+}

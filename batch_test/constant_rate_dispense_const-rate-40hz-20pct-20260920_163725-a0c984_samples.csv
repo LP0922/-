@@ -1,0 +1,1347 @@
+﻿elapsed_s,segment_elapsed_s,segment_index,mass_mg,raw_count,stable,status_word,filtered_mass_mg,rate_valid,rate_mg_s,acceleration_mg_s2,frequency_hz,duty_permyriad,window_position_units,target_rate_mg_s,rate_error_mg_s,locked,clogged,feedback_reason
+0.0,0.0,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.156,0.156,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.297,0.297,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.422,0.422,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.562,0.562,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.687,0.687,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.812,0.812,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+0.953,0.953,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+1.094,1.094,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+1.234,1.234,1,0.0,0,True,768,0.0,False,0.0,0.0,40,2000,1000,10.0,10.0,False,False,motion estimate not valid; hold initial parameters
+1.359,1.359,1,5.0,5,True,256,1.0,False,1.2,1.28,40,2000,1000,10.0,8.698,False,False,motion estimate not valid; hold initial parameters
+1.484,1.484,1,6.0,6,True,256,2.128,False,2.522,2.519,40,2000,1000,10.0,7.277,False,False,motion estimate not valid; hold initial parameters
+1.625,1.625,1,6.0,6,True,256,3.207,False,3.62,3.222,40,2000,1000,10.0,6.123,False,False,motion estimate not valid; hold initial parameters
+1.75,1.75,1,6.0,6,True,256,4.148,False,4.578,3.814,40,2000,1000,10.0,5.117,False,False,motion estimate not valid; hold initial parameters
+1.891,1.891,1,15.0,15,True,256,6.865,False,7.279,5.86,40,2000,1000,10.0,2.252,False,False,motion estimate not valid; hold initial parameters
+2.031,2.031,1,15.0,15,True,256,9.353,True,9.612,7.301,40,2000,1000,10.0,-0.197,True,False,flow is within ±1.5 mg/s of target; parameters locked
+2.156,2.156,1,19.0,19,False,0,12.289,True,12.538,9.448,40,2000,1000,10.0,-3.294,False,False,flow is above target; reduce duty
+2.281,2.281,1,22.0,22,False,0,15.544,True,15.656,11.514,40,2000,1000,10.0,-6.577,False,False,flow is above the overspeed guard; reduce duty
+2.422,2.422,1,24.0,24,False,0,19.093,True,18.584,12.748,40,2000,1000,10.0,-9.604,False,False,flow is above the overspeed guard; reduce duty
+2.562,2.562,1,27.0,27,False,0,22.856,True,21.479,13.805,40,2000,1000,10.0,-12.584,False,False,flow is above the overspeed guard; reduce duty
+2.687,2.687,1,29.0,29,False,0,26.319,True,24.009,14.663,40,2000,1000,10.0,-15.182,False,False,flow is above the overspeed guard; reduce duty
+2.828,2.828,1,32.0,32,False,0,30.28,True,26.534,15.096,40,2000,1000,10.0,-17.742,False,False,flow is above the overspeed guard; reduce duty
+2.953,2.953,1,35.0,35,False,0,33.972,True,28.73,15.425,40,2000,1000,10.0,-19.964,False,False,flow is above the overspeed guard; reduce duty
+3.094,3.094,1,38.0,38,False,0,38.141,True,30.867,15.389,40,1970,1000,10.0,-22.098,False,False,flow is above the overspeed guard; reduce duty
+3.234,3.234,1,40.0,40,False,0,42.09,True,32.462,14.856,40,1970,1000,10.0,-23.65,False,False,flow is above the overspeed guard; reduce duty
+3.359,3.359,1,43.0,43,False,0,45.611,True,33.535,14.021,40,1970,1000,10.0,-24.657,False,False,flow is above the overspeed guard; reduce duty
+3.5,3.5,1,45.0,45,False,0,49.383,True,34.346,12.918,40,1970,1000,10.0,-25.38,False,False,flow is above the overspeed guard; reduce duty
+3.625,3.625,1,47.0,47,False,0,52.422,True,34.335,11.183,40,1970,1000,10.0,-25.229,False,False,flow is above the overspeed guard; reduce duty
+3.75,3.75,1,50.0,50,False,0,55.441,True,34.1,9.442,40,1970,1000,10.0,-24.856,False,False,flow is above the overspeed guard; reduce duty
+3.891,3.891,1,53.0,53,False,0,58.874,True,33.869,7.965,40,1970,1000,10.0,-24.506,False,False,flow is above the overspeed guard; reduce duty
+4.016,4.016,1,55.0,55,False,0,61.536,True,32.904,5.873,40,1970,1000,10.0,-23.374,False,False,flow is above the overspeed guard; reduce duty
+4.156,4.156,1,58.0,58,False,0,64.56,True,31.969,4.199,40,1940,1000,10.0,-22.305,False,False,flow is above the overspeed guard; reduce duty
+4.312,4.312,1,59.0,59,False,0,67.479,True,30.586,2.457,40,1940,1000,10.0,-20.782,False,False,flow is above the overspeed guard; reduce duty
+4.422,4.422,1,61.0,61,False,0,68.886,True,28.168,-0.801,40,1940,1000,10.0,-18.103,False,False,flow is above the overspeed guard; reduce duty
+4.547,4.547,1,64.0,64,False,0,70.721,True,26.051,-2.952,40,1940,1000,10.0,-15.815,False,False,flow is above the overspeed guard; reduce duty
+4.687,4.687,1,67.0,67,False,0,72.871,True,24.065,-4.45,40,1940,1000,10.0,-13.709,False,False,flow is above the overspeed guard; reduce duty
+4.828,4.828,1,69.0,69,False,0,74.776,True,21.901,-5.903,40,1940,1000,10.0,-11.429,False,False,flow is above the overspeed guard; reduce duty
+4.969,4.969,1,71.0,71,False,0,76.445,True,19.621,-7.272,40,1940,1000,10.0,-9.039,False,False,flow is above the overspeed guard; reduce duty
+5.094,5.094,1,73.0,73,False,0,77.672,True,17.311,-8.767,40,1940,1000,10.0,-6.609,False,False,flow is above the overspeed guard; reduce duty
+5.219,5.219,1,75.0,75,False,0,78.814,True,15.07,-9.988,40,1940,1000,10.0,-4.271,False,False,flow is above target; reduce duty
+5.359,5.359,1,77.0,77,False,0,80.061,True,12.852,-10.768,40,1940,1000,10.0,-1.991,False,False,flow is above target; reduce duty
+5.484,5.484,1,77.0,77,True,256,80.667,True,10.406,-11.942,40,1940,1000,10.0,0.549,True,False,flow is within ±1.5 mg/s of target; parameters locked
+5.625,5.625,1,77.0,77,True,256,81.012,True,7.655,-12.951,40,1940,1000,10.0,3.381,False,False,flow is below target; increase duty
+5.766,5.766,1,85.0,85,False,0,82.57,True,6.476,-12.34,40,1940,1000,10.0,4.512,False,False,flow is below target; increase duty
+5.891,5.891,1,86.0,86,True,256,83.827,True,5.585,-11.644,40,1940,1000,10.0,5.346,False,False,flow is below target; increase duty
+6.016,6.016,1,86.0,86,False,0,84.747,True,4.505,-11.243,40,1940,1000,10.0,6.394,False,False,flow is below target; increase duty
+6.156,6.156,1,91.0,91,False,0,86.414,True,4.16,-10.073,40,1960,1000,10.0,6.646,False,False,flow is below target; increase duty
+6.297,6.297,1,93.0,93,False,0,88.12,True,4.037,-8.846,40,1960,1000,10.0,6.67,False,False,flow is below target; increase duty
+6.422,6.422,1,93.0,93,False,0,89.445,True,3.998,-7.708,40,1960,1000,10.0,6.619,False,False,flow is below target; increase duty
+6.562,6.562,1,98.0,98,True,256,91.543,True,4.648,-6.061,40,1960,1000,10.0,5.837,False,False,flow is below target; increase duty
+6.687,6.687,1,99.0,99,True,256,93.461,True,5.552,-4.289,40,1960,1000,10.0,4.791,False,False,flow is below target; increase duty
+6.812,6.812,1,99.0,99,True,256,95.098,True,6.187,-3.04,40,1960,1000,10.0,4.056,False,False,flow is below target; increase duty
+6.953,6.953,1,99.0,99,True,256,96.552,True,6.409,-2.425,40,1960,1000,10.0,3.785,False,False,flow is below target; increase duty
+7.094,7.094,1,106.0,106,True,256,99.145,True,7.891,-0.701,40,1960,1000,10.0,2.166,False,False,flow is below target; increase duty
+7.234,7.234,1,107.0,107,True,256,101.594,True,9.24,0.678,40,1960,1000,10.0,0.705,True,False,flow is within ±1.5 mg/s of target; parameters locked
+7.359,7.359,1,107.0,107,True,256,103.604,True,10.344,1.765,40,1960,1000,10.0,-0.485,True,False,flow is within ±1.5 mg/s of target; parameters locked
+7.484,7.484,1,107.0,107,True,256,105.328,True,11.066,2.3,40,1960,1000,10.0,-1.25,True,False,flow is within ±1.5 mg/s of target; parameters locked
+7.625,7.625,1,114.0,114,True,256,108.329,True,12.899,3.726,40,1960,1000,10.0,-3.197,False,False,flow is above target; reduce duty
+7.75,7.75,1,115.0,115,True,256,110.977,True,14.572,5.014,40,1960,1000,10.0,-4.973,False,False,flow is above target; reduce duty
+7.891,7.891,1,115.0,115,True,256,113.465,True,15.687,5.4,40,1940,1000,10.0,-6.119,False,False,flow is above the overspeed guard; reduce duty
+8.078,8.078,1,115.0,115,True,256,116.194,True,16.457,5.229,40,1940,1000,10.0,-6.875,False,False,flow is above the overspeed guard; reduce duty
+8.219,8.219,1,124.0,124,True,256,119.653,True,18.35,6.322,40,1940,1000,10.0,-8.856,False,False,flow is above the overspeed guard; reduce duty
+8.359,8.359,1,124.0,124,True,256,122.627,True,19.603,6.673,40,1940,1000,10.0,-10.137,False,False,flow is above the overspeed guard; reduce duty
+8.484,8.484,1,124.0,124,True,256,124.904,True,20.166,6.383,40,1940,1000,10.0,-10.677,False,False,flow is above the overspeed guard; reduce duty
+8.625,8.625,1,124.0,124,True,256,127.049,True,20.255,5.617,40,1940,1000,10.0,-10.705,False,False,flow is above the overspeed guard; reduce duty
+8.766,8.766,1,131.0,131,True,256,130.168,True,21.268,5.826,40,1940,1000,10.0,-11.734,False,False,flow is above the overspeed guard; reduce duty
+8.891,8.891,1,131.0,131,True,256,132.498,True,21.547,5.346,40,1910,1000,10.0,-11.975,False,False,flow is above the overspeed guard; reduce duty
+9.031,9.031,1,131.0,131,True,256,134.654,True,21.317,4.414,40,1910,1000,10.0,-11.67,False,False,flow is above the overspeed guard; reduce duty
+9.156,9.156,1,131.0,131,True,256,136.082,True,20.344,2.788,40,1910,1000,10.0,-10.567,False,False,flow is above the overspeed guard; reduce duty
+9.281,9.281,1,139.0,139,True,256,138.718,True,20.777,2.878,40,1910,1000,10.0,-11.008,False,False,flow is above the overspeed guard; reduce duty
+9.422,9.422,1,139.0,139,True,256,141.141,True,20.614,2.34,40,1910,1000,10.0,-10.801,False,False,flow is above the overspeed guard; reduce duty
+9.562,9.562,1,139.0,139,True,256,143.04,True,19.86,1.309,40,1910,1000,10.0,-9.964,False,False,flow is above the overspeed guard; reduce duty
+9.687,9.687,1,139.0,139,True,256,144.226,True,18.455,-0.363,40,1910,1000,10.0,-8.426,False,False,flow is above the overspeed guard; reduce duty
+9.812,9.812,1,145.0,145,True,256,146.224,True,18.043,-0.754,40,1910,1000,10.0,-7.983,False,False,flow is above the overspeed guard; reduce duty
+9.953,9.953,1,145.0,145,True,256,148.008,True,17.136,-1.511,40,1890,1000,10.0,-7.016,False,False,flow is above the overspeed guard; reduce duty
+10.094,10.094,1,145.0,145,True,256,149.328,True,15.772,-2.599,40,1890,1000,10.0,-5.564,False,False,flow is above the overspeed guard; reduce duty
+10.234,10.234,1,145.0,145,True,256,150.208,True,14.013,-3.928,40,1890,1000,10.0,-3.699,False,False,flow is above target; reduce duty
+10.359,10.359,1,151.0,151,True,256,151.743,True,13.299,-4.166,40,1890,1000,10.0,-2.966,False,False,flow is above target; reduce duty
+10.484,10.484,1,152.0,152,True,256,153.099,True,12.449,-4.518,40,1890,1000,10.0,-2.088,False,False,flow is above target; reduce duty
+10.625,10.625,1,152.0,152,True,256,154.247,True,11.214,-5.083,40,1890,1000,10.0,-0.808,True,False,flow is within ±1.5 mg/s of target; parameters locked
+10.766,10.766,1,152.0,152,True,256,155.022,True,9.694,-5.843,40,1890,1000,10.0,0.774,True,False,flow is within ±1.5 mg/s of target; parameters locked
+10.891,10.891,1,152.0,152,True,256,155.351,True,7.958,-6.915,40,1890,1000,10.0,2.595,False,False,flow is below target; increase duty
+11.031,11.031,1,157.0,157,True,256,156.518,True,7.119,-6.792,40,1890,1000,10.0,3.424,False,False,flow is below target; increase duty
+11.156,11.156,1,158.0,158,True,256,157.484,True,6.425,-6.627,40,1890,1000,10.0,4.105,False,False,flow is below target; increase duty
+11.281,11.281,1,158.0,158,True,256,158.188,True,5.541,-6.687,40,1890,1000,10.0,4.994,False,False,flow is below target; increase duty
+11.422,11.422,1,158.0,158,True,256,158.722,True,4.406,-6.869,40,1890,1000,10.0,6.144,False,False,flow is below target; increase duty
+11.562,11.562,1,158.0,158,True,256,159.017,True,3.171,-7.128,40,1890,1000,10.0,7.399,False,False,flow is below target; increase duty
+11.687,11.687,1,164.0,164,True,256,160.286,True,3.394,-5.94,40,1890,1000,10.0,7.081,False,False,flow is below target; increase duty
+11.828,11.828,1,164.0,164,True,256,161.365,True,3.258,-5.277,40,1890,1000,10.0,7.164,False,False,flow is below target; increase duty
+11.953,11.953,1,164.0,164,True,256,162.185,True,3.143,-4.696,40,1910,1000,10.0,7.233,False,False,flow is below target; increase duty
+12.094,12.094,1,164.0,164,True,256,162.865,True,2.783,-4.411,40,1910,1000,10.0,7.57,False,False,flow is below target; increase duty
+12.219,12.219,1,169.0,169,True,256,164.343,True,3.628,-2.92,40,1910,1000,10.0,6.605,False,False,flow is below target; increase duty
+12.359,12.359,1,170.0,170,True,256,165.858,True,4.329,-1.864,40,1910,1000,10.0,5.82,False,False,flow is below target; increase duty
+12.5,12.5,1,170.0,170,True,256,167.16,True,4.822,-1.149,40,1910,1000,10.0,5.27,False,False,flow is below target; increase duty
+12.625,12.625,1,170.0,170,True,256,168.203,True,5.217,-0.574,40,1910,1000,10.0,4.829,False,False,flow is below target; increase duty
+12.75,12.75,1,170.0,170,True,256,169.08,True,5.421,-0.28,40,1910,1000,10.0,4.601,False,False,flow is below target; increase duty
+12.891,12.891,1,177.0,177,True,256,171.274,True,6.905,1.16,40,1910,1000,10.0,3.002,False,False,flow is below target; increase duty
+13.016,13.016,1,177.0,177,True,256,173.117,True,8.215,2.403,40,1910,1000,10.0,1.593,False,False,flow is below target; increase duty
+13.156,13.156,1,177.0,177,True,256,174.832,True,9.132,2.956,40,1910,1000,10.0,0.631,True,False,flow is within ±1.5 mg/s of target; parameters locked
+13.297,13.297,1,177.0,177,True,256,176.319,True,9.73,3.127,40,1910,1000,10.0,0.02,True,False,flow is within ±1.5 mg/s of target; parameters locked
+13.422,13.422,1,183.0,183,True,256,178.648,True,11.427,4.52,40,1910,1000,10.0,-1.788,False,False,flow is above target; reduce duty
+13.547,13.547,1,183.0,183,True,256,180.689,True,12.685,5.259,40,1910,1000,10.0,-3.105,False,False,flow is above target; reduce duty
+13.687,13.687,1,183.0,183,True,256,182.613,True,13.525,5.358,40,1910,1000,10.0,-3.953,False,False,flow is above target; reduce duty
+13.828,13.828,1,183.0,183,True,256,184.259,True,13.945,5.041,40,1910,1000,10.0,-4.349,False,False,flow is above target; reduce duty
+13.953,13.953,1,189.0,189,True,256,186.633,True,15.285,5.799,40,1890,1000,10.0,-5.749,False,False,flow is above the overspeed guard; reduce duty
+14.094,14.094,1,190.0,190,True,256,189.077,True,16.349,6.031,40,1890,1000,10.0,-6.831,False,False,flow is above the overspeed guard; reduce duty
+14.219,14.219,1,190.0,190,True,256,190.934,True,16.822,5.732,40,1890,1000,10.0,-7.281,False,False,flow is above the overspeed guard; reduce duty
+14.359,14.359,1,190.0,190,True,256,192.676,True,16.908,5.049,40,1890,1000,10.0,-7.312,False,False,flow is above the overspeed guard; reduce duty
+14.484,14.484,1,196.0,196,True,256,195.063,True,17.82,5.349,40,1890,1000,10.0,-8.248,False,False,flow is above the overspeed guard; reduce duty
+14.625,14.625,1,197.0,197,True,256,197.503,True,18.44,5.222,40,1890,1000,10.0,-8.858,False,False,flow is above the overspeed guard; reduce duty
+14.766,14.766,1,197.0,197,True,256,199.524,True,18.505,4.588,40,1890,1000,10.0,-8.872,False,False,flow is above the overspeed guard; reduce duty
+14.891,14.891,1,197.0,197,True,256,200.899,True,17.909,3.34,40,1890,1000,10.0,-8.176,False,False,flow is above the overspeed guard; reduce duty
+15.016,15.016,1,204.0,204,True,256,203.331,True,18.528,3.554,40,1870,1000,10.0,-8.812,False,False,flow is above the overspeed guard; reduce duty
+15.172,15.172,1,205.0,205,True,256,206.011,True,18.839,3.346,40,1870,1000,10.0,-9.107,False,False,flow is above the overspeed guard; reduce duty
+15.297,15.297,1,205.0,205,True,256,207.714,True,18.443,2.478,40,1870,1000,10.0,-8.641,False,False,flow is above the overspeed guard; reduce duty
+15.422,15.422,1,205.0,205,True,256,209.031,True,17.543,1.188,40,1870,1000,10.0,-7.639,False,False,flow is above the overspeed guard; reduce duty
+15.562,15.562,1,205.0,205,True,256,210.199,True,16.317,-0.138,40,1870,1000,10.0,-6.306,False,False,flow is above the overspeed guard; reduce duty
+15.687,15.687,1,212.0,212,True,256,212.19,True,16.243,-0.199,40,1870,1000,10.0,-6.227,False,False,flow is above the overspeed guard; reduce duty
+15.812,15.812,1,212.0,212,True,256,213.775,True,15.686,-0.767,40,1870,1000,10.0,-5.624,False,False,flow is above the overspeed guard; reduce duty
+15.953,15.953,1,212.0,212,True,256,215.183,True,14.731,-1.568,40,1870,1000,10.0,-4.605,False,False,flow is above target; reduce duty
+16.094,16.094,1,212.0,212,True,256,216.196,True,13.394,-2.623,40,1870,1000,10.0,-3.184,False,False,flow is above target; reduce duty
+16.234,16.234,1,218.0,218,True,256,218.036,True,13.017,-2.632,40,1870,1000,10.0,-2.806,False,False,flow is above target; reduce duty
+16.359,16.359,1,219.0,219,True,256,219.514,True,12.534,-2.797,40,1870,1000,10.0,-2.31,False,False,flow is above target; reduce duty
+16.484,16.484,1,219.0,219,True,256,220.647,True,11.69,-3.324,40,1870,1000,10.0,-1.424,True,False,flow is within ±1.5 mg/s of target; parameters locked
+16.625,16.625,1,219.0,219,True,256,221.61,True,10.527,-3.98,40,1870,1000,10.0,-0.209,True,False,flow is within ±1.5 mg/s of target; parameters locked
+16.766,16.766,1,224.0,224,True,256,223.244,True,10.167,-3.79,40,1870,1000,10.0,0.136,True,False,flow is within ±1.5 mg/s of target; parameters locked
+16.891,16.891,1,225.0,225,True,256,224.588,True,9.817,-3.658,40,1870,1000,10.0,0.476,True,False,flow is within ±1.5 mg/s of target; parameters locked
+17.031,17.031,1,225.0,225,True,256,225.741,True,9.106,-3.847,40,1870,1000,10.0,1.202,True,False,flow is within ±1.5 mg/s of target; parameters locked
+17.156,17.156,1,225.0,225,True,256,226.48,True,8.181,-4.321,40,1870,1000,10.0,2.164,False,False,flow is below target; increase duty
+17.281,17.281,1,231.0,231,True,256,228.175,True,8.489,-3.417,40,1870,1000,10.0,1.784,False,False,flow is below target; increase duty
+17.422,17.422,1,232.0,232,True,256,229.87,True,8.574,-2.881,40,1870,1000,10.0,1.657,False,False,flow is below target; increase duty
+17.562,17.562,1,232.0,232,True,256,231.234,True,8.375,-2.686,40,1870,1000,10.0,1.839,False,False,flow is below target; increase duty
+17.687,17.687,1,232.0,232,True,256,232.208,True,7.977,-2.752,40,1870,1000,10.0,2.243,False,False,flow is below target; increase duty
+17.828,17.828,1,238.0,238,True,256,234.244,True,8.588,-1.808,40,1870,1000,10.0,1.556,False,False,flow is below target; increase duty
+17.953,17.953,1,239.0,239,True,256,236.043,True,9.249,-0.861,40,1870,1000,10.0,0.819,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.078,18.078,1,239.0,239,True,256,237.554,True,9.576,-0.399,40,1870,1000,10.0,0.456,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.219,18.219,1,239.0,239,True,256,238.92,True,9.541,-0.378,40,1870,1000,10.0,0.49,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.359,18.359,1,239.0,239,True,256,240.002,True,9.219,-0.634,40,1870,1000,10.0,0.831,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.5,18.5,1,247.0,247,True,256,242.436,True,10.344,0.514,40,1870,1000,10.0,-0.385,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.625,18.625,1,247.0,247,True,256,244.387,True,11.192,1.35,40,1870,1000,10.0,-1.3,True,False,flow is within ±1.5 mg/s of target; parameters locked
+18.75,18.75,1,247.0,247,True,256,246.037,True,11.65,1.658,40,1870,1000,10.0,-1.782,False,False,flow is above target; reduce duty
+18.891,18.891,1,247.0,247,True,256,247.557,True,11.735,1.518,40,1870,1000,10.0,-1.857,False,False,flow is above target; reduce duty
+19.031,19.031,1,254.0,254,True,256,250.172,True,12.973,2.495,40,1850,1000,10.0,-3.173,False,False,flow is above target; reduce duty
+19.156,19.156,1,254.0,254,True,256,252.25,True,13.81,3.055,40,1850,1000,10.0,-4.055,False,False,flow is above target; reduce duty
+19.297,19.297,1,254.0,254,True,256,254.182,True,14.192,3.009,40,1850,1000,10.0,-4.433,False,False,flow is above target; reduce duty
+19.422,19.422,1,254.0,254,True,256,255.584,True,14.093,2.502,40,1850,1000,10.0,-4.294,False,False,flow is above target; reduce duty
+19.547,19.547,1,262.0,262,True,256,258.292,True,15.519,3.689,40,1850,1000,10.0,-5.814,False,False,flow is above the overspeed guard; reduce duty
+19.687,19.687,1,262.0,262,True,256,260.801,True,16.356,3.995,40,1850,1000,10.0,-6.676,False,False,flow is above the overspeed guard; reduce duty
+19.828,19.828,1,262.0,262,True,256,262.917,True,16.675,3.764,40,1850,1000,10.0,-6.977,False,False,flow is above the overspeed guard; reduce duty
+19.953,19.953,1,262.0,262,True,256,264.425,True,16.418,2.988,40,1850,1000,10.0,-6.658,False,False,flow is above the overspeed guard; reduce duty
+20.094,20.094,1,267.0,267,True,256,266.816,True,16.889,3.034,40,1830,1000,10.0,-7.132,False,False,flow is above the overspeed guard; reduce duty
+20.219,20.219,1,268.0,268,True,256,268.76,True,17.04,2.791,40,1830,1000,10.0,-7.263,False,False,flow is above the overspeed guard; reduce duty
+20.344,20.344,1,268.0,268,True,256,270.33,True,16.69,2.045,40,1830,1000,10.0,-6.854,False,False,flow is above the overspeed guard; reduce duty
+20.484,20.484,1,268.0,268,True,256,271.749,True,15.972,1.089,40,1830,1000,10.0,-6.059,False,False,flow is above the overspeed guard; reduce duty
+20.625,20.625,1,268.0,268,True,256,272.81,True,14.846,-0.121,40,1830,1000,10.0,-4.837,False,False,flow is above target; reduce duty
+20.766,20.766,1,275.0,275,True,256,274.921,True,14.85,-0.101,40,1830,1000,10.0,-4.842,False,False,flow is above target; reduce duty
+20.891,20.891,1,275.0,275,True,256,276.422,True,14.411,-0.556,40,1830,1000,10.0,-4.367,False,False,flow is above target; reduce duty
+21.016,21.016,1,275.0,275,True,256,277.575,True,13.569,-1.38,40,1830,1000,10.0,-3.459,False,False,flow is above target; reduce duty
+21.156,21.156,1,275.0,275,True,256,278.569,True,12.42,-2.29,40,1830,1000,10.0,-2.237,False,False,flow is above target; reduce duty
+21.297,21.297,1,280.0,280,True,256,280.238,True,12.034,-2.35,40,1830,1000,10.0,-1.846,False,False,flow is above target; reduce duty
+21.422,21.422,1,280.0,280,True,256,281.379,True,11.327,-2.791,40,1830,1000,10.0,-1.103,True,False,flow is within ±1.5 mg/s of target; parameters locked
+21.562,21.562,1,280.0,280,True,256,282.35,True,10.306,-3.391,40,1830,1000,10.0,-0.035,True,False,flow is within ±1.5 mg/s of target; parameters locked
+21.687,21.687,1,280.0,280,True,256,282.889,True,9.016,-4.315,40,1830,1000,10.0,1.329,True,False,flow is within ±1.5 mg/s of target; parameters locked
+21.812,21.812,1,286.0,286,True,256,284.386,True,8.961,-3.799,40,1830,1000,10.0,1.343,True,False,flow is within ±1.5 mg/s of target; parameters locked
+21.953,21.953,1,287.0,287,True,256,285.889,True,8.72,-3.52,40,1830,1000,10.0,1.561,False,False,flow is below target; increase duty
+22.094,22.094,1,287.0,287,True,256,287.067,True,8.206,-3.536,40,1850,1000,10.0,2.077,False,False,flow is below target; increase duty
+22.219,22.219,1,287.0,287,True,256,287.852,True,7.508,-3.809,40,1850,1000,10.0,2.796,False,False,flow is below target; increase duty
+22.359,22.359,1,287.0,287,True,256,288.493,True,6.575,-4.19,40,1850,1000,10.0,3.76,False,False,flow is below target; increase duty
+22.484,22.484,1,293.0,293,True,256,290.026,True,6.944,-3.238,40,1850,1000,10.0,3.315,False,False,flow is below target; increase duty
+22.625,22.625,1,293.0,293,True,256,291.378,True,6.919,-2.83,40,1850,1000,10.0,3.308,False,False,flow is below target; increase duty
+22.75,22.75,1,293.0,293,True,256,292.377,True,6.752,-2.631,40,1850,1000,10.0,3.459,False,False,flow is below target; increase duty
+22.891,22.891,1,293.0,293,True,256,293.242,True,6.317,-2.692,40,1850,1000,10.0,3.899,False,False,flow is below target; increase duty
+23.031,23.031,1,298.0,298,True,256,294.88,True,6.775,-1.896,40,1850,1000,10.0,3.376,False,False,flow is below target; increase duty
+23.156,23.156,1,299.0,299,True,256,296.37,True,7.328,-1.054,40,1850,1000,10.0,2.757,False,False,flow is below target; increase duty
+23.297,23.297,1,299.0,299,True,256,297.714,True,7.521,-0.731,40,1850,1000,10.0,2.537,False,False,flow is below target; increase duty
+23.422,23.422,1,299.0,299,True,256,298.719,True,7.514,-0.64,40,1850,1000,10.0,2.537,False,False,flow is below target; increase duty
+23.562,23.562,1,299.0,299,True,256,299.611,True,7.261,-0.796,40,1850,1000,10.0,2.803,False,False,flow is below target; increase duty
+23.687,23.687,1,305.0,305,True,256,301.41,True,8.238,0.352,40,1850,1000,10.0,1.734,False,False,flow is below target; increase duty
+23.828,23.828,1,305.0,305,True,256,303.06,True,8.804,0.84,40,1850,1000,10.0,1.129,True,False,flow is within ±1.5 mg/s of target; parameters locked
+23.953,23.953,1,305.0,305,True,256,304.334,True,9.108,1.053,40,1850,1000,10.0,0.807,True,False,flow is within ±1.5 mg/s of target; parameters locked
+24.094,24.094,1,305.0,305,True,256,305.503,True,9.123,0.927,40,1850,1000,10.0,0.803,True,False,flow is within ±1.5 mg/s of target; parameters locked
+24.219,24.219,1,312.0,312,True,256,307.72,True,10.523,2.296,40,1850,1000,10.0,-0.707,True,False,flow is within ±1.5 mg/s of target; parameters locked
+24.359,24.359,1,312.0,312,True,256,309.773,True,11.441,2.864,40,1850,1000,10.0,-1.67,False,False,flow is above target; reduce duty
+24.5,24.5,1,312.0,312,True,256,311.532,True,11.969,2.982,40,1850,1000,10.0,-2.208,False,False,flow is above target; reduce duty
+24.625,24.625,1,312.0,312,True,256,312.841,True,12.09,2.713,40,1850,1000,10.0,-2.307,False,False,flow is above target; reduce duty
+24.75,24.75,1,312.0,312,True,256,313.899,True,11.859,2.106,40,1850,1000,10.0,-2.028,False,False,flow is above target; reduce duty
+24.891,24.891,1,318.0,318,True,256,316.073,True,12.669,2.59,40,1850,1000,10.0,-2.876,False,False,flow is above target; reduce duty
+25.031,25.031,1,318.0,318,True,256,317.898,True,13.059,2.616,40,1850,1000,10.0,-3.268,False,False,flow is above target; reduce duty
+25.156,25.156,1,318.0,318,True,256,319.241,True,13.014,2.219,40,1850,1000,10.0,-3.191,False,False,flow is above target; reduce duty
+25.297,25.297,1,318.0,318,True,256,320.478,True,12.667,1.596,40,1850,1000,10.0,-2.795,False,False,flow is above target; reduce duty
+25.422,25.422,1,324.0,324,True,256,322.459,True,13.329,2.089,40,1850,1000,10.0,-3.496,False,False,flow is above target; reduce duty
+25.547,25.547,1,325.0,325,True,256,324.313,True,13.796,2.309,40,1850,1000,10.0,-3.981,False,False,flow is above target; reduce duty
+25.687,25.687,1,325.0,325,True,256,326.014,True,13.848,2.05,40,1850,1000,10.0,-4.012,False,False,flow is above target; reduce duty
+25.828,25.828,1,325.0,325,True,256,327.389,True,13.501,1.449,40,1850,1000,10.0,-3.617,False,False,flow is above target; reduce duty
+25.953,25.953,1,325.0,325,True,256,328.271,True,12.701,0.402,40,1850,1000,10.0,-2.734,False,False,flow is above target; reduce duty
+26.094,26.094,1,330.0,330,True,256,330.053,True,12.744,0.389,40,1830,1000,10.0,-2.775,False,False,flow is above target; reduce duty
+26.219,26.219,1,331.0,331,True,256,331.519,True,12.637,0.223,40,1830,1000,10.0,-2.655,False,False,flow is above target; reduce duty
+26.344,26.344,1,331.0,331,True,256,332.68,True,12.161,-0.314,40,1830,1000,10.0,-2.136,False,False,flow is above target; reduce duty
+26.484,26.484,1,331.0,331,True,256,333.704,True,11.393,-1.004,40,1830,1000,10.0,-1.312,True,False,flow is within ±1.5 mg/s of target; parameters locked
+26.625,26.625,1,331.0,331,True,256,334.44,True,10.336,-1.869,40,1830,1000,10.0,-0.187,True,False,flow is within ±1.5 mg/s of target; parameters locked
+26.766,26.766,1,338.0,338,True,256,336.303,True,10.524,-1.443,40,1830,1000,10.0,-0.409,True,False,flow is within ±1.5 mg/s of target; parameters locked
+26.891,26.891,1,338.0,338,True,256,337.686,True,10.438,-1.342,40,1830,1000,10.0,-0.331,True,False,flow is within ±1.5 mg/s of target; parameters locked
+27.016,27.016,1,338.0,338,True,256,338.784,True,10.035,-1.593,40,1830,1000,10.0,0.093,True,False,flow is within ±1.5 mg/s of target; parameters locked
+27.156,27.156,1,338.0,338,True,256,339.739,True,9.346,-2.037,40,1830,1000,10.0,0.817,True,False,flow is within ±1.5 mg/s of target; parameters locked
+27.297,27.297,1,338.0,338,True,256,340.429,True,8.413,-2.647,40,1830,1000,10.0,1.799,False,False,flow is below target; increase duty
+27.422,27.422,1,344.0,344,True,256,341.968,True,8.692,-1.997,40,1830,1000,10.0,1.468,True,False,flow is within ±1.5 mg/s of target; parameters locked
+27.562,27.562,1,344.0,344,True,256,343.332,True,8.591,-1.827,40,1830,1000,10.0,1.555,False,False,flow is below target; increase duty
+27.687,27.687,1,344.0,344,True,256,344.313,True,8.269,-1.927,40,1830,1000,10.0,1.886,False,False,flow is below target; increase duty
+27.812,27.812,1,344.0,344,True,256,345.066,True,7.708,-2.268,40,1830,1000,10.0,2.473,False,False,flow is below target; increase duty
+27.953,27.953,1,350.0,350,True,256,346.904,True,8.212,-1.489,40,1830,1000,10.0,1.908,False,False,flow is below target; increase duty
+28.094,28.094,1,351.0,351,True,256,348.638,True,8.63,-0.895,40,1830,1000,10.0,1.442,True,False,flow is within ±1.5 mg/s of target; parameters locked
+28.219,28.219,1,351.0,351,True,256,349.967,True,8.828,-0.565,40,1830,1000,10.0,1.217,True,False,flow is within ±1.5 mg/s of target; parameters locked
+28.359,28.359,1,351.0,351,True,256,351.158,True,8.706,-0.605,40,1830,1000,10.0,1.342,True,False,flow is within ±1.5 mg/s of target; parameters locked
+28.484,28.484,1,351.0,351,True,256,351.993,True,8.333,-0.923,40,1830,1000,10.0,1.741,False,False,flow is below target; increase duty
+28.625,28.625,1,356.0,356,True,256,353.727,True,8.807,-0.352,40,1830,1000,10.0,1.221,True,False,flow is within ±1.5 mg/s of target; parameters locked
+28.75,28.75,1,356.0,356,True,256,355.06,True,9.045,-0.051,40,1830,1000,10.0,0.959,True,False,flow is within ±1.5 mg/s of target; parameters locked
+28.891,28.891,1,356.0,356,True,256,356.268,True,8.966,-0.118,40,1830,1000,10.0,1.043,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.031,29.031,1,356.0,356,True,256,357.218,True,8.624,-0.429,40,1830,1000,10.0,1.411,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.156,29.156,1,362.0,362,True,256,359.034,True,9.46,0.52,40,1830,1000,10.0,0.499,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.281,29.281,1,363.0,363,True,256,360.776,True,10.192,1.232,40,1830,1000,10.0,-0.291,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.422,29.422,1,363.0,363,True,256,362.381,True,10.53,1.388,40,1830,1000,10.0,-0.641,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.562,29.562,1,363.0,363,True,256,363.695,True,10.539,1.21,40,1830,1000,10.0,-0.635,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.687,29.687,1,363.0,363,True,256,364.617,True,10.205,0.693,40,1830,1000,10.0,-0.26,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.828,29.828,1,363.0,363,True,256,365.45,True,9.651,0.077,40,1830,1000,10.0,0.343,True,False,flow is within ±1.5 mg/s of target; parameters locked
+29.953,29.953,1,369.0,369,True,256,367.126,True,10.222,0.676,40,1830,1000,10.0,-0.277,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.078,30.078,1,369.0,369,True,256,368.527,True,10.449,0.828,40,1830,1000,10.0,-0.515,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.219,30.219,1,369.0,369,True,256,369.807,True,10.351,0.625,40,1830,1000,10.0,-0.401,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.359,30.359,1,369.0,369,True,256,370.81,True,9.954,0.163,40,1830,1000,10.0,0.033,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.484,30.484,1,375.0,375,True,256,372.644,True,10.681,0.917,40,1830,1000,10.0,-0.754,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.625,30.625,1,376.0,376,True,256,374.527,True,11.202,1.287,40,1830,1000,10.0,-1.305,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.75,30.75,1,376.0,376,True,256,375.95,True,11.378,1.303,40,1830,1000,10.0,-1.482,True,False,flow is within ±1.5 mg/s of target; parameters locked
+30.891,30.891,1,376.0,376,True,256,377.254,True,11.228,0.988,40,1830,1000,10.0,-1.307,True,False,flow is within ±1.5 mg/s of target; parameters locked
+31.031,31.031,1,382.0,382,True,256,379.468,True,12.044,1.634,40,1830,1000,10.0,-2.175,False,False,flow is above target; reduce duty
+31.156,31.156,1,383.0,383,True,256,381.389,True,12.732,2.149,40,1830,1000,10.0,-2.904,False,False,flow is above target; reduce duty
+31.297,31.297,1,383.0,383,True,256,383.165,True,12.991,2.108,40,1830,1000,10.0,-3.159,False,False,flow is above target; reduce duty
+31.422,31.422,1,383.0,383,True,256,384.444,True,12.821,1.646,40,1830,1000,10.0,-2.953,False,False,flow is above target; reduce duty
+31.547,31.547,1,388.0,388,True,256,386.448,True,13.493,2.142,40,1830,1000,10.0,-3.664,False,False,flow is above target; reduce duty
+31.687,31.687,1,389.0,389,True,256,388.486,True,13.93,2.273,40,1830,1000,10.0,-4.112,False,False,flow is above target; reduce duty
+31.828,31.828,1,389.0,389,True,256,390.178,True,13.937,1.977,40,1830,1000,10.0,-4.095,False,False,flow is above target; reduce duty
+31.953,31.953,1,389.0,389,True,256,391.349,True,13.48,1.226,40,1830,1000,10.0,-3.578,False,False,flow is above target; reduce duty
+32.094,32.094,1,389.0,389,True,256,392.409,True,12.746,0.368,40,1830,1000,10.0,-2.775,False,False,flow is above target; reduce duty
+32.219,32.219,1,396.0,396,True,256,394.404,True,13.271,0.879,40,1810,1000,10.0,-3.341,False,False,flow is above target; reduce duty
+32.344,32.344,1,396.0,396,True,256,396.056,True,13.364,0.861,40,1810,1000,10.0,-3.433,False,False,flow is above target; reduce duty
+32.484,32.484,1,396.0,396,True,256,397.548,True,13.07,0.466,40,1810,1000,10.0,-3.107,False,False,flow is above target; reduce duty
+32.625,32.625,1,396.0,396,True,256,398.717,True,12.413,-0.217,40,1810,1000,10.0,-2.395,False,False,flow is above target; reduce duty
+32.766,32.766,1,401.0,401,True,256,400.572,True,12.496,-0.11,40,1810,1000,10.0,-2.487,False,False,flow is above target; reduce duty
+32.891,32.891,1,402.0,402,True,256,402.106,True,12.45,-0.144,40,1810,1000,10.0,-2.439,False,False,flow is above target; reduce duty
+33.016,33.016,1,402.0,402,True,256,403.329,True,12.034,-0.569,40,1810,1000,10.0,-1.988,False,False,flow is above target; reduce duty
+33.156,33.156,1,402.0,402,True,256,404.407,True,11.309,-1.183,40,1810,1000,10.0,-1.215,True,False,flow is within ±1.5 mg/s of target; parameters locked
+33.297,33.297,1,408.0,408,True,256,406.392,True,11.57,-0.778,40,1810,1000,10.0,-1.508,False,False,flow is above target; reduce duty
+33.422,33.422,1,409.0,409,True,256,408.065,True,11.754,-0.479,40,1810,1000,10.0,-1.715,False,False,flow is above target; reduce duty
+33.562,33.562,1,409.0,409,True,256,409.565,True,11.535,-0.623,40,1810,1000,10.0,-1.485,True,False,flow is within ±1.5 mg/s of target; parameters locked
+33.687,33.687,1,409.0,409,True,256,410.602,True,10.977,-1.136,40,1810,1000,10.0,-0.886,True,False,flow is within ±1.5 mg/s of target; parameters locked
+33.812,33.812,1,409.0,409,True,256,411.372,True,10.123,-1.895,40,1810,1000,10.0,0.028,True,False,flow is within ±1.5 mg/s of target; parameters locked
+33.953,33.953,1,414.0,414,True,256,413.024,True,10.115,-1.65,40,1810,1000,10.0,0.017,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.094,34.094,1,414.0,414,True,256,414.347,True,9.79,-1.737,40,1810,1000,10.0,0.349,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.219,34.219,1,414.0,414,True,256,415.246,True,9.2,-2.136,40,1810,1000,10.0,0.971,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.359,34.359,1,414.0,414,True,256,416.01,True,8.362,-2.649,40,1810,1000,10.0,1.85,False,False,flow is below target; increase duty
+34.484,34.484,1,420.0,420,True,256,417.628,True,8.743,-1.89,40,1810,1000,10.0,1.409,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.609,34.609,1,421.0,421,True,256,419.165,True,9.057,-1.302,40,1810,1000,10.0,1.047,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.75,34.75,1,421.0,421,True,256,420.543,True,8.995,-1.187,40,1810,1000,10.0,1.1,True,False,flow is within ±1.5 mg/s of target; parameters locked
+34.891,34.891,1,421.0,421,True,256,421.64,True,8.657,-1.348,40,1810,1000,10.0,1.451,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.031,35.031,1,426.0,426,True,256,423.471,True,9.146,-0.703,40,1810,1000,10.0,0.91,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.156,35.156,1,427.0,427,True,256,425.087,True,9.632,-0.091,40,1810,1000,10.0,0.375,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.281,35.281,1,427.0,427,True,256,426.432,True,9.791,0.091,40,1810,1000,10.0,0.202,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.422,35.422,1,427.0,427,True,256,427.651,True,9.631,-0.073,40,1810,1000,10.0,0.375,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.562,35.562,1,427.0,427,True,256,428.599,True,9.192,-0.481,40,1810,1000,10.0,0.846,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.687,35.687,1,427.0,427,True,256,429.195,True,8.474,-1.183,40,1810,1000,10.0,1.621,False,False,flow is below target; increase duty
+35.828,35.828,1,433.0,433,True,256,430.903,True,8.865,-0.656,40,1810,1000,10.0,1.188,True,False,flow is within ±1.5 mg/s of target; parameters locked
+35.953,35.953,1,433.0,433,True,256,432.204,True,9.021,-0.401,40,1810,1000,10.0,1.011,True,False,flow is within ±1.5 mg/s of target; parameters locked
+36.078,36.078,1,433.0,433,True,256,433.263,True,8.892,-0.485,40,1810,1000,10.0,1.146,True,False,flow is within ±1.5 mg/s of target; parameters locked
+36.219,36.219,1,433.0,433,True,256,434.21,True,8.502,-0.789,40,1830,1000,10.0,1.561,False,False,flow is below target; increase duty
+36.359,36.359,1,433.0,433,True,256,434.914,True,7.879,-1.278,40,1830,1000,10.0,2.223,False,False,flow is below target; increase duty
+36.484,36.484,1,433.0,433,True,256,435.311,True,7.026,-2.017,40,1830,1000,10.0,3.135,False,False,flow is below target; increase duty
+36.625,36.625,1,438.0,438,True,256,436.625,True,7.107,-1.671,40,1830,1000,10.0,3.027,False,False,flow is below target; increase duty
+36.75,36.75,1,438.0,438,True,256,437.601,True,7.018,-1.544,40,1830,1000,10.0,3.105,False,False,flow is below target; increase duty
+36.875,36.875,1,438.0,438,True,256,438.373,True,6.713,-1.663,40,1830,1000,10.0,3.42,False,False,flow is below target; increase duty
+37.031,37.031,1,438.0,438,True,256,439.12,True,6.185,-1.893,40,1830,1000,10.0,3.967,False,False,flow is below target; increase duty
+37.156,37.156,1,444.0,444,True,256,440.702,True,6.937,-0.838,40,1830,1000,10.0,3.13,False,False,flow is below target; increase duty
+37.297,37.297,1,444.0,444,True,256,442.138,True,7.315,-0.369,40,1830,1000,10.0,2.715,False,False,flow is below target; increase duty
+37.422,37.422,1,444.0,444,True,256,443.239,True,7.497,-0.126,40,1830,1000,10.0,2.513,False,False,flow is below target; increase duty
+37.547,37.547,1,444.0,444,True,256,444.14,True,7.439,-0.171,40,1830,1000,10.0,2.575,False,False,flow is below target; increase duty
+37.687,37.687,1,444.0,444,True,256,444.944,True,7.162,-0.412,40,1830,1000,10.0,2.871,False,False,flow is below target; increase duty
+37.828,37.828,1,450.0,450,True,256,446.76,True,7.966,0.403,40,1830,1000,10.0,2.002,False,False,flow is below target; increase duty
+37.953,37.953,1,450.0,450,True,256,448.207,True,8.554,0.977,40,1830,1000,10.0,1.368,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.094,38.094,1,450.0,450,True,256,449.538,True,8.814,1.093,40,1830,1000,10.0,1.098,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.219,38.219,1,450.0,450,True,256,450.519,True,8.795,0.927,40,1830,1000,10.0,1.13,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.344,38.344,1,455.0,455,True,256,452.3,True,9.721,1.791,40,1830,1000,10.0,0.136,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.484,38.484,1,456.0,456,True,256,454.143,True,10.469,2.265,40,1830,1000,10.0,-0.65,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.625,38.625,1,456.0,456,True,256,455.713,True,10.865,2.337,40,1830,1000,10.0,-1.052,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.75,38.75,1,456.0,456,True,256,456.872,True,10.895,2.058,40,1830,1000,10.0,-1.06,True,False,flow is within ±1.5 mg/s of target; parameters locked
+38.891,38.891,1,456.0,456,True,256,457.943,True,10.669,1.569,40,1830,1000,10.0,-0.794,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.016,39.016,1,456.0,456,True,256,458.631,True,10.076,0.727,40,1830,1000,10.0,-0.134,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.156,39.156,1,462.0,462,True,256,460.439,True,10.595,1.125,40,1830,1000,10.0,-0.686,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.297,39.297,1,462.0,462,True,256,461.955,True,10.766,1.137,40,1830,1000,10.0,-0.857,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.422,39.422,1,462.0,462,True,256,463.048,True,10.594,0.801,40,1830,1000,10.0,-0.658,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.562,39.562,1,462.0,462,True,256,464.031,True,10.162,0.283,40,1830,1000,10.0,-0.185,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.687,39.687,1,462.0,462,True,256,464.643,True,9.404,-0.563,40,1830,1000,10.0,0.641,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.812,39.812,1,468.0,468,True,256,466.251,True,9.859,-0.003,40,1830,1000,10.0,0.142,True,False,flow is within ±1.5 mg/s of target; parameters locked
+39.953,39.953,1,468.0,468,True,256,467.713,True,9.935,0.069,40,1830,1000,10.0,0.06,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.094,40.094,1,468.0,468,True,256,468.892,True,9.707,-0.155,40,1830,1000,10.0,0.305,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.219,40.219,1,468.0,468,True,256,469.683,True,9.183,-0.694,40,1830,1000,10.0,0.873,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.359,40.359,1,468.0,468,True,256,470.369,True,8.451,-1.298,40,1830,1000,10.0,1.653,False,False,flow is below target; increase duty
+40.484,40.484,1,474.0,474,True,256,471.933,True,8.909,-0.636,40,1830,1000,10.0,1.142,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.609,40.609,1,474.0,474,True,256,473.233,True,9.06,-0.391,40,1830,1000,10.0,0.972,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.766,40.766,1,474.0,474,True,256,474.52,True,8.874,-0.497,40,1830,1000,10.0,1.166,True,False,flow is within ±1.5 mg/s of target; parameters locked
+40.891,40.891,1,474.0,474,True,256,475.301,True,8.422,-0.913,40,1830,1000,10.0,1.651,False,False,flow is below target; increase duty
+41.016,41.016,1,474.0,474,True,256,475.877,True,7.745,-1.513,40,1830,1000,10.0,2.377,False,False,flow is below target; increase duty
+41.156,41.156,1,479.0,479,True,256,477.357,True,7.973,-1.094,40,1830,1000,10.0,2.115,False,False,flow is below target; increase duty
+41.297,41.297,1,479.0,479,True,256,478.576,True,7.931,-0.988,40,1830,1000,10.0,2.148,False,False,flow is below target; increase duty
+41.422,41.422,1,479.0,479,True,256,479.448,True,7.673,-1.131,40,1830,1000,10.0,2.417,False,False,flow is below target; increase duty
+41.562,41.562,1,479.0,479,True,256,480.209,True,7.191,-1.44,40,1830,1000,10.0,2.924,False,False,flow is below target; increase duty
+41.687,41.687,1,479.0,479,True,256,480.677,True,6.508,-1.976,40,1830,1000,10.0,3.65,False,False,flow is below target; increase duty
+41.828,41.828,1,485.0,485,True,256,482.26,True,6.958,-1.287,40,1830,1000,10.0,3.145,False,False,flow is below target; increase duty
+41.953,41.953,1,485.0,485,True,256,483.496,True,7.248,-0.806,40,1830,1000,10.0,2.816,False,False,flow is below target; increase duty
+42.094,42.094,1,485.0,485,True,256,484.608,True,7.239,-0.707,40,1830,1000,10.0,2.818,False,False,flow is below target; increase duty
+42.219,42.219,1,485.0,485,True,256,485.406,True,7.029,-0.837,40,1850,1000,10.0,3.038,False,False,flow is below target; increase duty
+42.359,42.359,1,485.0,485,True,256,486.105,True,6.616,-1.119,40,1850,1000,10.0,3.474,False,False,flow is below target; increase duty
+42.5,42.5,1,491.0,491,True,256,487.822,True,7.303,-0.32,40,1850,1000,10.0,2.723,False,False,flow is below target; increase duty
+42.625,42.625,1,491.0,491,True,256,489.186,True,7.807,0.261,40,1850,1000,10.0,2.172,False,False,flow is below target; increase duty
+42.75,42.75,1,491.0,491,True,256,490.331,True,8.041,0.475,40,1850,1000,10.0,1.921,False,False,flow is below target; increase duty
+42.891,42.891,1,491.0,491,True,256,491.375,True,8.008,0.381,40,1850,1000,10.0,1.962,False,False,flow is below target; increase duty
+43.031,43.031,1,491.0,491,True,256,492.2,True,7.74,0.074,40,1850,1000,10.0,2.254,False,False,flow is below target; increase duty
+43.156,43.156,1,491.0,491,True,256,492.735,True,7.229,-0.481,40,1850,1000,10.0,2.81,False,False,flow is below target; increase duty
+43.297,43.297,1,497.0,497,True,256,494.399,True,7.853,0.173,40,1850,1000,10.0,2.134,False,False,flow is below target; increase duty
+43.422,43.422,1,497.0,497,True,256,495.706,True,8.263,0.588,40,1850,1000,10.0,1.69,False,False,flow is below target; increase duty
+43.547,43.547,1,497.0,497,True,256,496.795,True,8.398,0.653,40,1850,1000,10.0,1.55,False,False,flow is below target; increase duty
+43.687,43.687,1,497.0,497,True,256,497.781,True,8.28,0.454,40,1850,1000,10.0,1.684,False,False,flow is below target; increase duty
+43.828,43.828,1,497.0,497,True,256,498.563,True,7.928,0.061,40,1850,1000,10.0,2.067,False,False,flow is below target; increase duty
+43.953,43.953,1,504.0,504,True,256,500.443,True,9.003,1.199,40,1850,1000,10.0,0.901,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.094,44.094,1,504.0,504,True,256,502.18,True,9.656,1.657,40,1850,1000,10.0,0.211,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.219,44.219,1,504.0,504,True,256,503.52,True,10.007,1.811,40,1850,1000,10.0,-0.152,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.344,44.344,1,504.0,504,True,256,504.628,True,10.045,1.61,40,1850,1000,10.0,-0.174,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.484,44.484,1,504.0,504,True,256,505.64,True,9.831,1.191,40,1850,1000,10.0,0.073,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.625,44.625,1,504.0,504,True,256,506.43,True,9.353,0.58,40,1850,1000,10.0,0.601,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.75,44.75,1,509.0,509,True,256,507.883,True,9.761,0.938,40,1850,1000,10.0,0.164,True,False,flow is within ±1.5 mg/s of target; parameters locked
+44.891,44.891,1,509.0,509,True,256,509.215,True,9.836,0.883,40,1850,1000,10.0,0.094,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.016,45.016,1,509.0,509,True,256,510.161,True,9.598,0.512,40,1850,1000,10.0,0.361,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.141,45.141,1,509.0,509,True,256,510.892,True,9.094,-0.093,40,1850,1000,10.0,0.913,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.297,45.297,1,509.0,509,True,256,511.648,True,8.443,-0.637,40,1850,1000,10.0,1.608,False,False,flow is below target; increase duty
+45.422,45.422,1,515.0,515,True,256,513.158,True,8.916,-0.048,40,1850,1000,10.0,1.088,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.562,45.562,1,515.0,515,True,256,514.525,True,9.036,0.073,40,1850,1000,10.0,0.958,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.687,45.687,1,515.0,515,True,256,515.524,True,8.888,-0.095,40,1850,1000,10.0,1.119,True,False,flow is within ±1.5 mg/s of target; parameters locked
+45.812,45.812,1,515.0,515,True,256,516.307,True,8.484,-0.513,40,1850,1000,10.0,1.557,False,False,flow is below target; increase duty
+45.953,45.953,1,515.0,515,True,256,516.999,True,7.88,-1.016,40,1850,1000,10.0,2.201,False,False,flow is below target; increase duty
+46.094,46.094,1,519.0,519,True,256,518.28,True,7.929,-0.835,40,1850,1000,10.0,2.138,False,False,flow is below target; increase duty
+46.219,46.219,1,520.0,520,True,256,519.412,True,8.001,-0.646,40,1870,1000,10.0,2.051,False,False,flow is below target; increase duty
+46.359,46.359,1,520.0,520,True,256,520.42,True,7.798,-0.754,40,1870,1000,10.0,2.263,False,False,flow is below target; increase duty
+46.484,46.484,1,520.0,520,True,256,521.111,True,7.37,-1.109,40,1870,1000,10.0,2.719,False,False,flow is below target; increase duty
+46.609,46.609,1,520.0,520,True,256,521.619,True,6.746,-1.627,40,1870,1000,10.0,3.384,False,False,flow is below target; increase duty
+46.75,46.75,1,520.0,520,True,256,522.043,True,5.973,-2.141,40,1870,1000,10.0,4.198,False,False,flow is below target; increase duty
+46.891,46.891,1,525.0,525,True,256,523.291,True,6.125,-1.711,40,1870,1000,10.0,4.011,False,False,flow is below target; increase duty
+47.016,47.016,1,525.0,525,True,256,524.235,True,6.141,-1.467,40,1870,1000,10.0,3.976,False,False,flow is below target; increase duty
+47.156,47.156,1,525.0,525,True,256,525.064,True,5.918,-1.483,40,1870,1000,10.0,4.2,False,False,flow is below target; increase duty
+47.297,47.297,1,525.0,525,True,256,525.707,True,5.521,-1.661,40,1870,1000,10.0,4.612,False,False,flow is below target; increase duty
+47.422,47.422,1,525.0,525,True,256,526.108,True,4.981,-2.015,40,1870,1000,10.0,5.18,False,False,flow is below target; increase duty
+47.562,47.562,1,525.0,525,True,256,526.428,True,4.317,-2.38,40,1870,1000,10.0,5.874,False,False,flow is below target; increase duty
+47.687,47.687,1,530.0,530,True,256,527.559,True,4.752,-1.599,40,1870,1000,10.0,5.376,False,False,flow is below target; increase duty
+47.828,47.828,1,530.0,530,True,256,528.571,True,4.906,-1.239,40,1870,1000,10.0,5.193,False,False,flow is below target; increase duty
+47.953,47.953,1,530.0,530,True,256,529.339,True,4.95,-1.028,40,1870,1000,10.0,5.133,False,False,flow is below target; increase duty
+48.078,48.078,1,530.0,530,True,256,529.96,True,4.833,-1.015,40,1870,1000,10.0,5.248,False,False,flow is below target; increase duty
+48.219,48.219,1,530.0,530,True,256,530.505,True,4.556,-1.142,40,1890,1000,10.0,5.536,False,False,flow is below target; increase duty
+48.359,48.359,1,530.0,530,True,256,530.905,True,4.153,-1.373,40,1890,1000,10.0,5.957,False,False,flow is below target; increase duty
+48.484,48.484,1,535.0,535,True,256,532.131,True,4.842,-0.455,40,1890,1000,10.0,5.194,False,False,flow is below target; increase duty
+48.625,48.625,1,535.0,535,True,256,533.247,True,5.244,-0.014,40,1890,1000,10.0,4.757,False,False,flow is below target; increase duty
+48.75,48.75,1,535.0,535,True,256,534.122,True,5.506,0.267,40,1890,1000,10.0,4.473,False,False,flow is below target; increase duty
+48.891,48.891,1,535.0,535,True,256,534.921,True,5.564,0.287,40,1890,1000,10.0,4.413,False,False,flow is below target; increase duty
+49.031,49.031,1,541.0,541,True,256,536.762,True,6.74,1.368,40,1890,1000,10.0,3.151,False,False,flow is below target; increase duty
+49.156,49.156,1,541.0,541,True,256,538.292,True,7.723,2.234,40,1890,1000,10.0,2.098,False,False,flow is below target; increase duty
+49.281,49.281,1,541.0,541,True,256,539.62,True,8.416,2.676,40,1890,1000,10.0,1.37,True,False,flow is within ±1.5 mg/s of target; parameters locked
+49.422,49.422,1,541.0,541,True,256,540.867,True,8.829,2.709,40,1890,1000,10.0,0.954,True,False,flow is within ±1.5 mg/s of target; parameters locked
+49.547,49.547,1,541.0,541,True,256,541.793,True,8.93,2.455,40,1890,1000,10.0,0.874,True,False,flow is within ±1.5 mg/s of target; parameters locked
+49.687,49.687,1,546.0,546,True,256,543.654,True,9.902,3.054,40,1890,1000,10.0,-0.146,True,False,flow is within ±1.5 mg/s of target; parameters locked
+49.828,49.828,1,546.0,546,True,256,545.264,True,10.528,3.239,40,1890,1000,10.0,-0.787,True,False,flow is within ±1.5 mg/s of target; parameters locked
+49.953,49.953,1,546.0,546,True,256,546.484,True,10.787,3.084,40,1890,1000,10.0,-1.034,True,False,flow is within ±1.5 mg/s of target; parameters locked
+50.094,50.094,1,546.0,546,True,256,547.629,True,10.789,2.674,40,1890,1000,10.0,-1.003,True,False,flow is within ±1.5 mg/s of target; parameters locked
+50.219,50.219,1,546.0,546,True,256,548.399,True,10.404,1.907,40,1890,1000,10.0,-0.556,True,False,flow is within ±1.5 mg/s of target; parameters locked
+50.344,50.344,1,552.0,552,True,256,550.171,True,11.191,2.492,40,1890,1000,10.0,-1.39,True,False,flow is within ±1.5 mg/s of target; parameters locked
+50.484,50.484,1,552.0,552,True,256,551.81,True,11.59,2.54,40,1890,1000,10.0,-1.794,False,False,flow is above target; reduce duty
+50.625,50.625,1,552.0,552,True,256,553.176,True,11.636,2.245,40,1890,1000,10.0,-1.816,False,False,flow is above target; reduce duty
+50.75,50.75,1,552.0,552,True,256,554.118,True,11.281,1.567,40,1890,1000,10.0,-1.406,True,False,flow is within ±1.5 mg/s of target; parameters locked
+50.891,50.891,1,552.0,552,True,256,554.979,True,10.71,0.818,40,1890,1000,10.0,-0.775,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.016,51.016,1,557.0,557,True,256,556.46,True,10.974,0.99,40,1890,1000,10.0,-1.053,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.141,51.141,1,557.0,557,True,256,557.671,True,10.896,0.776,40,1890,1000,10.0,-0.958,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.297,51.297,1,557.0,557,True,256,558.904,True,10.56,0.384,40,1890,1000,10.0,-0.59,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.422,51.422,1,557.0,557,True,256,559.582,True,9.833,-0.442,40,1890,1000,10.0,0.202,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.562,51.562,1,557.0,557,True,256,560.163,True,8.924,-1.249,40,1890,1000,10.0,1.176,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.687,51.687,1,561.0,561,True,256,561.215,True,8.703,-1.318,40,1890,1000,10.0,1.402,True,False,flow is within ±1.5 mg/s of target; parameters locked
+51.812,51.812,1,562.0,562,True,256,562.234,True,8.468,-1.393,40,1890,1000,10.0,1.643,False,False,flow is below target; increase duty
+51.953,51.953,1,562.0,562,True,256,563.132,True,7.971,-1.677,40,1890,1000,10.0,2.163,False,False,flow is below target; increase duty
+52.094,52.094,1,562.0,562,True,256,563.791,True,7.258,-2.128,40,1890,1000,10.0,2.912,False,False,flow is below target; increase duty
+52.219,52.219,1,562.0,562,True,256,564.145,True,6.348,-2.814,40,1910,1000,10.0,3.877,False,False,flow is below target; increase duty
+52.359,52.359,1,562.0,562,True,256,564.405,True,5.31,-3.428,40,1910,1000,10.0,4.964,False,False,flow is below target; increase duty
+52.484,52.484,1,562.0,562,True,256,564.434,True,4.152,-4.207,40,1910,1000,10.0,6.185,False,False,flow is below target; increase duty
+52.609,52.609,1,562.0,562,True,256,564.336,True,2.925,-4.954,40,1910,1000,10.0,7.471,False,False,flow is below target; increase duty
+52.766,52.766,1,562.0,562,True,256,564.187,True,1.625,-5.398,40,1910,1000,10.0,8.7,False,False,flow is below target; increase duty
+52.891,52.891,1,567.0,567,True,256,564.879,True,1.587,-4.719,40,1910,1000,10.0,8.731,False,False,flow is below target; increase duty
+53.016,53.016,1,567.0,567,True,256,565.432,True,1.467,-4.217,40,1910,1000,10.0,8.826,False,False,flow is below target; increase duty
+53.156,53.156,1,567.0,567,True,256,565.877,True,1.177,-3.931,40,1910,1000,10.0,9.058,False,False,flow is below target; increase duty
+53.281,53.281,1,567.0,567,True,256,566.195,True,0.928,-3.673,40,1910,1000,10.0,9.258,False,False,flow is below target; increase duty
+53.406,53.406,1,567.0,567,True,256,566.426,True,0.641,-3.489,40,1910,1000,10.0,9.487,False,False,flow is below target; increase duty
+53.562,53.562,1,572.0,572,True,256,567.586,True,1.158,-2.582,40,1910,1000,10.0,9.049,False,False,flow is below target; increase duty
+53.687,53.687,1,572.0,572,True,256,568.569,True,1.864,-1.484,40,1910,1000,10.0,8.255,False,False,flow is below target; increase duty
+53.828,53.828,1,572.0,572,True,256,569.454,True,2.332,-0.844,40,1910,1000,10.0,7.735,False,False,flow is below target; increase duty
+53.953,53.953,1,572.0,572,True,256,570.191,True,2.769,-0.265,40,1910,1000,10.0,7.252,False,False,flow is below target; increase duty
+54.094,54.094,1,572.0,572,True,256,570.863,True,3.035,0.021,40,1910,1000,10.0,6.964,False,False,flow is below target; increase duty
+54.219,54.219,1,572.0,572,True,256,571.394,True,3.219,0.215,40,1930,1000,10.0,6.764,False,False,flow is below target; increase duty
+54.359,54.359,1,572.0,572,True,256,571.877,True,3.282,0.246,40,1930,1000,10.0,6.698,False,False,flow is below target; increase duty
+54.484,54.484,1,572.0,572,True,256,572.232,True,3.243,0.172,40,1930,1000,10.0,6.743,False,False,flow is below target; increase duty
+54.625,54.625,1,572.0,572,True,256,572.552,True,3.121,0.033,40,1930,1000,10.0,6.877,False,False,flow is below target; increase duty
+54.75,54.75,1,572.0,572,True,256,572.754,True,2.898,-0.208,40,1930,1000,10.0,7.118,False,False,flow is below target; increase duty
+54.891,54.891,1,572.0,572,True,256,572.929,True,2.622,-0.442,40,1930,1000,10.0,7.413,False,False,flow is below target; increase duty
+55.016,55.016,1,572.0,572,True,256,573.002,True,2.266,-0.762,40,1930,1000,10.0,7.795,False,False,flow is below target; increase duty
+55.156,55.156,1,572.0,572,True,256,573.05,True,1.878,-1.03,40,1930,1000,10.0,8.204,False,False,flow is below target; increase duty
+55.281,55.281,1,572.0,572,True,256,573.021,True,1.443,-1.357,40,1930,1000,10.0,8.665,False,False,flow is below target; increase duty
+55.422,55.422,1,572.0,572,True,256,572.969,True,0.994,-1.601,40,1930,1000,10.0,9.134,False,False,flow is below target; increase duty
+55.547,55.547,1,572.0,572,True,256,572.865,True,0.535,-1.877,40,1930,1000,10.0,9.572,False,False,flow is below target; increase duty
+55.687,55.687,1,577.0,577,True,256,573.737,True,1.146,-1.045,40,1930,1000,10.0,8.938,False,False,flow is below target; increase duty
+55.828,55.828,1,577.0,577,True,256,574.51,True,1.661,-0.419,40,1930,1000,10.0,8.373,False,False,flow is below target; increase duty
+55.953,55.953,1,577.0,577,True,256,575.172,True,2.157,0.166,40,1930,1000,10.0,7.83,False,False,flow is below target; increase duty
+56.094,56.094,1,577.0,577,True,256,575.782,True,2.504,0.473,40,1930,1000,10.0,7.458,False,False,flow is below target; increase duty
+56.219,56.219,1,577.0,577,True,256,576.279,True,2.78,0.703,40,1950,1000,10.0,7.164,False,False,flow is below target; increase duty
+56.344,56.344,1,582.0,582,True,256,577.706,True,4.156,2.077,40,1950,1000,10.0,5.678,False,False,flow is below target; increase duty
+56.484,56.484,1,583.0,583,True,256,579.246,True,5.452,3.035,40,1950,1000,10.0,4.305,False,False,flow is below target; increase duty
+56.625,56.625,1,583.0,583,True,256,580.636,True,6.509,3.63,40,1950,1000,10.0,3.201,False,False,flow is below target; increase duty
+56.75,56.75,1,583.0,583,True,256,581.782,True,7.328,4.019,40,1950,1000,10.0,2.351,False,False,flow is below target; increase duty
+56.891,56.891,1,583.0,583,True,256,582.884,True,7.925,4.048,40,1950,1000,10.0,1.751,False,False,flow is below target; increase duty
+57.016,57.016,1,583.0,583,True,256,583.725,True,8.214,3.816,40,1950,1000,10.0,1.481,True,False,flow is within ±1.5 mg/s of target; parameters locked
+57.141,57.141,1,583.0,583,True,256,584.426,True,8.263,3.36,40,1950,1000,10.0,1.468,True,False,flow is within ±1.5 mg/s of target; parameters locked
+57.297,57.297,1,583.0,583,True,256,585.204,True,8.257,2.907,40,1950,1000,10.0,1.51,False,False,flow is below target; increase duty
+57.422,57.422,1,583.0,583,True,256,585.607,True,7.838,2.073,40,1950,1000,10.0,1.996,False,False,flow is below target; increase duty
+57.547,57.547,1,583.0,583,True,256,585.883,True,7.233,1.15,40,1950,1000,10.0,2.675,False,False,flow is below target; increase duty
+57.687,57.687,1,583.0,583,True,256,586.125,True,6.557,0.353,40,1950,1000,10.0,3.415,False,False,flow is below target; increase duty
+57.812,57.812,1,583.0,583,True,256,586.158,True,5.653,-0.658,40,1950,1000,10.0,4.399,False,False,flow is below target; increase duty
+57.953,57.953,1,583.0,583,True,256,586.159,True,4.721,-1.452,40,1950,1000,10.0,5.396,False,False,flow is below target; increase duty
+58.094,58.094,1,583.0,583,True,256,586.048,True,3.705,-2.219,40,1950,1000,10.0,6.472,False,False,flow is below target; increase duty
+58.219,58.219,1,583.0,583,True,256,585.795,True,2.589,-3.113,40,1970,1000,10.0,7.66,False,False,flow is below target; increase duty
+58.359,58.359,1,587.0,587,True,256,586.302,True,2.341,-2.935,40,1970,1000,10.0,7.894,False,False,flow is below target; increase duty
+58.484,58.484,1,588.0,588,True,256,586.857,True,2.317,-2.569,40,1970,1000,10.0,7.889,False,False,flow is below target; increase duty
+58.609,58.609,1,588.0,588,True,256,587.301,True,2.205,-2.345,40,1970,1000,10.0,7.983,False,False,flow is below target; increase duty
+58.766,58.766,1,588.0,588,True,256,587.695,True,1.91,-2.284,40,1970,1000,10.0,8.273,False,False,flow is below target; increase duty
+58.891,58.891,1,588.0,588,True,256,587.933,True,1.644,-2.262,40,1970,1000,10.0,8.536,False,False,flow is below target; increase duty
+59.016,59.016,1,588.0,588,True,256,588.096,True,1.333,-2.293,40,1970,1000,10.0,8.851,False,False,flow is below target; increase duty
+59.156,59.156,1,588.0,588,True,256,588.208,True,0.956,-2.346,40,1970,1000,10.0,9.232,False,False,flow is below target; increase duty
+59.297,59.297,1,588.0,588,True,256,588.256,True,0.557,-2.41,40,1970,1000,10.0,9.554,False,False,flow is below target; increase duty
+59.406,59.406,1,588.0,588,True,256,588.242,True,0.211,-2.512,40,1970,1000,10.0,9.831,False,False,flow is below target; increase duty
+59.562,59.562,1,588.0,588,True,256,588.195,True,0.0,-2.552,40,1970,1000,10.0,10.0,False,False,flow is below target; increase duty
+59.687,59.687,1,588.0,588,True,256,588.14,True,0.0,-2.597,40,1970,1000,10.0,10.0,False,False,flow is below target; increase duty
+59.828,59.828,1,588.0,588,True,256,588.092,True,0.0,-2.62,40,1970,1000,10.0,10.0,False,False,flow is below target; increase duty
+59.953,59.953,1,588.0,588,True,256,588.057,True,0.0,-2.638,40,1970,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.094,0.0,2,588.0,588,True,256,588.025,True,0.0,-2.645,40,1970,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.219,0.125,2,588.0,588,True,256,588.003,True,0.0,-2.646,40,1990,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.359,0.265,2,588.0,588,True,256,587.982,True,0.0,-2.641,40,1990,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.484,0.39,2,588.0,588,True,256,587.969,True,0.0,-2.631,40,1990,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.625,0.531,2,588.0,588,True,256,587.954,True,0.0,-2.619,40,1990,1000,10.0,10.0,False,False,flow is below target; increase duty
+60.75,0.656,2,593.0,593,True,256,588.947,True,0.888,-1.323,40,1990,1000,10.0,9.217,False,False,flow is below target; increase duty
+60.891,0.797,2,593.0,593,True,256,589.847,True,1.54,-0.53,40,1990,1000,10.0,8.502,False,False,flow is below target; increase duty
+61.031,0.937,2,593.0,593,True,256,590.646,True,2.097,0.071,40,1990,1000,10.0,7.898,False,False,flow is below target; increase duty
+61.156,1.062,2,593.0,593,True,256,591.327,True,2.608,0.606,40,1990,1000,10.0,7.344,False,False,flow is below target; increase duty
+61.281,1.187,2,593.0,593,True,256,591.926,True,3.005,0.95,40,1990,1000,10.0,6.919,False,False,flow is below target; increase duty
+61.422,1.328,2,593.0,593,True,256,592.488,True,3.276,1.079,40,1990,1000,10.0,6.638,False,False,flow is below target; increase duty
+61.547,1.453,2,593.0,593,True,256,592.924,True,3.433,1.103,40,1990,1000,10.0,6.479,False,False,flow is below target; increase duty
+61.687,1.593,2,593.0,593,True,256,593.333,True,3.498,1.018,40,1990,1000,10.0,6.42,False,False,flow is below target; increase duty
+61.828,1.734,2,593.0,593,True,256,593.669,True,3.464,0.85,40,1990,1000,10.0,6.468,False,False,flow is below target; increase duty
+61.953,1.859,2,598.0,598,True,256,594.887,True,4.504,1.846,40,1990,1000,10.0,5.348,False,False,flow is below target; increase duty
+62.094,2.0,2,598.0,598,True,256,596.032,True,5.288,2.341,40,1990,1000,10.0,4.525,False,False,flow is below target; increase duty
+62.219,2.125,2,598.0,598,True,256,596.969,True,5.89,2.671,40,1990,1000,10.0,3.897,False,False,flow is below target; increase duty
+62.344,2.25,2,598.0,598,True,256,597.781,True,6.289,2.741,40,1990,1000,10.0,3.491,False,False,flow is below target; increase duty
+62.484,2.39,2,598.0,598,True,256,598.551,True,6.526,2.6,40,1990,1000,10.0,3.266,False,False,flow is below target; increase duty
+62.625,2.531,2,598.0,598,True,256,599.197,True,6.574,2.299,40,1990,1000,10.0,3.242,False,False,flow is below target; increase duty
+62.75,2.656,2,598.0,598,True,256,599.63,True,6.372,1.778,40,1990,1000,10.0,3.485,False,False,flow is below target; increase duty
+62.891,2.797,2,602.0,602,True,256,600.837,True,6.932,2.07,40,1990,1000,10.0,2.902,False,False,flow is below target; increase duty
+63.016,2.922,2,603.0,603,True,256,601.975,True,7.499,2.398,40,1990,1000,10.0,2.31,False,False,flow is below target; increase duty
+63.141,3.047,2,603.0,603,True,256,602.945,True,7.815,2.416,40,1990,1000,10.0,1.992,False,False,flow is below target; increase duty
+63.281,3.187,2,603.0,603,True,256,603.85,True,7.925,2.199,40,1990,1000,10.0,1.899,False,False,flow is below target; increase duty
+63.422,3.328,2,603.0,603,True,256,604.592,True,7.812,1.798,40,1990,1000,10.0,2.044,False,False,flow is below target; increase duty
+63.547,3.453,2,603.0,603,True,256,605.066,True,7.417,1.137,40,1990,1000,10.0,2.492,False,False,flow is below target; increase duty
+63.687,3.593,2,603.0,603,True,256,605.492,True,6.909,0.502,40,1990,1000,10.0,3.051,False,False,flow is below target; increase duty
+63.812,3.718,2,603.0,603,True,256,605.688,True,6.165,-0.358,40,1990,1000,10.0,3.864,False,False,flow is below target; increase duty
+63.937,3.843,2,608.0,608,True,256,606.764,True,6.491,0.037,40,1990,1000,10.0,3.506,False,False,flow is below target; increase duty
+64.094,4.0,2,608.0,608,True,256,607.827,True,6.538,0.072,40,1990,1000,10.0,3.456,False,False,flow is below target; increase duty
+64.219,4.125,2,608.0,608,True,256,608.516,True,6.392,-0.093,40,2010,1000,10.0,3.615,False,False,flow is below target; increase duty
+64.359,4.265,2,608.0,608,True,256,609.128,True,6.077,-0.381,40,2010,1000,10.0,3.954,False,False,flow is below target; increase duty
+64.484,4.39,2,608.0,608,True,256,609.508,True,5.577,-0.863,40,2010,1000,10.0,4.492,False,False,flow is below target; increase duty
+64.609,4.515,2,608.0,608,True,256,609.758,True,4.941,-1.426,40,2010,1000,10.0,5.173,False,False,flow is below target; increase duty
+64.75,4.656,2,608.0,608,True,256,609.953,True,4.221,-1.917,40,2010,1000,10.0,5.932,False,False,flow is below target; increase duty
+64.891,4.797,2,612.0,612,True,256,610.823,True,4.264,-1.621,40,2010,1000,10.0,5.866,False,False,flow is below target; increase duty
+65.016,4.922,2,612.0,612,True,256,611.475,True,4.219,-1.453,40,2010,1000,10.0,5.898,False,False,flow is below target; increase duty
+65.156,5.062,2,612.0,612,True,256,612.041,True,4.004,-1.464,40,2010,1000,10.0,6.113,False,False,flow is below target; increase duty
+65.281,5.187,2,612.0,612,True,256,612.424,True,3.694,-1.599,40,2010,1000,10.0,6.434,False,False,flow is below target; increase duty
+65.406,5.312,2,612.0,612,True,256,612.699,True,3.285,-1.823,40,2010,1000,10.0,6.861,False,False,flow is below target; increase duty
+65.562,5.468,2,612.0,612,True,256,612.951,True,2.772,-2.018,40,2010,1000,10.0,7.39,False,False,flow is below target; increase duty
+65.687,5.593,2,612.0,612,True,256,613.025,True,2.212,-2.346,40,2010,1000,10.0,7.976,False,False,flow is below target; increase duty
+65.812,5.718,2,612.0,612,True,256,613.027,True,1.61,-2.675,40,2010,1000,10.0,8.604,False,False,flow is below target; increase duty
+65.953,5.859,2,617.0,617,True,256,613.982,True,2.036,-1.916,40,2010,1000,10.0,8.117,False,False,flow is below target; increase duty
+66.094,6.0,2,617.0,617,True,256,614.8,True,2.351,-1.363,40,2010,1000,10.0,7.758,False,False,flow is below target; increase duty
+66.219,6.125,2,617.0,617,True,256,615.466,True,2.641,-0.872,40,2030,1000,10.0,7.429,False,False,flow is below target; increase duty
+66.359,6.265,2,617.0,617,True,256,616.062,True,2.77,-0.633,40,2030,1000,10.0,7.281,False,False,flow is below target; increase duty
+66.484,6.39,2,617.0,617,True,256,616.523,True,2.834,-0.48,40,2030,1000,10.0,7.204,False,False,flow is below target; increase duty
+66.625,6.531,2,617.0,617,True,256,616.934,True,2.784,-0.463,40,2030,1000,10.0,7.253,False,False,flow is below target; increase duty
+66.75,6.656,2,622.0,622,True,256,618.223,True,3.859,0.745,40,2030,1000,10.0,6.081,False,False,flow is below target; increase duty
+66.891,6.797,2,622.0,622,True,256,619.419,True,4.651,1.395,40,2030,1000,10.0,5.238,False,False,flow is below target; increase duty
+67.016,6.922,2,622.0,622,True,256,620.409,True,5.302,1.904,40,2030,1000,10.0,4.546,False,False,flow is below target; increase duty
+67.156,7.062,2,622.0,622,True,256,621.336,True,5.746,2.073,40,2030,1000,10.0,4.088,False,False,flow is below target; increase duty
+67.281,7.187,2,622.0,622,True,256,622.057,True,5.989,2.055,40,2030,1000,10.0,3.847,False,False,flow is below target; increase duty
+67.422,7.328,2,622.0,622,True,256,622.737,True,6.082,1.869,40,2030,1000,10.0,3.768,False,False,flow is below target; increase duty
+67.547,7.453,2,622.0,622,True,256,623.21,True,5.953,1.482,40,2030,1000,10.0,3.928,False,False,flow is below target; increase duty
+67.687,7.593,2,626.0,626,True,256,624.446,True,6.577,1.879,40,2030,1000,10.0,3.273,False,False,flow is below target; increase duty
+67.828,7.734,2,626.0,626,True,256,625.514,True,6.971,2.001,40,2030,1000,10.0,2.869,False,False,flow is below target; increase duty
+67.953,7.859,2,626.0,626,True,256,626.321,True,7.125,1.899,40,2030,1000,10.0,2.723,False,False,flow is below target; increase duty
+68.078,7.984,2,626.0,626,True,256,626.981,True,7.068,1.585,40,2030,1000,10.0,2.805,False,False,flow is below target; increase duty
+68.219,8.125,2,626.0,626,True,256,627.595,True,6.867,1.184,40,2050,1000,10.0,3.038,False,False,flow is below target; increase duty
+68.344,8.25,2,626.0,626,True,256,627.97,True,6.425,0.553,40,2050,1000,10.0,3.531,False,False,flow is below target; increase duty
+68.5,8.406,2,626.0,626,True,256,628.383,True,5.938,0.064,40,2050,1000,10.0,4.057,False,False,flow is below target; increase duty
+68.625,8.531,2,626.0,626,True,256,628.501,True,5.196,-0.736,40,2050,1000,10.0,4.863,False,False,flow is below target; increase duty
+68.75,8.656,2,626.0,626,True,256,628.515,True,4.349,-1.541,40,2050,1000,10.0,5.774,False,False,flow is below target; increase duty
+68.891,8.797,2,626.0,626,True,256,628.491,True,3.469,-2.168,40,2050,1000,10.0,6.704,False,False,flow is below target; increase duty
+69.016,8.922,2,631.0,631,True,256,629.326,True,3.701,-1.632,40,2050,1000,10.0,6.43,False,False,flow is below target; increase duty
+69.141,9.047,2,631.0,631,True,256,630.021,True,3.79,-1.319,40,2050,1000,10.0,6.315,False,False,flow is below target; increase duty
+69.297,9.203,2,631.0,631,True,256,630.677,True,3.662,-1.252,40,2050,1000,10.0,6.438,False,False,flow is below target; increase duty
+69.422,9.328,2,631.0,631,True,256,631.1,True,3.476,-1.284,40,2050,1000,10.0,6.627,False,False,flow is below target; increase duty
+69.547,9.453,2,631.0,631,True,256,631.419,True,3.19,-1.418,40,2050,1000,10.0,6.924,False,False,flow is below target; increase duty
+69.687,9.593,2,631.0,631,True,256,631.682,True,2.808,-1.592,40,2050,1000,10.0,7.319,False,False,flow is below target; increase duty
+69.812,9.718,2,631.0,631,True,256,631.816,True,2.365,-1.853,40,2050,1000,10.0,7.784,False,False,flow is below target; increase duty
+69.937,9.843,2,631.0,631,True,256,631.878,True,1.87,-2.134,40,2050,1000,10.0,8.301,False,False,flow is below target; increase duty
+70.094,10.0,2,631.0,631,True,256,631.916,True,1.316,-2.32,40,2050,1000,10.0,8.87,False,False,flow is below target; increase duty
+70.219,10.125,2,631.0,631,True,256,631.85,True,0.771,-2.592,40,2070,1000,10.0,9.383,False,False,flow is below target; increase duty
+70.359,10.265,2,631.0,631,True,256,631.746,True,0.208,-2.782,40,2070,1000,10.0,9.834,False,False,flow is below target; increase duty
+70.5,10.406,2,631.0,631,True,256,631.598,True,0.0,-2.933,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+70.609,10.515,2,631.0,631,True,256,631.465,True,0.0,-3.128,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+70.766,10.672,2,631.0,631,True,256,631.341,True,0.0,-3.197,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+70.891,10.797,2,631.0,631,True,256,631.253,True,0.0,-3.278,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.016,10.922,2,631.0,631,True,256,631.182,True,0.0,-3.336,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.156,11.062,2,631.0,631,True,256,631.119,True,0.0,-3.367,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.281,11.187,2,631.0,631,True,256,631.074,True,0.0,-3.391,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.406,11.312,2,631.0,631,True,256,631.038,True,0.0,-3.403,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.562,11.468,2,631.0,631,True,256,630.997,True,0.0,-3.402,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.687,11.593,2,631.0,631,True,256,630.977,True,0.0,-3.395,40,2070,1000,10.0,10.0,False,False,flow is below target; increase duty
+71.812,11.718,2,636.0,636,True,256,631.96,True,0.788,-2.102,40,2070,1000,10.0,9.37,False,False,flow is below target; increase duty
+71.953,11.859,2,636.0,636,True,256,632.84,True,1.332,-1.307,40,2070,1000,10.0,8.773,False,False,flow is below target; increase duty
+72.078,11.984,2,636.0,636,True,256,633.597,True,1.889,-0.538,40,2070,1000,10.0,8.154,False,False,flow is below target; increase duty
+72.219,12.125,2,636.0,636,True,256,634.287,True,2.269,-0.108,40,2090,1000,10.0,7.74,False,False,flow is below target; increase duty
+72.359,12.265,2,636.0,636,True,256,634.882,True,2.553,0.178,40,2090,1000,10.0,7.433,False,False,flow is below target; increase duty
+72.5,12.406,2,636.0,636,True,256,635.395,True,2.739,0.33,40,2090,1000,10.0,7.235,False,False,flow is below target; increase duty
+72.625,12.531,2,636.0,636,True,256,635.792,True,2.842,0.396,40,2090,1000,10.0,7.126,False,False,flow is below target; increase duty
+72.75,12.656,2,636.0,636,True,256,636.121,True,2.856,0.357,40,2090,1000,10.0,7.116,False,False,flow is below target; increase duty
+72.891,12.797,2,636.0,636,True,256,636.421,True,2.794,0.252,40,2090,1000,10.0,7.186,False,False,flow is below target; increase duty
+73.031,12.937,2,640.0,640,True,256,637.452,True,3.512,0.902,40,2090,1000,10.0,6.416,False,False,flow is below target; increase duty
+73.156,13.062,2,640.0,640,True,256,638.318,True,4.129,1.44,40,2090,1000,10.0,5.756,False,False,flow is below target; increase duty
+73.281,13.187,2,640.0,640,True,256,639.077,True,4.586,1.735,40,2090,1000,10.0,5.275,False,False,flow is below target; increase duty
+73.422,13.328,2,640.0,640,True,256,639.792,True,4.886,1.787,40,2090,1000,10.0,4.971,False,False,flow is below target; increase duty
+73.547,13.453,2,640.0,640,True,256,640.334,True,5.009,1.681,40,2090,1000,10.0,4.856,False,False,flow is below target; increase duty
+73.687,13.593,2,640.0,640,True,256,640.841,True,5.019,1.466,40,2090,1000,10.0,4.864,False,False,flow is below target; increase duty
+73.828,13.734,2,640.0,640,True,256,641.251,True,4.893,1.151,40,2090,1000,10.0,5.015,False,False,flow is below target; increase duty
+73.953,13.859,2,640.0,640,True,256,641.497,True,4.588,0.672,40,2090,1000,10.0,5.358,False,False,flow is below target; increase duty
+74.094,14.0,2,645.0,645,True,256,642.721,True,5.289,1.246,40,2090,1000,10.0,4.611,False,False,flow is below target; increase duty
+74.219,14.125,2,645.0,645,True,256,643.713,True,5.831,1.657,40,2110,1000,10.0,4.037,False,False,flow is below target; increase duty
+74.344,14.25,2,645.0,645,True,256,644.564,True,6.169,1.797,40,2110,1000,10.0,3.688,False,False,flow is below target; increase duty
+74.5,14.406,2,645.0,645,True,256,645.438,True,6.344,1.707,40,2110,1000,10.0,3.52,False,False,flow is below target; increase duty
+74.625,14.531,2,645.0,645,True,256,645.996,True,6.258,1.388,40,2110,1000,10.0,3.631,False,False,flow is below target; increase duty
+74.75,14.656,2,645.0,645,True,256,646.431,True,6.002,0.93,40,2110,1000,10.0,3.923,False,False,flow is below target; increase duty
+74.891,14.797,2,650.0,650,True,256,647.829,True,6.711,1.476,40,2110,1000,10.0,3.171,False,False,flow is below target; increase duty
+75.016,14.922,2,650.0,650,True,256,648.944,True,7.212,1.814,40,2110,1000,10.0,2.643,False,False,flow is below target; increase duty
+75.141,15.047,2,650.0,650,True,256,649.888,True,7.473,1.85,40,2110,1000,10.0,2.379,False,False,flow is below target; increase duty
+75.297,15.203,2,650.0,650,True,256,650.861,True,7.554,1.673,40,2110,1000,10.0,2.312,False,False,flow is below target; increase duty
+75.422,15.328,2,650.0,650,True,256,651.454,True,7.327,1.208,40,2110,1000,10.0,2.576,False,False,flow is below target; increase duty
+75.547,15.453,2,650.0,650,True,256,651.904,True,6.907,0.599,40,2110,1000,10.0,3.045,False,False,flow is below target; increase duty
+75.703,15.609,2,650.0,650,True,256,652.391,True,6.426,0.107,40,2110,1000,10.0,3.566,False,False,flow is below target; increase duty
+75.812,15.718,2,654.0,654,True,256,653.274,True,6.687,0.413,40,2110,1000,10.0,3.28,False,False,flow is below target; increase duty
+75.937,15.843,2,654.0,654,True,256,654.09,True,6.712,0.384,40,2110,1000,10.0,3.257,False,False,flow is below target; increase duty
+76.094,16.0,2,654.0,654,True,256,654.919,True,6.553,0.198,40,2110,1000,10.0,3.431,False,False,flow is below target; increase duty
+76.219,16.125,2,654.0,654,True,256,655.392,True,6.16,-0.248,40,2130,1000,10.0,3.86,False,False,flow is below target; increase duty
+76.359,16.265,2,654.0,654,True,256,655.801,True,5.643,-0.707,40,2130,1000,10.0,4.414,False,False,flow is below target; increase duty
+76.5,16.406,2,654.0,654,True,256,656.072,True,4.992,-1.228,40,2130,1000,10.0,5.106,False,False,flow is below target; increase duty
+76.609,16.515,2,654.0,654,True,256,656.087,True,4.14,-2.106,40,2130,1000,10.0,6.028,False,False,flow is below target; increase duty
+76.766,16.672,2,654.0,654,True,256,656.169,True,3.291,-2.546,40,2130,1000,10.0,6.912,False,False,flow is below target; increase duty
+76.906,16.812,2,654.0,654,True,256,656.084,True,2.377,-3.078,40,2130,1000,10.0,7.869,False,False,flow is below target; increase duty
+77.016,16.922,2,654.0,654,True,256,655.861,True,1.404,-3.847,40,2130,1000,10.0,8.877,False,False,flow is below target; increase duty
+77.156,17.062,2,654.0,654,True,256,655.616,True,0.432,-4.259,40,2130,1000,10.0,9.654,False,False,flow is below target; increase duty
+77.297,17.203,2,654.0,654,True,256,655.308,True,0.0,-4.588,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+77.406,17.312,2,654.0,654,True,256,655.024,True,0.0,-5.019,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+77.562,17.468,2,654.0,654,True,256,654.771,True,0.0,-5.178,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+77.703,17.609,2,654.0,654,True,256,654.575,True,0.0,-5.322,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+77.812,17.718,2,654.0,654,True,256,654.435,True,0.0,-5.505,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+77.953,17.859,2,654.0,654,True,256,654.304,True,0.0,-5.582,40,2130,1000,10.0,10.0,False,False,flow is below target; increase duty
+78.078,17.984,2,659.0,659,True,256,655.208,True,0.44,-4.369,40,2130,1000,10.0,9.648,False,False,flow is below target; increase duty
+78.203,18.109,2,659.0,659,True,256,655.983,True,0.799,-3.403,40,2130,1000,10.0,9.361,False,False,flow is below target; increase duty
+78.359,18.265,2,659.0,659,True,256,656.653,True,0.832,-2.921,40,2150,1000,10.0,9.335,False,False,flow is below target; increase duty
+78.5,18.406,2,659.0,659,True,256,657.193,True,0.9,-2.467,40,2150,1000,10.0,9.28,False,False,flow is below target; increase duty
+78.625,18.531,2,659.0,659,True,256,657.629,True,1.003,-2.028,40,2150,1000,10.0,9.159,False,False,flow is below target; increase duty
+78.75,18.656,2,659.0,659,True,256,657.991,True,1.052,-1.705,40,2150,1000,10.0,9.084,False,False,flow is below target; increase duty
+78.891,18.797,2,659.0,659,True,256,658.298,True,0.999,-1.529,40,2150,1000,10.0,9.124,False,False,flow is below target; increase duty
+79.031,18.937,2,659.0,659,True,256,658.538,True,0.908,-1.411,40,2150,1000,10.0,9.204,False,False,flow is below target; increase duty
+79.156,19.062,2,659.0,659,True,256,658.713,True,0.818,-1.319,40,2150,1000,10.0,9.287,False,False,flow is below target; increase duty
+79.297,19.203,2,659.0,659,True,256,658.852,True,0.672,-1.282,40,2150,1000,10.0,9.431,False,False,flow is below target; increase duty
+79.422,19.328,2,659.0,659,True,256,658.941,True,0.529,-1.263,40,2150,1000,10.0,9.572,False,False,flow is below target; increase duty
+79.547,19.453,2,659.0,659,True,256,658.998,True,0.372,-1.262,40,2150,1000,10.0,9.702,False,False,flow is below target; increase duty
+79.687,19.593,2,664.0,664,True,256,660.03,True,1.259,-0.249,40,2150,1000,10.0,8.761,False,False,flow is below target; increase duty
+79.828,19.734,2,664.0,664,True,256,660.964,True,2.031,0.514,40,2150,1000,10.0,7.928,False,False,flow is below target; increase duty
+79.953,19.859,2,664.0,664,True,256,661.777,True,2.762,1.226,40,2150,1000,10.0,7.14,False,False,flow is below target; increase duty
+80.094,20.0,2,664.0,664,True,256,662.543,True,3.323,1.592,40,2150,1000,10.0,6.55,False,False,flow is below target; increase duty
+80.219,20.125,2,664.0,664,True,256,663.177,True,3.768,1.855,40,2150,1000,10.0,6.083,False,False,flow is below target; increase duty
+80.344,20.25,2,664.0,664,True,256,663.73,True,4.081,1.942,40,2150,1000,10.0,5.763,False,False,flow is below target; increase duty
+80.5,20.406,2,664.0,664,True,256,664.312,True,4.309,1.878,40,2170,1000,10.0,5.541,False,False,flow is below target; increase duty
+80.625,20.531,2,664.0,664,True,256,664.692,True,4.336,1.656,40,2170,1000,10.0,5.531,False,False,flow is below target; increase duty
+80.75,20.656,2,664.0,664,True,256,664.998,True,4.244,1.337,40,2170,1000,10.0,5.649,False,False,flow is below target; increase duty
+80.906,20.812,2,664.0,664,True,256,665.341,True,4.13,1.061,40,2170,1000,10.0,5.785,False,False,flow is below target; increase duty
+81.016,20.922,2,668.0,668,True,256,666.241,True,4.846,1.788,40,2170,1000,10.0,5.011,False,False,flow is below target; increase duty
+81.141,21.047,2,668.0,668,True,256,667.089,True,5.343,2.08,40,2170,1000,10.0,4.49,False,False,flow is below target; increase duty
+81.297,21.203,2,668.0,668,True,256,667.958,True,5.678,2.088,40,2170,1000,10.0,4.155,False,False,flow is below target; increase duty
+81.422,21.328,2,668.0,668,True,256,668.547,True,5.774,1.913,40,2170,1000,10.0,4.073,False,False,flow is below target; increase duty
+81.547,21.453,2,668.0,668,True,256,669.027,True,5.705,1.584,40,2170,1000,10.0,4.168,False,False,flow is below target; increase duty
+81.687,21.593,2,668.0,668,True,256,669.473,True,5.533,1.208,40,2170,1000,10.0,4.371,False,False,flow is below target; increase duty
+81.812,21.718,2,668.0,668,True,256,669.739,True,5.162,0.652,40,2170,1000,10.0,4.786,False,False,flow is below target; increase duty
+81.937,21.843,2,668.0,668,True,256,669.912,True,4.67,0.04,40,2170,1000,10.0,5.327,False,False,flow is below target; increase duty
+82.109,22.015,2,673.0,673,True,256,671.172,True,5.075,0.349,40,2170,1000,10.0,4.897,False,False,flow is below target; increase duty
+82.219,22.125,2,673.0,673,True,256,671.986,True,5.459,0.768,40,2170,1000,10.0,4.48,False,False,flow is below target; increase duty
+82.344,22.25,2,673.0,673,True,256,672.74,True,5.633,0.851,40,2170,1000,10.0,4.299,False,False,flow is below target; increase duty
+82.5,22.406,2,673.0,673,True,256,673.503,True,5.645,0.748,40,2190,1000,10.0,4.295,False,False,flow is below target; increase duty
+82.625,22.531,2,673.0,673,True,256,673.972,True,5.447,0.437,40,2190,1000,10.0,4.518,False,False,flow is below target; increase duty
+82.766,22.672,2,673.0,673,True,256,674.395,True,5.137,0.086,40,2190,1000,10.0,4.856,False,False,flow is below target; increase duty
+82.891,22.797,2,673.0,673,True,256,674.63,True,4.659,-0.436,40,2190,1000,10.0,5.376,False,False,flow is below target; increase duty
+83.016,22.922,2,678.0,678,True,256,675.768,True,5.274,0.279,40,2190,1000,10.0,4.703,False,False,flow is below target; increase duty
+83.156,23.062,2,678.0,678,True,256,676.807,True,5.633,0.583,40,2190,1000,10.0,4.32,False,False,flow is below target; increase duty
+83.297,23.203,2,678.0,678,True,256,677.686,True,5.799,0.662,40,2190,1000,10.0,4.148,False,False,flow is below target; increase duty
+83.406,23.312,2,678.0,678,True,256,678.257,True,5.782,0.554,40,2190,1000,10.0,4.173,False,False,flow is below target; increase duty
+83.562,23.468,2,678.0,678,True,256,678.933,True,5.645,0.362,40,2190,1000,10.0,4.326,False,False,flow is below target; increase duty
+83.703,23.609,2,678.0,678,True,256,679.386,True,5.327,0.014,40,2190,1000,10.0,4.672,False,False,flow is below target; increase duty
+83.812,23.718,2,678.0,678,True,256,679.573,True,4.787,-0.648,40,2190,1000,10.0,5.265,False,False,flow is below target; increase duty
+83.953,23.859,2,682.0,682,True,256,680.593,True,5.07,-0.295,40,2190,1000,10.0,4.954,False,False,flow is below target; increase duty
+84.109,24.015,2,682.0,682,True,256,681.505,True,5.143,-0.193,40,2190,1000,10.0,4.872,False,False,flow is below target; increase duty
+84.234,24.14,2,682.0,682,True,256,682.117,True,5.084,-0.23,40,2190,1000,10.0,4.935,False,False,flow is below target; increase duty
+84.359,24.265,2,682.0,682,True,256,682.6,True,4.875,-0.422,40,2190,1000,10.0,5.159,False,False,flow is below target; increase duty
+84.484,24.39,2,682.0,682,True,256,682.965,True,4.533,-0.731,40,2190,1000,10.0,5.526,False,False,flow is below target; increase duty
+84.609,24.515,2,682.0,682,True,256,683.221,True,4.075,-1.122,40,2210,1000,10.0,6.015,False,False,flow is below target; increase duty
+84.75,24.656,2,682.0,682,True,256,683.427,True,3.537,-1.481,40,2210,1000,10.0,6.581,False,False,flow is below target; increase duty
+84.891,24.797,2,682.0,682,True,256,683.529,True,2.922,-1.866,40,2210,1000,10.0,7.228,False,False,flow is below target; increase duty
+85.031,24.937,2,687.0,687,True,256,684.536,True,3.32,-1.237,40,2210,1000,10.0,6.778,False,False,flow is below target; increase duty
+85.156,25.062,2,687.0,687,True,256,685.353,True,3.66,-0.71,40,2210,1000,10.0,6.397,False,False,flow is below target; increase duty
+85.281,25.187,2,687.0,687,True,256,686.044,True,3.858,-0.404,40,2210,1000,10.0,6.174,False,False,flow is below target; increase duty
+85.422,25.328,2,687.0,687,True,256,686.667,True,3.89,-0.32,40,2210,1000,10.0,6.136,False,False,flow is below target; increase duty
+85.547,25.453,2,687.0,687,True,256,687.121,True,3.813,-0.359,40,2210,1000,10.0,6.215,False,False,flow is below target; increase duty
+85.687,25.593,2,687.0,687,True,256,687.521,True,3.624,-0.492,40,2210,1000,10.0,6.416,False,False,flow is below target; increase duty
+85.828,25.734,2,687.0,687,True,256,687.821,True,3.336,-0.698,40,2210,1000,10.0,6.72,False,False,flow is below target; increase duty
+85.953,25.859,2,687.0,687,True,256,687.986,True,2.953,-1.014,40,2210,1000,10.0,7.129,False,False,flow is below target; increase duty
+86.078,25.984,2,687.0,687,True,256,688.078,True,2.502,-1.359,40,2210,1000,10.0,7.606,False,False,flow is below target; increase duty
+86.219,26.125,2,687.0,687,True,256,688.134,True,2.009,-1.644,40,2210,1000,10.0,8.122,False,False,flow is below target; increase duty
+86.344,26.25,2,687.0,687,True,256,688.098,True,1.474,-1.995,40,2210,1000,10.0,8.685,False,False,flow is below target; increase duty
+86.484,26.39,2,687.0,687,True,256,688.028,True,0.92,-2.258,40,2210,1000,10.0,9.261,False,False,flow is below target; increase duty
+86.625,26.531,2,687.0,687,True,256,687.908,True,0.36,-2.486,40,2230,1000,10.0,9.712,False,False,flow is below target; increase duty
+86.75,26.656,2,687.0,687,True,256,687.747,True,0.0,-2.725,40,2230,1000,10.0,10.0,False,False,flow is below target; increase duty
+86.906,26.812,2,687.0,687,True,256,687.571,True,0.0,-2.842,40,2230,1000,10.0,10.0,False,False,flow is below target; increase duty
+87.016,26.922,2,687.0,687,True,256,687.443,True,0.0,-3.025,40,2230,1000,10.0,10.0,False,False,flow is below target; increase duty
+87.141,27.047,2,687.0,687,True,256,687.335,True,0.0,-3.133,40,2230,1000,10.0,10.0,False,False,flow is below target; increase duty
+87.297,27.203,2,692.0,692,True,256,688.238,True,0.416,-2.36,40,2230,1000,10.0,9.667,False,False,flow is below target; increase duty
+87.422,27.328,2,692.0,692,True,256,689.017,True,1.016,-1.405,40,2230,1000,10.0,9.097,False,False,flow is below target; increase duty
+87.547,27.453,2,692.0,692,True,256,689.706,True,1.528,-0.671,40,2230,1000,10.0,8.526,False,False,flow is below target; increase duty
+87.687,27.593,2,692.0,692,True,256,690.331,True,1.881,-0.245,40,2230,1000,10.0,8.139,False,False,flow is below target; increase duty
+87.812,27.718,2,692.0,692,True,256,690.851,True,2.195,0.122,40,2230,1000,10.0,7.795,False,False,flow is below target; increase duty
+87.937,27.843,2,692.0,692,True,256,691.301,True,2.42,0.346,40,2230,1000,10.0,7.553,False,False,flow is below target; increase duty
+88.094,28.0,2,692.0,692,True,256,691.748,True,2.534,0.397,40,2230,1000,10.0,7.434,False,False,flow is below target; increase duty
+88.219,28.125,2,692.0,692,True,256,692.055,True,2.567,0.379,40,2230,1000,10.0,7.402,False,False,flow is below target; increase duty
+88.344,28.25,2,692.0,692,True,256,692.303,True,2.524,0.282,40,2230,1000,10.0,7.454,False,False,flow is below target; increase duty
+88.5,28.406,2,692.0,692,True,256,692.56,True,2.433,0.167,40,2230,1000,10.0,7.553,False,False,flow is below target; increase duty
+88.609,28.515,2,692.0,692,True,256,692.661,True,2.224,-0.111,40,2230,1000,10.0,7.785,False,False,flow is below target; increase duty
+88.75,28.656,2,692.0,692,True,256,692.779,True,2.001,-0.307,40,2250,1000,10.0,8.023,False,False,flow is below target; increase duty
+88.906,28.812,2,692.0,692,True,256,692.87,True,1.744,-0.486,40,2250,1000,10.0,8.294,False,False,flow is below target; increase duty
+89.016,28.922,2,692.0,692,True,256,692.847,True,1.402,-0.836,40,2250,1000,10.0,8.665,False,False,flow is below target; increase duty
+89.156,29.062,2,692.0,692,True,256,692.828,True,1.063,-1.047,40,2250,1000,10.0,9.02,False,False,flow is below target; increase duty
+89.297,29.203,2,692.0,692,True,256,692.774,True,0.71,-1.241,40,2250,1000,10.0,9.389,False,False,flow is below target; increase duty
+89.406,29.312,2,692.0,692,True,256,692.675,True,0.342,-1.526,40,2250,1000,10.0,9.726,False,False,flow is below target; increase duty
+89.562,29.468,2,692.0,692,True,256,692.568,True,0.0,-1.642,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+89.703,29.609,2,692.0,692,True,256,692.441,True,0.0,-1.753,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+89.812,29.718,2,692.0,692,True,256,692.345,True,0.0,-1.898,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+89.953,29.859,2,692.0,692,True,256,692.261,True,0.0,-1.964,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.094,30.0,2,692.0,692,True,256,692.193,True,0.0,-2.013,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.203,30.109,2,692.0,692,True,256,692.145,True,0.0,-2.074,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.359,30.265,2,692.0,692,True,256,692.096,True,0.0,-2.093,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.5,30.406,2,692.0,692,True,256,692.06,True,0.0,-2.108,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.609,30.515,2,692.0,692,True,256,692.038,True,0.0,-2.124,40,2250,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.75,30.656,2,692.0,692,True,256,692.013,True,0.0,-2.128,40,2270,1000,10.0,10.0,False,False,flow is below target; increase duty
+90.906,30.812,2,696.0,696,True,256,692.79,True,0.44,-1.468,40,2270,1000,10.0,9.648,False,False,flow is below target; increase duty
+91.031,30.937,2,696.0,696,True,256,693.467,True,1.016,-0.657,40,2270,1000,10.0,9.036,False,False,flow is below target; increase duty
+91.156,31.062,2,696.0,696,True,256,694.071,True,1.513,-0.04,40,2270,1000,10.0,8.491,False,False,flow is below target; increase duty
+91.281,31.187,2,696.0,696,True,256,694.608,True,1.925,0.405,40,2270,1000,10.0,8.042,False,False,flow is below target; increase duty
+91.422,31.328,2,696.0,696,True,256,695.107,True,2.22,0.63,40,2270,1000,10.0,7.73,False,False,flow is below target; increase duty
+91.547,31.453,2,696.0,696,True,256,695.511,True,2.445,0.786,40,2270,1000,10.0,7.492,False,False,flow is below target; increase duty
+91.703,31.609,2,702.0,702,True,256,697.122,True,3.741,1.789,40,2270,1000,10.0,6.116,False,False,flow is below target; increase duty
+91.828,31.734,2,702.0,702,True,256,698.483,True,5.02,2.914,40,2270,1000,10.0,4.747,False,False,flow is below target; increase duty
+91.953,31.859,2,702.0,702,True,256,699.706,True,6.072,3.648,40,2270,1000,10.0,3.636,False,False,flow is below target; increase duty
+92.078,31.984,2,702.0,702,True,256,700.795,True,6.889,4.034,40,2270,1000,10.0,2.788,False,False,flow is below target; increase duty
+92.219,32.125,2,702.0,702,True,256,701.845,True,7.499,4.073,40,2270,1000,10.0,2.175,False,False,flow is below target; increase duty
+92.344,32.25,2,702.0,702,True,256,702.652,True,7.813,3.864,40,2270,1000,10.0,1.878,False,False,flow is below target; increase duty
+92.5,32.406,2,702.0,702,True,256,703.534,True,8.047,3.549,40,2270,1000,10.0,1.669,False,False,flow is below target; increase duty
+92.625,32.531,2,707.0,707,True,256,705.054,True,9.074,4.172,40,2270,1000,10.0,0.592,True,False,flow is within ±1.5 mg/s of target; parameters locked
+92.75,32.656,2,707.0,707,True,256,706.377,True,9.783,4.371,40,2270,1000,10.0,-0.133,True,False,flow is within ±1.5 mg/s of target; parameters locked
+92.906,32.812,2,707.0,707,True,256,707.765,True,10.281,4.214,40,2270,1000,10.0,-0.618,True,False,flow is within ±1.5 mg/s of target; parameters locked
+93.016,32.922,2,707.0,707,True,256,708.537,True,10.22,3.579,40,2270,1000,10.0,-0.507,True,False,flow is within ±1.5 mg/s of target; parameters locked
+93.141,33.047,2,707.0,707,True,256,709.274,True,9.986,2.851,40,2270,1000,10.0,-0.214,True,False,flow is within ±1.5 mg/s of target; parameters locked
+93.297,33.203,2,707.0,707,True,256,710.093,True,9.687,2.216,40,2270,1000,10.0,0.136,True,False,flow is within ±1.5 mg/s of target; parameters locked
+93.422,33.328,2,707.0,707,True,256,710.457,True,8.927,1.109,40,2270,1000,10.0,0.985,True,False,flow is within ±1.5 mg/s of target; parameters locked
+93.547,33.453,2,707.0,707,True,256,710.665,True,7.966,-0.063,40,2270,1000,10.0,2.039,False,False,flow is below target; increase duty
+93.687,33.593,2,707.0,707,True,256,710.824,True,6.933,-1.039,40,2270,1000,10.0,3.15,False,False,flow is below target; increase duty
+93.812,33.718,2,707.0,707,True,256,710.746,True,5.679,-2.238,40,2270,1000,10.0,4.5,False,False,flow is below target; increase duty
+93.937,33.843,2,707.0,707,True,256,710.551,True,4.334,-3.374,40,2270,1000,10.0,5.936,False,False,flow is below target; increase duty
+94.109,34.015,2,707.0,707,True,256,710.397,True,3.013,-3.948,40,2270,1000,10.0,7.303,False,False,flow is below target; increase duty
+94.219,34.125,2,707.0,707,True,256,709.964,True,1.569,-5.173,40,2270,1000,10.0,8.745,False,False,flow is below target; increase duty
+94.344,34.25,2,707.0,707,True,256,709.495,True,0.173,-5.971,40,2270,1000,10.0,9.861,False,False,flow is below target; increase duty
+94.5,34.406,2,707.0,707,True,256,708.96,True,0.0,-6.374,40,2270,1000,10.0,10.0,False,False,flow is below target; increase duty
+94.609,34.515,2,707.0,707,True,256,708.538,True,0.0,-7.021,40,2270,1000,10.0,10.0,False,False,flow is below target; increase duty
+94.734,34.64,2,707.0,707,True,256,708.186,True,0.0,-7.4,40,2270,1000,10.0,10.0,False,False,flow is below target; increase duty
+94.906,34.812,2,707.0,707,True,256,707.861,True,0.0,-7.546,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.031,34.937,2,707.0,707,True,256,707.642,True,0.0,-7.751,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.156,35.062,2,707.0,707,True,256,707.465,True,0.0,-7.9,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.297,35.203,2,707.0,707,True,256,707.309,True,0.0,-7.978,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.406,35.312,2,707.0,707,True,256,707.209,True,0.0,-8.066,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.562,35.468,2,707.0,707,True,256,707.089,True,0.0,-8.085,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.703,35.609,2,707.0,707,True,256,707.007,True,0.0,-8.086,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.812,35.718,2,707.0,707,True,256,706.967,True,0.0,-8.072,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+95.953,35.859,2,707.0,707,True,256,706.91,True,0.0,-8.05,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.094,36.0,2,707.0,707,True,256,706.864,True,0.0,-8.015,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.203,36.109,2,707.0,707,True,256,706.853,True,0.0,-7.953,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.359,36.265,2,707.0,707,True,256,706.805,True,0.0,-7.913,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.5,36.406,2,707.0,707,True,256,706.781,True,0.0,-7.858,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.609,36.515,2,707.0,707,True,256,706.787,True,0.0,-7.769,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.75,36.656,2,707.0,707,True,256,706.768,True,0.0,-7.71,40,2290,1000,10.0,10.0,False,False,flow is below target; increase duty
+96.875,36.781,2,711.0,711,True,256,707.566,True,0.066,-6.612,40,2290,1000,10.0,9.947,False,False,flow is below target; increase duty
+97.016,36.922,2,711.0,711,True,256,708.208,True,0.0,-5.909,40,2310,1000,10.0,10.0,False,False,flow is below target; increase duty
+97.156,37.062,2,711.0,711,True,256,708.72,True,0.0,-5.328,40,2310,1000,10.0,10.0,False,False,flow is below target; increase duty
+97.297,37.203,2,711.0,711,True,256,709.134,True,0.0,-4.858,40,2310,1000,10.0,10.0,False,False,flow is below target; increase duty
+97.422,37.328,2,711.0,711,True,256,709.477,True,0.0,-4.371,40,2310,1000,10.0,10.0,False,True,clog suspected; increase frequency and duty
+97.547,37.453,2,711.0,711,True,256,709.754,True,0.0,-3.972,40,2310,1000,10.0,10.0,False,True,clog suspected; increase frequency and duty
+97.672,37.578,2,717.0,717,True,256,711.178,True,1.25,-2.109,40,2310,1000,10.0,8.919,False,False,flow is below target; increase duty
+97.828,37.734,2,717.0,717,True,256,712.478,True,2.008,-1.18,40,2310,1000,10.0,8.086,False,False,flow is below target; increase duty
+97.953,37.859,2,717.0,717,True,256,713.576,True,2.888,-0.085,40,2310,1000,10.0,7.119,False,False,flow is below target; increase duty
+98.094,38.0,2,717.0,717,True,256,714.586,True,3.518,0.523,40,2310,1000,10.0,6.44,False,False,flow is below target; increase duty
+98.219,38.125,2,717.0,717,True,256,715.424,True,4.056,1.027,40,2310,1000,10.0,5.862,False,False,flow is below target; increase duty
+98.344,38.25,2,717.0,717,True,256,716.151,True,4.439,1.299,40,2310,1000,10.0,5.457,False,False,flow is below target; increase duty
+98.469,38.375,2,717.0,717,True,256,716.773,True,4.67,1.371,40,2310,1000,10.0,5.221,False,False,flow is below target; increase duty
+98.625,38.531,2,717.0,717,True,256,717.414,True,4.784,1.286,40,2310,1000,10.0,5.113,False,False,flow is below target; increase duty
+98.75,38.656,2,717.0,717,True,256,717.818,True,4.699,1.025,40,2310,1000,10.0,5.219,False,False,flow is below target; increase duty
+98.875,38.781,2,721.0,721,True,256,718.931,True,5.448,1.687,40,2310,1000,10.0,4.417,False,False,flow is below target; increase duty
+99.016,38.922,2,721.0,721,True,256,719.973,True,5.959,1.945,40,2330,1000,10.0,3.885,False,False,flow is below target; increase duty
+99.156,39.062,2,721.0,721,True,256,720.861,True,6.269,1.981,40,2330,1000,10.0,3.573,False,False,flow is below target; increase duty
+99.297,39.203,2,721.0,721,True,256,721.611,True,6.386,1.827,40,2330,1000,10.0,3.468,False,False,flow is below target; increase duty
+99.422,39.328,2,721.0,721,True,256,722.139,True,6.272,1.462,40,2330,1000,10.0,3.611,False,False,flow is below target; increase duty
+99.547,39.453,2,721.0,721,True,256,722.548,True,5.991,0.967,40,2330,1000,10.0,3.932,False,False,flow is below target; increase duty
+99.703,39.609,2,726.0,726,True,256,723.995,True,6.624,1.379,40,2330,1000,10.0,3.266,False,False,flow is below target; increase duty
+99.812,39.718,2,726.0,726,True,256,724.98,True,7.125,1.808,40,2330,1000,10.0,2.731,False,False,flow is below target; increase duty
+99.937,39.843,2,726.0,726,True,256,725.908,True,7.378,1.838,40,2330,1000,10.0,2.475,False,False,flow is below target; increase duty
+100.094,40.0,2,726.0,726,True,256,726.871,True,7.459,1.661,40,2330,1000,10.0,2.408,False,False,flow is below target; increase duty
+100.219,40.125,2,726.0,726,True,256,727.453,True,7.23,1.196,40,2330,1000,10.0,2.674,False,False,flow is below target; increase duty
+100.344,40.25,2,726.0,726,True,256,727.893,True,6.812,0.59,40,2330,1000,10.0,3.141,False,False,flow is below target; increase duty
+100.5,40.406,2,731.0,731,True,256,729.37,True,7.296,0.925,40,2330,1000,10.0,2.63,False,False,flow is below target; increase duty
+100.609,40.515,2,732.0,732,True,256,730.537,True,7.9,1.541,40,2330,1000,10.0,1.977,False,False,flow is below target; increase duty
+100.734,40.64,2,732.0,732,True,256,731.629,True,8.204,1.659,40,2330,1000,10.0,1.664,False,False,flow is below target; increase duty
+100.891,40.797,2,732.0,732,True,256,732.75,True,8.285,1.507,40,2330,1000,10.0,1.594,False,False,flow is below target; increase duty
+101.016,40.922,2,732.0,732,True,256,733.438,True,8.042,1.047,40,2350,1000,10.0,1.874,False,False,flow is below target; increase duty
+101.156,41.062,2,732.0,732,True,256,734.059,True,7.637,0.522,40,2350,1000,10.0,2.321,False,False,flow is below target; increase duty
+101.297,41.203,2,732.0,732,True,256,734.513,True,7.042,-0.11,40,2350,1000,10.0,2.967,False,False,flow is below target; increase duty
+101.406,41.312,2,732.0,732,True,256,734.624,True,6.127,-1.215,40,2350,1000,10.0,3.97,False,False,flow is below target; increase duty
+101.562,41.468,2,732.0,732,True,256,734.852,True,5.252,-1.801,40,2350,1000,10.0,4.892,False,False,flow is below target; increase duty
+101.703,41.609,2,737.0,737,True,256,735.86,True,5.302,-1.514,40,2350,1000,10.0,4.819,False,False,flow is below target; increase duty
+101.812,41.718,2,737.0,737,True,256,736.543,True,5.294,-1.322,40,2350,1000,10.0,4.812,False,False,flow is below target; increase duty
+101.953,41.859,2,737.0,737,True,256,737.221,True,5.049,-1.377,40,2350,1000,10.0,5.061,False,False,flow is below target; increase duty
+102.094,42.0,2,737.0,737,True,256,737.735,True,4.659,-1.562,40,2350,1000,10.0,5.466,False,False,flow is below target; increase duty
+102.203,42.109,2,737.0,737,True,256,737.987,True,4.149,-1.977,40,2350,1000,10.0,6.009,False,False,flow is below target; increase duty
+102.359,42.265,2,743.0,743,True,256,739.488,True,4.685,-1.256,40,2350,1000,10.0,5.416,False,False,flow is below target; increase duty
+102.5,42.406,2,743.0,743,True,256,740.709,True,5.117,-0.68,40,2350,1000,10.0,4.937,False,False,flow is below target; increase duty
+102.609,42.515,2,743.0,743,True,256,741.61,True,5.521,-0.095,40,2350,1000,10.0,4.486,False,False,flow is below target; increase duty
+102.75,42.656,2,743.0,743,True,256,742.51,True,5.638,0.028,40,2350,1000,10.0,4.36,False,False,flow is below target; increase duty
+102.875,42.781,2,743.0,743,True,256,743.172,True,5.59,-0.027,40,2350,1000,10.0,4.412,False,False,flow is below target; increase duty
+103.016,42.922,2,743.0,743,True,256,743.768,True,5.382,-0.22,40,2370,1000,10.0,4.636,False,False,flow is below target; increase duty
+103.156,43.062,2,748.0,748,True,256,745.215,True,6.097,0.49,40,2370,1000,10.0,3.864,False,False,flow is below target; increase duty
+103.297,43.203,2,748.0,748,True,256,746.464,True,6.574,0.877,40,2370,1000,10.0,3.355,False,False,flow is below target; increase duty
+103.422,43.328,2,748.0,748,True,256,747.434,True,6.854,1.058,40,2370,1000,10.0,3.062,False,False,flow is below target; increase duty
+103.547,43.453,2,748.0,748,True,256,748.239,True,6.914,0.981,40,2370,1000,10.0,3.007,False,False,flow is below target; increase duty
+103.672,43.578,2,748.0,748,True,256,748.889,True,6.77,0.697,40,2370,1000,10.0,3.174,False,False,flow is below target; increase duty
+103.828,43.734,2,753.0,753,True,256,750.563,True,7.465,1.197,40,2370,1000,10.0,2.44,False,False,flow is below target; increase duty
+103.953,43.859,2,753.0,753,True,256,751.804,True,7.973,1.58,40,2370,1000,10.0,1.901,False,False,flow is below target; increase duty
+104.078,43.984,2,753.0,753,True,256,752.851,True,8.215,1.628,40,2370,1000,10.0,1.654,False,False,flow is below target; increase duty
+104.219,44.125,2,753.0,753,True,256,753.82,True,8.227,1.422,40,2370,1000,10.0,1.66,False,False,flow is below target; increase duty
+104.344,44.25,2,753.0,753,True,256,754.488,True,7.958,0.945,40,2370,1000,10.0,1.966,False,False,flow is below target; increase duty
+104.5,44.406,2,753.0,753,True,256,755.193,True,7.579,0.495,40,2370,1000,10.0,2.382,False,False,flow is below target; increase duty
+104.625,44.531,2,753.0,753,True,256,755.515,True,6.886,-0.31,40,2370,1000,10.0,3.139,False,False,flow is below target; increase duty
+104.75,44.656,2,753.0,753,True,256,755.699,True,6.038,-1.173,40,2370,1000,10.0,4.056,False,False,flow is below target; increase duty
+104.875,44.781,2,758.0,758,True,256,756.755,True,6.264,-0.775,40,2370,1000,10.0,3.798,False,False,flow is below target; increase duty
+105.016,44.922,2,758.0,758,True,256,757.705,True,6.234,-0.701,40,2390,1000,10.0,3.822,False,False,flow is below target; increase duty
+105.156,45.062,2,758.0,758,True,256,758.456,True,6.013,-0.817,40,2390,1000,10.0,4.052,False,False,flow is below target; increase duty
+105.297,45.203,2,758.0,758,True,256,759.037,True,5.622,-1.078,40,2390,1000,10.0,4.464,False,False,flow is below target; increase duty
+105.422,45.328,2,758.0,758,True,256,759.385,True,5.072,-1.521,40,2390,1000,10.0,5.05,False,False,flow is below target; increase duty
+105.547,45.453,2,758.0,758,True,256,759.606,True,4.4,-2.035,40,2390,1000,10.0,5.763,False,False,flow is below target; increase duty
+105.703,45.609,2,762.0,762,True,256,760.614,True,4.416,-1.75,40,2390,1000,10.0,5.724,False,False,flow is below target; increase duty
+105.812,45.718,2,762.0,762,True,256,761.268,True,4.477,-1.442,40,2390,1000,10.0,5.638,False,False,flow is below target; increase duty
+105.937,45.843,2,762.0,762,True,256,761.853,True,4.341,-1.395,40,2390,1000,10.0,5.771,False,False,flow is below target; increase duty
+106.109,46.015,2,762.0,762,True,256,762.463,True,4.0,-1.473,40,2390,1000,10.0,6.118,False,False,flow is below target; increase duty
+106.219,46.125,2,762.0,762,True,256,762.715,True,3.594,-1.769,40,2390,1000,10.0,6.548,False,False,flow is below target; increase duty
+106.344,46.25,2,762.0,762,True,256,762.921,True,3.097,-2.064,40,2390,1000,10.0,7.069,False,False,flow is below target; increase duty
+106.5,46.406,2,768.0,768,True,256,764.303,True,3.663,-1.304,40,2390,1000,10.0,6.441,False,False,flow is below target; increase duty
+106.609,46.515,2,768.0,768,True,256,765.356,True,4.431,-0.191,40,2390,1000,10.0,5.584,False,False,flow is below target; increase duty
+106.734,46.64,2,768.0,768,True,256,766.326,True,4.909,0.344,40,2390,1000,10.0,5.063,False,False,flow is below target; increase duty
+106.906,46.812,2,768.0,768,True,256,767.341,True,5.112,0.456,40,2390,1000,10.0,4.851,False,False,flow is below target; increase duty
+107.016,46.922,2,768.0,768,True,256,767.925,True,5.188,0.487,40,2410,1000,10.0,4.773,False,False,flow is below target; increase duty
+107.203,47.109,2,768.0,768,True,256,768.723,True,5.134,0.384,40,2410,1000,10.0,4.835,False,False,flow is below target; increase duty
+107.344,47.25,2,768.0,768,True,256,769.16,True,4.88,0.092,40,2410,1000,10.0,5.113,False,False,flow is below target; increase duty
+107.469,47.375,2,768.0,768,True,256,769.417,True,4.466,-0.361,40,2410,1000,10.0,5.563,False,False,flow is below target; increase duty
+107.625,47.531,2,773.0,773,True,256,770.687,True,4.966,0.114,40,2410,1000,10.0,5.025,False,False,flow is below target; increase duty
+107.75,47.656,2,774.0,774,True,256,771.847,True,5.626,0.803,40,2410,1000,10.0,4.31,False,False,flow is below target; increase duty
+107.875,47.781,2,774.0,774,True,256,772.845,True,6.073,1.172,40,2410,1000,10.0,3.834,False,False,flow is below target; increase duty
+108.016,47.922,2,774.0,774,True,256,773.771,True,6.299,1.23,40,2410,1000,10.0,3.603,False,False,flow is below target; increase duty
+108.141,48.047,2,774.0,774,True,256,774.454,True,6.316,1.085,40,2410,1000,10.0,3.597,False,False,flow is below target; increase duty
+108.297,48.203,2,774.0,774,True,256,775.162,True,6.206,0.846,40,2410,1000,10.0,3.726,False,False,flow is below target; increase duty
+108.422,48.328,2,779.0,779,True,256,776.556,True,7.045,1.628,40,2410,1000,10.0,2.824,False,False,flow is below target; increase duty
+108.547,48.453,2,779.0,779,True,256,777.759,True,7.621,2.025,40,2410,1000,10.0,2.217,False,False,flow is below target; increase duty
+108.703,48.609,2,779.0,779,True,256,778.978,True,7.942,2.03,40,2410,1000,10.0,1.895,False,False,flow is below target; increase duty
+108.812,48.718,2,779.0,779,True,256,779.685,True,7.928,1.741,40,2410,1000,10.0,1.933,False,False,flow is below target; increase duty
+108.937,48.843,2,779.0,779,True,256,780.351,True,7.74,1.309,40,2410,1000,10.0,2.155,False,False,flow is below target; increase duty
+109.094,49.0,2,779.0,779,True,256,781.066,True,7.452,0.89,40,2430,1000,10.0,2.477,False,False,flow is below target; increase duty
+109.234,49.14,2,785.0,785,True,256,782.695,True,8.194,1.478,40,2430,1000,10.0,1.688,False,False,flow is below target; increase duty
+109.344,49.25,2,785.0,785,True,256,783.884,True,8.737,1.939,40,2430,1000,10.0,1.108,True,False,flow is within ±1.5 mg/s of target; parameters locked
+109.5,49.406,2,785.0,785,True,256,785.216,True,8.988,1.895,40,2430,1000,10.0,0.861,True,False,flow is within ±1.5 mg/s of target; parameters locked
+109.609,49.515,2,785.0,785,True,256,785.966,True,8.862,1.488,40,2430,1000,10.0,1.019,True,False,flow is within ±1.5 mg/s of target; parameters locked
+109.734,49.64,2,785.0,785,True,256,786.668,True,8.548,0.954,40,2430,1000,10.0,1.376,True,False,flow is within ±1.5 mg/s of target; parameters locked
+109.891,49.797,2,785.0,785,True,256,787.418,True,8.12,0.464,40,2430,1000,10.0,1.843,False,False,flow is below target; increase duty
+110.016,49.922,2,791.0,791,True,256,788.949,True,8.793,1.12,40,2430,1000,10.0,1.117,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.141,50.047,2,791.0,791,True,256,790.245,True,9.16,1.362,40,2430,1000,10.0,0.731,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.312,50.218,2,791.0,791,True,256,791.665,True,9.247,1.248,40,2430,1000,10.0,0.654,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.437,50.343,2,791.0,791,True,256,792.465,True,8.963,0.779,40,2430,1000,10.0,0.974,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.562,50.468,2,791.0,791,True,256,793.073,True,8.439,0.116,40,2430,1000,10.0,1.552,False,False,flow is below target; increase duty
+110.703,50.609,2,797.0,797,True,256,794.811,True,9.037,0.666,40,2430,1000,10.0,0.909,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.812,50.718,2,797.0,797,True,256,796.04,True,9.44,1.07,40,2430,1000,10.0,0.474,True,False,flow is within ±1.5 mg/s of target; parameters locked
+110.953,50.859,2,797.0,797,True,256,797.305,True,9.51,0.994,40,2430,1000,10.0,0.411,True,False,flow is within ±1.5 mg/s of target; parameters locked
+111.078,50.984,2,797.0,797,True,256,798.202,True,9.273,0.609,40,2430,1000,10.0,0.678,True,False,flow is within ±1.5 mg/s of target; parameters locked
+111.203,51.109,2,797.0,797,True,256,798.892,True,8.782,0.003,40,2430,1000,10.0,1.218,True,False,flow is within ±1.5 mg/s of target; parameters locked
+111.359,51.265,2,801.0,801,True,256,800.41,True,8.924,0.125,40,2430,1000,10.0,1.066,True,False,flow is within ±1.5 mg/s of target; parameters locked
+111.5,51.406,2,801.0,801,True,256,801.536,True,8.799,-0.01,40,2430,1000,10.0,1.201,True,False,flow is within ±1.5 mg/s of target; parameters locked
+111.609,51.515,2,801.0,801,True,256,802.196,True,8.387,-0.513,40,2430,1000,10.0,1.654,False,False,flow is below target; increase duty
+111.75,51.656,2,801.0,801,True,256,802.899,True,7.81,-0.991,40,2430,1000,10.0,2.27,False,False,flow is below target; increase duty
+111.891,51.797,2,801.0,801,True,256,803.392,True,7.034,-1.592,40,2430,1000,10.0,3.094,False,False,flow is below target; increase duty
+112.0,51.906,2,806.0,806,True,256,804.519,True,7.37,-0.969,40,2430,1000,10.0,2.708,False,False,flow is below target; increase duty
+112.156,52.062,2,807.0,807,True,256,805.926,True,7.477,-0.748,40,2430,1000,10.0,2.583,False,False,flow is below target; increase duty
+112.281,52.187,2,807.0,807,True,256,806.884,True,7.418,-0.711,40,2430,1000,10.0,2.639,False,False,flow is below target; increase duty
+112.422,52.328,2,807.0,807,True,256,807.738,True,7.122,-0.897,40,2430,1000,10.0,2.95,False,False,flow is below target; increase duty
+112.547,52.453,2,807.0,807,True,256,808.297,True,6.62,-1.312,40,2430,1000,10.0,3.485,False,False,flow is below target; increase duty
+112.703,52.609,2,807.0,807,True,256,808.851,True,5.971,-1.692,40,2430,1000,10.0,4.165,False,False,flow is below target; increase duty
+112.828,52.734,2,813.0,813,True,256,810.267,True,6.579,-0.818,40,2430,1000,10.0,3.486,False,False,flow is below target; increase duty
+112.953,52.859,2,813.0,813,True,256,811.467,True,6.937,-0.327,40,2430,1000,10.0,3.089,False,False,flow is below target; increase duty
+113.109,53.015,2,813.0,813,True,256,812.636,True,6.973,-0.252,40,2430,1000,10.0,3.047,False,False,flow is below target; increase duty
+113.219,53.125,2,813.0,813,True,256,813.321,True,6.836,-0.385,40,2450,1000,10.0,3.195,False,False,flow is below target; increase duty
+113.359,53.265,2,813.0,813,True,256,814.02,True,6.509,-0.645,40,2450,1000,10.0,3.542,False,False,flow is below target; increase duty
+113.469,53.375,2,813.0,813,True,256,814.385,True,5.966,-1.217,40,2450,1000,10.0,4.131,False,False,flow is below target; increase duty
+113.625,53.531,2,813.0,813,True,256,814.841,True,5.334,-1.596,40,2450,1000,10.0,4.794,False,False,flow is below target; increase duty
+113.75,53.656,2,817.0,817,True,256,815.796,True,5.495,-1.21,40,2450,1000,10.0,4.601,False,False,flow is below target; increase duty
+113.906,53.812,2,817.0,817,True,256,816.711,True,5.376,-1.151,40,2450,1000,10.0,4.716,False,False,flow is below target; increase duty
+114.016,53.922,2,817.0,817,True,256,817.236,True,5.169,-1.249,40,2450,1000,10.0,4.931,False,False,flow is below target; increase duty
+114.141,54.047,2,817.0,817,True,256,817.698,True,4.803,-1.472,40,2450,1000,10.0,5.314,False,False,flow is below target; increase duty
+114.266,54.172,2,817.0,817,True,256,818.03,True,4.31,-1.801,40,2450,1000,10.0,5.834,False,False,flow is below target; increase duty
+114.422,54.328,2,817.0,817,True,256,818.344,True,3.706,-2.078,40,2450,1000,10.0,6.46,False,False,flow is below target; increase duty
+114.547,54.453,2,823.0,823,True,256,819.633,True,4.457,-1.0,40,2450,1000,10.0,5.623,False,False,flow is below target; increase duty
+114.703,54.609,2,823.0,823,True,256,820.853,True,4.817,-0.559,40,2450,1000,10.0,5.228,False,False,flow is below target; increase duty
+114.812,54.718,2,823.0,823,True,256,821.7,True,5.203,-0.012,40,2450,1000,10.0,4.798,False,False,flow is below target; increase duty
+114.937,54.843,2,823.0,823,True,256,822.48,True,5.358,0.155,40,2450,1000,10.0,4.63,False,False,flow is below target; increase duty
+115.094,55.0,2,823.0,823,True,256,823.258,True,5.32,0.102,40,2450,1000,10.0,4.671,False,False,flow is below target; increase duty
+115.219,55.125,2,823.0,823,True,256,823.739,True,5.111,-0.134,40,2470,1000,10.0,4.899,False,False,flow is below target; increase duty
+115.344,55.25,2,828.0,828,True,256,825.102,True,5.964,0.793,40,2470,1000,10.0,3.973,False,False,flow is below target; increase duty
+115.5,55.406,2,828.0,828,True,256,826.433,True,6.464,1.115,40,2470,1000,10.0,3.447,False,False,flow is below target; increase duty
+115.609,55.515,2,828.0,828,True,256,827.316,True,6.821,1.403,40,2470,1000,10.0,3.067,False,False,flow is below target; increase duty
+115.734,55.64,2,828.0,828,True,256,828.144,True,6.953,1.357,40,2470,1000,10.0,2.938,False,False,flow is below target; increase duty
+115.891,55.797,2,828.0,828,True,256,829.002,True,6.927,1.154,40,2470,1000,10.0,2.98,False,False,flow is below target; increase duty
+116.016,55.922,2,832.0,832,True,256,830.301,True,7.581,1.697,40,2470,1000,10.0,2.283,False,False,flow is below target; increase duty
+116.141,56.047,2,833.0,833,True,256,831.61,True,8.21,2.142,40,2470,1000,10.0,1.618,False,False,flow is below target; increase duty
+116.297,56.203,2,833.0,833,True,256,832.933,True,8.561,2.156,40,2470,1000,10.0,1.267,True,False,flow is within ±1.5 mg/s of target; parameters locked
+116.406,56.312,2,833.0,833,True,256,833.703,True,8.554,1.86,40,2470,1000,10.0,1.297,True,False,flow is within ±1.5 mg/s of target; parameters locked
+116.562,56.468,2,833.0,833,True,256,834.648,True,8.448,1.521,40,2470,1000,10.0,1.431,True,False,flow is within ±1.5 mg/s of target; parameters locked
+116.719,56.625,2,833.0,833,True,256,835.395,True,8.115,1.036,40,2470,1000,10.0,1.803,False,False,flow is below target; increase duty
+116.812,56.718,2,838.0,838,True,256,836.523,True,8.806,1.889,40,2470,1000,10.0,1.042,True,False,flow is within ±1.5 mg/s of target; parameters locked
+116.953,56.859,2,838.0,838,True,256,837.827,True,9.119,1.933,40,2470,1000,10.0,0.726,True,False,flow is within ±1.5 mg/s of target; parameters locked
+117.094,57.0,2,838.0,838,True,256,838.905,True,9.151,1.705,40,2470,1000,10.0,0.713,True,False,flow is within ±1.5 mg/s of target; parameters locked
+117.203,57.109,2,838.0,838,True,256,839.53,True,8.81,1.061,40,2470,1000,10.0,1.105,True,False,flow is within ±1.5 mg/s of target; parameters locked
+117.359,57.265,2,838.0,838,True,256,840.334,True,8.414,0.582,40,2490,1000,10.0,1.539,False,False,flow is below target; increase duty
+117.516,57.422,2,838.0,838,True,256,840.93,True,7.806,-0.013,40,2490,1000,10.0,2.195,False,False,flow is below target; increase duty
+117.625,57.531,2,838.0,838,True,256,841.025,True,6.764,-1.285,40,2490,1000,10.0,3.339,False,False,flow is below target; increase duty
+117.75,57.656,2,842.0,842,True,256,841.888,True,6.637,-1.25,40,2490,1000,10.0,3.463,False,False,flow is below target; increase duty
+117.891,57.797,2,842.0,842,True,256,842.649,True,6.288,-1.413,40,2490,1000,10.0,3.825,False,False,flow is below target; increase duty
+118.0,57.906,2,842.0,842,True,256,843.061,True,5.769,-1.859,40,2490,1000,10.0,4.38,False,False,flow is below target; increase duty
+118.156,58.062,2,842.0,842,True,256,843.551,True,5.106,-2.178,40,2490,1000,10.0,5.068,False,False,flow is below target; increase duty
+118.297,58.203,2,842.0,842,True,256,843.799,True,4.321,-2.63,40,2490,1000,10.0,5.89,False,False,flow is below target; increase duty
+118.406,58.312,2,842.0,842,True,256,843.804,True,3.414,-3.389,40,2490,1000,10.0,6.858,False,False,flow is below target; increase duty
+118.547,58.453,2,847.0,847,True,256,844.801,True,3.52,-2.836,40,2490,1000,10.0,6.706,False,False,flow is below target; increase duty
+118.672,58.578,2,847.0,847,True,256,845.575,True,3.593,-2.38,40,2490,1000,10.0,6.597,False,False,flow is below target; increase duty
+118.828,58.734,2,847.0,847,True,256,846.285,True,3.394,-2.234,40,2490,1000,10.0,6.785,False,False,flow is below target; increase duty
+118.953,58.859,2,847.0,847,True,256,846.754,True,3.189,-2.155,40,2490,1000,10.0,6.984,False,False,flow is below target; increase duty
+119.094,59.0,2,847.0,847,True,256,847.145,True,2.846,-2.191,40,2490,1000,10.0,7.329,False,False,flow is below target; increase duty
+119.219,59.125,2,847.0,847,True,256,847.387,True,2.456,-2.315,40,2490,1000,10.0,7.729,False,False,flow is below target; increase duty
+119.344,59.25,2,847.0,847,True,256,847.541,True,2.004,-2.488,40,2490,1000,10.0,8.195,False,False,flow is below target; increase duty
+119.469,59.375,2,853.0,853,True,256,848.818,True,2.948,-1.15,40,2510,1000,10.0,7.144,False,False,flow is below target; increase duty
+119.625,59.531,2,853.0,853,True,256,850.011,True,3.487,-0.536,40,2510,1000,10.0,6.556,False,False,flow is below target; increase duty
+119.75,59.656,2,853.0,853,True,256,850.954,True,4.034,0.119,40,2510,1000,10.0,5.957,False,False,flow is below target; increase duty
+119.875,59.781,2,853.0,853,True,256,851.767,True,4.418,0.513,40,2510,1000,10.0,5.54,False,False,flow is below target; increase duty
+120.016,59.922,2,853.0,853,True,256,852.516,True,4.619,0.635,40,2510,1000,10.0,5.33,False,False,flow is below target; increase duty
+120.141,0.0,3,857.0,857,True,256,853.879,True,5.635,1.634,40,2510,1000,10.0,4.234,False,False,flow is below target; increase duty
+120.281,0.14,3,857.0,857,True,256,855.147,True,6.36,2.106,40,2510,1000,10.0,3.471,False,False,flow is below target; increase duty
+120.422,0.281,3,857.0,857,True,256,856.252,True,6.856,2.294,40,2510,1000,10.0,2.96,False,False,flow is below target; increase duty
+120.547,0.406,3,857.0,857,True,256,857.101,True,7.112,2.262,40,2510,1000,10.0,2.707,False,False,flow is below target; increase duty
+120.672,0.531,3,857.0,857,True,256,857.807,True,7.153,2.004,40,2510,1000,10.0,2.686,False,False,flow is below target; increase duty
+120.812,0.671,3,857.0,857,True,256,858.462,True,7.042,1.631,40,2510,1000,10.0,2.827,False,False,flow is below target; increase duty
+120.937,0.796,3,857.0,857,True,256,858.884,True,6.681,1.028,40,2510,1000,10.0,3.237,False,False,flow is below target; increase duty
+121.094,0.953,3,857.0,857,True,256,859.357,True,6.279,0.55,40,2510,1000,10.0,3.677,False,False,flow is below target; increase duty
+121.219,1.078,3,857.0,857,True,256,859.517,True,5.593,-0.255,40,2510,1000,10.0,4.427,False,False,flow is below target; increase duty
+121.344,1.203,3,857.0,857,True,256,859.571,True,4.79,-1.078,40,2510,1000,10.0,5.296,False,False,flow is below target; increase duty
+121.5,1.359,3,857.0,857,True,256,859.644,True,3.986,-1.621,40,2530,1000,10.0,6.144,False,False,flow is below target; increase duty
+121.609,1.468,3,857.0,857,True,256,859.455,True,2.965,-2.655,40,2530,1000,10.0,7.248,False,False,flow is below target; increase duty
+121.734,1.593,3,857.0,857,True,256,859.244,True,1.96,-3.373,40,2530,1000,10.0,8.31,False,False,flow is below target; increase duty
+121.906,1.765,3,857.0,857,True,256,859.025,True,0.938,-3.715,40,2530,1000,10.0,9.249,False,False,flow is below target; increase duty
+122.016,1.875,3,857.0,857,True,256,858.685,True,0.0,-4.411,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.141,2.0,3,857.0,857,True,256,858.32,True,0.0,-4.833,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.297,2.156,3,857.0,857,True,256,858.009,True,0.0,-5.041,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.406,2.265,3,857.0,857,True,256,857.783,True,0.0,-5.37,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.547,2.406,3,857.0,857,True,256,857.584,True,0.0,-5.517,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.703,2.562,3,857.0,857,True,256,857.413,True,0.0,-5.602,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.812,2.671,3,857.0,857,True,256,857.304,True,0.0,-5.73,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+122.953,2.812,3,857.0,857,True,256,857.198,True,0.0,-5.78,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.094,2.953,3,857.0,857,True,256,857.112,True,0.0,-5.808,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.203,3.062,3,857.0,857,True,256,857.062,True,0.0,-5.834,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.359,3.218,3,857.0,857,True,256,856.993,True,0.0,-5.833,40,2530,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.5,3.359,3,857.0,857,True,256,856.948,True,0.0,-5.82,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.609,3.468,3,857.0,857,True,256,856.931,True,0.0,-5.79,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.75,3.609,3,857.0,857,True,256,856.899,True,0.0,-5.765,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+123.906,3.765,3,857.0,857,True,256,856.863,True,0.0,-5.737,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.016,3.875,3,857.0,857,True,256,856.862,True,0.0,-5.68,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.156,4.015,3,857.0,857,True,256,856.845,True,0.0,-5.64,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.297,4.156,3,857.0,857,True,256,856.831,True,0.0,-5.598,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.406,4.265,3,857.0,857,True,256,856.839,True,0.0,-5.53,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.547,4.406,3,857.0,857,True,256,856.827,True,0.0,-5.487,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.703,4.562,3,857.0,857,True,256,856.808,True,0.0,-5.447,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.812,4.671,3,857.0,857,True,256,856.821,True,0.0,-5.372,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+124.953,4.812,3,857.0,857,True,256,856.814,True,0.0,-5.325,40,2550,1000,10.0,10.0,False,False,flow is below target; increase duty
+125.078,4.937,3,862.0,862,True,256,857.818,True,0.589,-3.986,40,2550,1000,10.0,9.529,False,False,flow is below target; increase duty
+125.219,5.078,3,862.0,862,True,256,858.689,True,0.908,-3.154,40,2550,1000,10.0,9.274,False,False,flow is below target; increase duty
+125.344,5.203,3,862.0,862,True,256,859.422,True,1.287,-2.329,40,2550,1000,10.0,8.9,False,False,flow is below target; increase duty
+125.5,5.359,3,862.0,862,True,256,860.076,True,1.386,-1.933,40,2570,1000,10.0,8.769,False,False,flow is below target; increase duty
+125.625,5.484,3,862.0,862,True,256,860.587,True,1.568,-1.481,40,2570,1000,10.0,8.55,False,False,flow is below target; increase duty
+125.75,5.609,3,862.0,862,True,256,861.017,True,1.678,-1.167,40,2570,1000,10.0,8.415,False,False,flow is below target; increase duty
+125.875,5.734,3,867.0,867,True,256,862.374,True,2.92,0.313,40,2570,1000,10.0,7.055,False,False,flow is below target; increase duty
+126.016,5.875,3,867.0,867,True,256,863.631,True,3.86,1.161,40,2570,1000,10.0,6.047,False,False,flow is below target; increase duty
+126.141,6.0,3,867.0,867,True,256,864.698,True,4.696,1.897,40,2570,1000,10.0,5.153,False,False,flow is below target; increase duty
+126.297,6.156,3,867.0,867,True,256,865.763,True,5.289,2.151,40,2570,1000,10.0,4.539,False,False,flow is below target; increase duty
+126.422,6.281,3,867.0,867,True,256,866.553,True,5.692,2.294,40,2570,1000,10.0,4.125,False,False,flow is below target; increase duty
+126.547,6.406,3,867.0,867,True,256,867.226,True,5.911,2.222,40,2570,1000,10.0,3.911,False,False,flow is below target; increase duty
+126.672,6.531,3,867.0,867,True,256,867.786,True,5.953,1.971,40,2570,1000,10.0,3.889,False,False,flow is below target; increase duty
+126.812,6.671,3,871.0,871,True,256,869.111,True,6.735,2.453,40,2570,1000,10.0,3.069,False,False,flow is below target; increase duty
+126.937,6.796,3,871.0,871,True,256,870.177,True,7.288,2.716,40,2570,1000,10.0,2.494,False,False,flow is below target; increase duty
+127.094,6.953,3,871.0,871,True,256,871.284,True,7.647,2.658,40,2570,1000,10.0,2.14,False,False,flow is below target; increase duty
+127.219,7.078,3,871.0,871,True,256,872.009,True,7.677,2.336,40,2570,1000,10.0,2.136,False,False,flow is below target; increase duty
+127.344,7.203,3,871.0,871,True,256,872.589,True,7.492,1.827,40,2570,1000,10.0,2.362,False,False,flow is below target; increase duty
+127.516,7.375,3,871.0,871,True,256,873.324,True,7.3,1.434,40,2590,1000,10.0,2.586,False,False,flow is below target; increase duty
+127.625,7.484,3,871.0,871,True,256,873.502,True,6.595,0.381,40,2590,1000,10.0,3.375,False,False,flow is below target; increase duty
+127.734,7.593,3,877.0,877,True,256,874.779,True,7.401,1.316,40,2590,1000,10.0,2.494,False,False,flow is below target; increase duty
+127.906,7.765,3,877.0,877,True,256,876.257,True,7.789,1.442,40,2590,1000,10.0,2.096,False,False,flow is below target; increase duty
+128.016,7.875,3,877.0,877,True,256,877.098,True,7.914,1.401,40,2590,1000,10.0,1.974,False,False,flow is below target; increase duty
+128.141,8.0,3,877.0,877,True,256,877.879,True,7.826,1.12,40,2590,1000,10.0,2.085,False,False,flow is below target; increase duty
+128.312,8.171,3,877.0,877,True,256,878.787,True,7.626,0.814,40,2590,1000,10.0,2.309,False,False,flow is below target; increase duty
+128.422,8.281,3,882.0,882,True,256,880.104,True,8.361,1.598,40,2590,1000,10.0,1.511,False,False,flow is below target; increase duty
+128.547,8.406,3,882.0,882,True,256,881.329,True,8.762,1.812,40,2590,1000,10.0,1.093,True,False,flow is within ±1.5 mg/s of target; parameters locked
+128.703,8.562,3,882.0,882,True,256,882.575,True,8.907,1.694,40,2590,1000,10.0,0.958,True,False,flow is within ±1.5 mg/s of target; parameters locked
+128.812,8.671,3,882.0,882,True,256,883.245,True,8.663,1.171,40,2590,1000,10.0,1.243,True,False,flow is within ±1.5 mg/s of target; parameters locked
+128.937,8.796,3,882.0,882,True,256,883.869,True,8.249,0.572,40,2590,1000,10.0,1.705,False,False,flow is below target; increase duty
+129.109,8.968,3,882.0,882,True,256,884.637,True,7.772,0.127,40,2590,1000,10.0,2.217,False,False,flow is below target; increase duty
+129.219,9.078,3,882.0,882,True,256,884.794,True,6.834,-1.028,40,2590,1000,10.0,3.249,False,False,flow is below target; increase duty
+129.359,9.218,3,882.0,882,True,256,884.993,True,5.888,-1.792,40,2590,1000,10.0,4.255,False,False,flow is below target; increase duty
+129.5,9.359,3,887.0,887,True,256,886.044,True,5.89,-1.551,40,2590,1000,10.0,4.234,False,False,flow is below target; increase duty
+129.609,9.468,3,887.0,887,True,256,886.742,True,5.81,-1.442,40,2610,1000,10.0,4.306,False,False,flow is below target; increase duty
+129.75,9.609,3,887.0,887,True,256,887.437,True,5.49,-1.552,40,2610,1000,10.0,4.634,False,False,flow is below target; increase duty
+129.906,9.765,3,887.0,887,True,256,888.02,True,5.003,-1.762,40,2610,1000,10.0,5.138,False,False,flow is below target; increase duty
+130.016,9.875,3,887.0,887,True,256,888.247,True,4.384,-2.277,40,2610,1000,10.0,5.799,False,False,flow is below target; increase duty
+130.156,10.015,3,887.0,887,True,256,888.471,True,3.671,-2.653,40,2610,1000,10.0,6.541,False,False,flow is below target; increase duty
+130.312,10.171,3,887.0,887,True,256,888.609,True,2.87,-2.983,40,2610,1000,10.0,7.369,False,False,flow is below target; increase duty
+130.422,10.281,3,887.0,887,True,256,888.525,True,2.022,-3.614,40,2610,1000,10.0,8.267,False,False,flow is below target; increase duty
+130.547,10.406,3,892.0,892,True,256,889.4,True,2.35,-2.782,40,2610,1000,10.0,7.872,False,False,flow is below target; increase duty
+130.703,10.562,3,892.0,892,True,256,890.186,True,2.352,-2.409,40,2610,1000,10.0,7.84,False,False,flow is below target; increase duty
+130.812,10.671,3,892.0,892,True,256,890.743,True,2.522,-1.88,40,2610,1000,10.0,7.628,False,False,flow is below target; increase duty
+130.953,10.812,3,892.0,892,True,256,891.264,True,2.453,-1.695,40,2610,1000,10.0,7.682,False,False,flow is below target; increase duty
+131.109,10.968,3,892.0,892,True,256,891.701,True,2.261,-1.633,40,2610,1000,10.0,7.87,False,False,flow is below target; increase duty
+131.219,11.078,3,892.0,892,True,256,891.952,True,2.098,-1.613,40,2610,1000,10.0,8.031,False,False,flow is below target; increase duty
+131.344,11.203,3,892.0,892,True,256,892.161,True,1.848,-1.664,40,2610,1000,10.0,8.285,False,False,flow is below target; increase duty
+131.5,11.359,3,892.0,892,True,256,892.343,True,1.506,-1.735,40,2610,1000,10.0,8.633,False,False,flow is below target; increase duty
+131.625,11.484,3,892.0,892,True,256,892.414,True,1.164,-1.868,40,2630,1000,10.0,8.985,False,False,flow is below target; increase duty
+131.75,11.609,3,892.0,892,True,256,892.436,True,0.8,-2.007,40,2630,1000,10.0,9.36,False,False,flow is below target; increase duty
+131.875,11.734,3,892.0,892,True,256,892.416,True,0.424,-2.14,40,2630,1000,10.0,9.66,False,False,flow is below target; increase duty
+132.016,11.875,3,892.0,892,True,256,892.364,True,0.026,-2.232,40,2630,1000,10.0,9.979,False,False,flow is below target; increase duty
+132.141,12.0,3,892.0,892,True,256,892.28,True,0.0,-2.321,40,2630,1000,10.0,10.0,False,False,flow is below target; increase duty
+132.266,12.125,3,892.0,892,True,256,892.209,True,0.0,-2.388,40,2630,1000,10.0,10.0,False,False,flow is below target; increase duty
+132.422,12.281,3,892.0,892,True,256,892.144,True,0.0,-2.418,40,2630,1000,10.0,10.0,False,False,flow is below target; increase duty
+132.547,12.406,3,897.0,897,True,256,893.1,True,0.868,-1.17,40,2630,1000,10.0,9.226,False,False,flow is below target; increase duty
+132.703,12.562,3,897.0,897,True,256,893.977,True,1.412,-0.549,40,2630,1000,10.0,8.632,False,False,flow is below target; increase duty
+132.812,12.671,3,897.0,897,True,256,894.702,True,2.142,0.418,40,2630,1000,10.0,7.824,False,False,flow is below target; increase duty
+132.937,12.796,3,897.0,897,True,256,895.379,True,2.681,0.937,40,2630,1000,10.0,7.244,False,False,flow is below target; increase duty
+133.078,12.937,3,897.0,897,True,256,896.013,True,3.076,1.185,40,2630,1000,10.0,6.829,False,False,flow is below target; increase duty
+133.219,13.078,3,897.0,897,True,256,896.567,True,3.358,1.294,40,2630,1000,10.0,6.538,False,False,flow is below target; increase duty
+133.344,13.203,3,902.0,902,True,256,897.997,True,4.721,2.575,40,2630,1000,10.0,5.073,False,False,flow is below target; increase duty
+133.516,13.375,3,902.0,902,True,256,899.478,True,5.714,3.001,40,2630,1000,10.0,4.046,False,False,flow is below target; increase duty
+133.625,13.484,3,902.0,902,True,256,900.495,True,6.559,3.635,40,2630,1000,10.0,3.151,False,False,flow is below target; increase duty
+133.734,13.593,3,902.0,902,True,256,901.385,True,7.166,3.894,40,2630,1000,10.0,2.522,False,False,flow is below target; increase duty
+133.906,13.765,3,902.0,902,True,256,902.54,True,7.718,3.802,40,2630,1000,10.0,1.977,False,False,flow is below target; increase duty
+134.016,13.875,3,902.0,902,True,256,903.13,True,7.751,3.335,40,2630,1000,10.0,1.982,False,False,flow is below target; increase duty
+134.141,14.0,3,902.0,902,True,256,903.7,True,7.658,2.792,40,2630,1000,10.0,2.118,False,False,flow is below target; increase duty
+134.312,14.171,3,902.0,902,True,256,904.44,True,7.601,2.374,40,2630,1000,10.0,2.209,False,False,flow is below target; increase duty
+134.437,14.296,3,902.0,902,True,256,904.727,True,7.079,1.502,40,2630,1000,10.0,2.8,False,False,flow is below target; increase duty
+134.547,14.406,3,908.0,908,True,256,906.012,True,7.922,2.323,40,2630,1000,10.0,1.892,False,False,flow is below target; increase duty
+134.703,14.562,3,908.0,908,True,256,907.421,True,8.424,2.442,40,2630,1000,10.0,1.381,True,False,flow is within ±1.5 mg/s of target; parameters locked
+134.812,14.671,3,908.0,908,True,256,908.283,True,8.593,2.323,40,2630,1000,10.0,1.221,True,False,flow is within ±1.5 mg/s of target; parameters locked
+134.937,14.796,3,908.0,908,True,256,909.1,True,8.553,1.971,40,2630,1000,10.0,1.289,True,False,flow is within ±1.5 mg/s of target; parameters locked
+135.109,14.968,3,908.0,908,True,256,910.08,True,8.439,1.62,40,2630,1000,10.0,1.432,True,False,flow is within ±1.5 mg/s of target; parameters locked
+135.234,15.093,3,908.0,908,True,256,910.518,True,7.886,0.814,40,2630,1000,10.0,2.049,False,False,flow is below target; increase duty
+135.359,15.218,3,913.0,913,True,256,911.808,True,8.345,1.195,40,2630,1000,10.0,1.559,False,False,flow is below target; increase duty
+135.516,15.375,3,913.0,913,True,256,913.107,True,8.507,1.173,40,2630,1000,10.0,1.399,True,False,flow is within ±1.5 mg/s of target; parameters locked
+135.625,15.484,3,913.0,913,True,256,913.833,True,8.349,0.823,40,2650,1000,10.0,1.586,False,False,flow is below target; increase duty
+135.75,15.609,3,913.0,913,True,256,914.506,True,8.0,0.341,40,2650,1000,10.0,1.973,False,False,flow is below target; increase duty
+135.906,15.765,3,913.0,913,True,256,915.207,True,7.522,-0.112,40,2650,1000,10.0,2.487,False,False,flow is below target; increase duty
+136.016,15.875,3,913.0,913,True,256,915.427,True,6.683,-1.115,40,2650,1000,10.0,3.406,False,False,flow is below target; increase duty
+136.156,16.015,3,919.0,919,True,256,916.881,True,7.094,-0.574,40,2650,1000,10.0,2.952,False,False,flow is below target; increase duty
+136.281,16.14,3,919.0,919,True,256,918.011,True,7.319,-0.258,40,2650,1000,10.0,2.701,False,False,flow is below target; increase duty
+136.406,16.265,3,919.0,919,True,256,918.939,True,7.305,-0.238,40,2650,1000,10.0,2.714,False,False,flow is below target; increase duty
+136.547,16.406,3,919.0,919,True,256,919.773,True,7.066,-0.433,40,2650,1000,10.0,2.968,False,False,flow is below target; increase duty
+136.703,16.562,3,919.0,919,True,256,920.496,True,6.639,-0.74,40,2650,1000,10.0,3.42,False,False,flow is below target; increase duty
+136.812,16.671,3,919.0,919,True,256,920.772,True,5.949,-1.486,40,2650,1000,10.0,4.17,False,False,flow is below target; increase duty
+136.953,16.812,3,923.0,923,True,256,921.877,True,6.038,-1.204,40,2650,1000,10.0,4.059,False,False,flow is below target; increase duty
+137.109,16.968,3,923.0,923,True,256,922.843,True,5.887,-1.171,40,2650,1000,10.0,4.206,False,False,flow is below target; increase duty
+137.219,17.078,3,923.0,923,True,256,923.387,True,5.627,-1.331,40,2650,1000,10.0,4.48,False,False,flow is below target; increase duty
+137.344,17.203,3,923.0,923,True,256,923.864,True,5.201,-1.608,40,2650,1000,10.0,4.928,False,False,flow is below target; increase duty
+137.469,17.328,3,923.0,923,True,256,924.201,True,4.64,-1.992,40,2650,1000,10.0,5.52,False,False,flow is below target; increase duty
+137.625,17.484,3,923.0,923,True,256,924.521,True,3.963,-2.305,40,2670,1000,10.0,6.221,False,False,flow is below target; increase duty
+137.75,17.609,3,929.0,929,True,256,925.798,True,4.636,-1.28,40,2670,1000,10.0,5.467,False,False,flow is below target; increase duty
+137.906,17.765,3,929.0,929,True,256,927.005,True,4.915,-0.87,40,2670,1000,10.0,5.154,False,False,flow is below target; increase duty
+138.016,17.875,3,929.0,929,True,256,927.832,True,5.218,-0.388,40,2670,1000,10.0,4.813,False,False,flow is below target; increase duty
+138.141,18.0,3,929.0,929,True,256,928.585,True,5.294,-0.255,40,2670,1000,10.0,4.727,False,False,flow is below target; increase duty
+138.281,18.14,3,929.0,929,True,256,929.259,True,5.189,-0.321,40,2670,1000,10.0,4.837,False,False,flow is below target; increase duty
+138.422,18.281,3,935.0,935,True,256,930.99,True,6.21,0.687,40,2670,1000,10.0,3.735,False,False,flow is below target; increase duty
+138.547,18.406,3,935.0,935,True,256,932.417,True,7.071,1.514,40,2670,1000,10.0,2.808,False,False,flow is below target; increase duty
+138.703,18.562,3,935.0,935,True,256,933.831,True,7.588,1.754,40,2670,1000,10.0,2.272,False,False,flow is below target; increase duty
+138.812,18.671,3,935.0,935,True,256,934.735,True,7.87,1.866,40,2670,1000,10.0,1.98,False,False,flow is below target; increase duty
+138.937,18.796,3,935.0,935,True,256,935.586,True,7.928,1.678,40,2670,1000,10.0,1.938,False,False,flow is below target; increase duty
+139.078,18.937,3,939.0,939,True,256,937.177,True,8.649,2.137,40,2670,1000,10.0,1.18,True,False,flow is within ±1.5 mg/s of target; parameters locked
+139.219,19.078,3,939.0,939,True,256,938.534,True,9.074,2.254,40,2670,1000,10.0,0.745,True,False,flow is within ±1.5 mg/s of target; parameters locked
+139.344,19.203,3,939.0,939,True,256,939.549,True,9.191,2.078,40,2670,1000,10.0,0.642,True,False,flow is within ±1.5 mg/s of target; parameters locked
+139.5,19.359,3,939.0,939,True,256,940.606,True,9.129,1.748,40,2670,1000,10.0,0.731,True,False,flow is within ±1.5 mg/s of target; parameters locked
+139.609,19.468,3,939.0,939,True,256,941.089,True,8.601,0.869,40,2670,1000,10.0,1.329,True,False,flow is within ±1.5 mg/s of target; parameters locked
+139.734,19.593,3,939.0,939,True,256,941.537,True,7.949,0.057,40,2690,1000,10.0,2.047,False,False,flow is below target; increase duty
+139.922,19.781,3,939.0,939,True,256,942.226,True,7.316,-0.399,40,2690,1000,10.0,2.716,False,False,flow is below target; increase duty
+140.031,19.89,3,945.0,945,True,256,943.417,True,7.817,0.267,40,2690,1000,10.0,2.162,False,False,flow is below target; increase duty
+140.141,20.0,3,945.0,945,True,256,944.423,True,8.043,0.505,40,2690,1000,10.0,1.916,False,False,flow is below target; increase duty
+140.312,20.171,3,945.0,945,True,256,945.644,True,7.988,0.395,40,2690,1000,10.0,1.98,False,False,flow is below target; increase duty
+140.437,20.296,3,945.0,945,True,256,946.317,True,7.643,-0.026,40,2690,1000,10.0,2.359,False,False,flow is below target; increase duty
+140.547,20.406,3,945.0,945,True,256,946.726,True,7.051,-0.739,40,2690,1000,10.0,3.008,False,False,flow is below target; increase duty
+140.703,20.562,3,945.0,945,True,256,947.253,True,6.394,-1.202,40,2690,1000,10.0,3.702,False,False,flow is below target; increase duty
+140.812,20.671,3,950.0,950,True,256,948.355,True,6.829,-0.51,40,2690,1000,10.0,3.211,False,False,flow is below target; increase duty
+140.937,20.796,3,950.0,950,True,256,949.363,True,6.957,-0.306,40,2690,1000,10.0,3.068,False,False,flow is below target; increase duty
+141.109,20.968,3,950.0,950,True,256,950.444,True,6.807,-0.381,40,2690,1000,10.0,3.223,False,False,flow is below target; increase duty
+141.234,21.093,3,950.0,950,True,256,951.034,True,6.449,-0.712,40,2690,1000,10.0,3.608,False,False,flow is below target; increase duty
+141.344,21.203,3,950.0,950,True,256,951.391,True,5.897,-1.287,40,2690,1000,10.0,4.206,False,False,flow is below target; increase duty
+141.5,21.359,3,950.0,950,True,256,951.836,True,5.255,-1.664,40,2690,1000,10.0,4.879,False,False,flow is below target; increase duty
+141.609,21.468,3,950.0,950,True,256,951.919,True,4.413,-2.472,40,2690,1000,10.0,5.785,False,False,flow is below target; increase duty
+141.75,21.609,3,954.0,954,True,256,952.814,True,4.38,-2.174,40,2710,1000,10.0,5.794,False,False,flow is below target; increase duty
+141.922,21.781,3,954.0,954,True,256,953.628,True,4.087,-2.111,40,2710,1000,10.0,6.082,False,False,flow is below target; increase duty
+142.031,21.89,3,954.0,954,True,256,954.049,True,3.84,-2.131,40,2710,1000,10.0,6.33,False,False,flow is below target; increase duty
+142.156,22.015,3,954.0,954,True,256,954.41,True,3.451,-2.262,40,2710,1000,10.0,6.73,False,False,flow is below target; increase duty
+142.297,22.156,3,954.0,954,True,256,954.699,True,2.946,-2.438,40,2710,1000,10.0,7.249,False,False,flow is below target; increase duty
+142.406,22.265,3,954.0,954,True,256,954.804,True,2.404,-2.777,40,2710,1000,10.0,7.818,False,False,flow is below target; increase duty
+142.547,22.406,3,954.0,954,True,256,954.893,True,1.775,-3.001,40,2710,1000,10.0,8.465,False,False,flow is below target; increase duty
+142.672,22.531,3,954.0,954,True,256,954.873,True,1.138,-3.28,40,2710,1000,10.0,9.09,False,False,flow is below target; increase duty
+142.812,22.671,3,954.0,954,True,256,954.8,True,0.464,-3.484,40,2710,1000,10.0,9.629,False,False,flow is below target; increase duty
+142.953,22.812,3,954.0,954,True,256,954.665,True,0.0,-3.652,40,2710,1000,10.0,10.0,False,False,flow is below target; increase duty
+143.078,22.937,3,954.0,954,True,256,954.509,True,0.0,-3.814,40,2710,1000,10.0,10.0,False,False,flow is below target; increase duty
+143.203,23.062,3,954.0,954,True,256,954.383,True,0.0,-3.937,40,2710,1000,10.0,10.0,False,False,flow is below target; increase duty
+143.344,23.203,3,954.0,954,True,256,954.275,True,0.0,-4.006,40,2710,1000,10.0,10.0,False,False,flow is below target; increase duty
+143.516,23.375,3,954.0,954,True,256,954.173,True,0.0,-4.036,40,2710,1000,10.0,10.0,False,False,flow is below target; increase duty
+143.625,23.484,3,959.0,959,True,256,955.119,True,0.895,-2.402,40,2710,1000,10.0,9.284,False,False,flow is below target; increase duty
+143.75,23.609,3,959.0,959,True,256,955.97,True,1.504,-1.433,40,2730,1000,10.0,8.611,False,False,flow is below target; increase duty
+143.875,23.734,3,959.0,959,True,256,956.717,True,2.01,-0.702,40,2730,1000,10.0,8.046,False,False,flow is below target; increase duty
+144.016,23.875,3,959.0,959,True,256,957.395,True,2.338,-0.298,40,2730,1000,10.0,7.686,False,False,flow is below target; increase duty
+144.141,24.0,3,959.0,959,True,256,957.948,True,2.616,0.038,40,2730,1000,10.0,7.381,False,False,flow is below target; increase duty
+144.297,24.156,3,959.0,959,True,256,958.485,True,2.746,0.144,40,2730,1000,10.0,7.243,False,False,flow is below target; increase duty
+144.422,24.281,3,963.0,963,True,256,959.664,True,3.765,1.212,40,2730,1000,10.0,6.138,False,False,flow is below target; increase duty
+144.547,24.406,3,963.0,963,True,256,960.715,True,4.602,1.943,40,2730,1000,10.0,5.243,False,False,flow is below target; increase duty
+144.672,24.531,3,963.0,963,True,256,961.644,True,5.251,2.377,40,2730,1000,10.0,4.559,False,False,flow is below target; increase duty
+144.812,24.671,3,963.0,963,True,256,962.522,True,5.712,2.499,40,2730,1000,10.0,4.088,False,False,flow is below target; increase duty
+144.937,24.796,3,963.0,963,True,256,963.205,True,5.963,2.433,40,2730,1000,10.0,3.842,False,False,flow is below target; increase duty
+145.109,24.968,3,963.0,963,True,256,964.013,True,6.161,2.262,40,2730,1000,10.0,3.658,False,False,flow is below target; increase duty
+145.219,25.078,3,963.0,963,True,256,964.363,True,5.945,1.699,40,2730,1000,10.0,3.92,False,False,flow is below target; increase duty
+145.344,25.203,3,963.0,963,True,256,964.696,True,5.648,1.156,40,2730,1000,10.0,4.259,False,False,flow is below target; increase duty
+145.469,25.328,3,968.0,968,True,256,965.929,True,6.414,1.819,40,2730,1000,10.0,3.44,False,False,flow is below target; increase duty
+145.609,25.468,3,969.0,969,True,256,967.276,True,7.131,2.259,40,2730,1000,10.0,2.689,False,False,flow is below target; increase duty
+145.734,25.593,3,969.0,969,True,256,968.348,True,7.609,2.467,40,2730,1000,10.0,2.194,False,False,flow is below target; increase duty
+145.906,25.765,3,969.0,969,True,256,969.554,True,7.912,2.374,40,2730,1000,10.0,1.898,False,False,flow is below target; increase duty
+146.016,25.875,3,969.0,969,True,256,970.151,True,7.781,1.898,40,2730,1000,10.0,2.067,False,False,flow is below target; increase duty
+146.141,26.0,3,969.0,969,True,256,970.711,True,7.505,1.351,40,2730,1000,10.0,2.387,False,False,flow is below target; increase duty
+146.312,26.171,3,975.0,975,True,256,972.611,True,8.26,1.759,40,2730,1000,10.0,1.6,False,False,flow is below target; increase duty
+146.422,26.281,3,976.0,976,True,256,974.024,True,9.127,2.575,40,2730,1000,10.0,0.667,True,False,flow is within ±1.5 mg/s of target; parameters locked
+146.547,26.406,3,976.0,976,True,256,975.348,True,9.644,2.784,40,2730,1000,10.0,0.133,True,False,flow is within ±1.5 mg/s of target; parameters locked
+146.719,26.578,3,976.0,976,True,256,976.839,True,9.94,2.642,40,2730,1000,10.0,-0.152,True,False,flow is within ±1.5 mg/s of target; parameters locked
+146.828,26.687,3,976.0,976,True,256,977.55,True,9.695,1.99,40,2730,1000,10.0,0.146,True,False,flow is within ±1.5 mg/s of target; parameters locked
+146.937,26.796,3,976.0,976,True,256,978.095,True,9.191,1.108,40,2730,1000,10.0,0.72,True,False,flow is within ±1.5 mg/s of target; parameters locked
+147.078,26.937,3,976.0,976,True,256,978.722,True,8.623,0.424,40,2730,1000,10.0,1.343,True,False,flow is within ±1.5 mg/s of target; parameters locked
+147.203,27.062,3,981.0,981,True,256,980.042,True,8.964,0.73,40,2730,1000,10.0,0.978,True,False,flow is within ±1.5 mg/s of target; parameters locked
+147.344,27.203,3,981.0,981,True,256,981.251,True,9.0,0.667,40,2730,1000,10.0,0.947,True,False,flow is within ±1.5 mg/s of target; parameters locked
+147.5,27.359,3,981.0,981,True,256,982.33,True,8.784,0.394,40,2730,1000,10.0,1.184,True,False,flow is within ±1.5 mg/s of target; parameters locked
+147.609,27.468,3,981.0,981,True,256,982.832,True,8.197,-0.377,40,2730,1000,10.0,1.833,False,False,flow is below target; increase duty
+147.75,27.609,3,981.0,981,True,256,983.387,True,7.509,-0.977,40,2730,1000,10.0,2.569,False,False,flow is below target; increase duty
+147.875,27.734,3,986.0,986,True,256,984.655,True,7.79,-0.547,40,2730,1000,10.0,2.253,False,False,flow is below target; increase duty
+148.016,27.875,3,987.0,987,True,256,985.998,True,7.98,-0.295,40,2750,1000,10.0,2.044,False,False,flow is below target; increase duty
+148.156,28.015,3,987.0,987,True,256,987.09,True,7.914,-0.318,40,2750,1000,10.0,2.111,False,False,flow is below target; increase duty
+148.312,28.171,3,987.0,987,True,256,988.057,True,7.611,-0.535,40,2750,1000,10.0,2.432,False,False,flow is below target; increase duty
+148.422,28.281,3,987.0,987,True,256,988.512,True,7.036,-1.16,40,2750,1000,10.0,3.056,False,False,flow is below target; increase duty
+148.547,28.406,3,991.0,991,True,256,989.706,True,7.279,-0.746,40,2750,1000,10.0,2.78,False,False,flow is below target; increase duty
+148.672,28.531,3,992.0,992,True,256,990.888,True,7.52,-0.39,40,2750,1000,10.0,2.511,False,False,flow is below target; increase duty
+148.812,28.671,3,992.0,992,True,256,991.95,True,7.479,-0.377,40,2750,1000,10.0,2.552,False,False,flow is below target; increase duty
+148.953,28.812,3,992.0,992,True,256,992.8,True,7.212,-0.579,40,2750,1000,10.0,2.834,False,False,flow is below target; increase duty
+149.109,28.968,3,992.0,992,True,256,993.535,True,6.753,-0.894,40,2750,1000,10.0,3.318,False,False,flow is below target; increase duty
+149.219,29.078,3,992.0,992,True,256,993.818,True,6.035,-1.645,40,2750,1000,10.0,4.096,False,False,flow is below target; increase duty
+149.344,29.203,3,998.0,998,True,256,995.247,True,6.655,-0.764,40,2750,1000,10.0,3.406,False,False,flow is below target; increase duty
+149.469,29.328,3,998.0,998,True,256,996.459,True,7.022,-0.271,40,2750,1000,10.0,3.0,False,False,flow is below target; increase duty
+149.609,29.468,3,998.0,998,True,256,997.551,True,7.104,-0.157,40,2750,1000,10.0,2.908,False,False,flow is below target; increase duty
+149.75,29.609,3,998.0,998,True,256,998.441,True,6.965,-0.268,40,2750,1000,10.0,3.057,False,False,flow is below target; increase duty
+149.875,29.734,3,1004.0,1004,True,256,1000.248,True,8.057,0.933,40,2750,1000,10.0,1.868,False,False,flow is below target; increase duty
+150.016,29.875,3,1004.0,1004,True,256,1001.914,True,8.743,1.458,40,2750,1000,10.0,1.14,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.141,30.0,3,1004.0,1004,True,256,1003.215,True,9.161,1.709,40,2750,1000,10.0,0.702,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.312,30.171,3,1004.0,1004,True,256,1004.645,True,9.312,1.598,40,2750,1000,10.0,0.56,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.422,30.281,3,1004.0,1004,True,256,1005.343,True,9.03,1.043,40,2750,1000,10.0,0.887,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.547,30.406,3,1004.0,1004,True,256,1005.984,True,8.565,0.408,40,2750,1000,10.0,1.403,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.672,30.531,3,1010.0,1010,True,256,1007.646,True,9.322,1.162,40,2750,1000,10.0,0.585,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.812,30.671,3,1010.0,1010,True,256,1009.17,True,9.707,1.373,40,2750,1000,10.0,0.183,True,False,flow is within ±1.5 mg/s of target; parameters locked
+150.937,30.796,3,1010.0,1010,True,256,1010.315,True,9.784,1.272,40,2750,1000,10.0,0.114,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.109,30.968,3,1010.0,1010,True,256,1011.614,True,9.651,1.0,40,2750,1000,10.0,0.269,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.219,31.078,3,1010.0,1010,True,256,1012.145,True,9.029,0.113,40,2750,1000,10.0,0.961,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.344,31.203,3,1017.0,1017,True,256,1014.02,True,9.938,1.067,40,2750,1000,10.0,-0.023,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.469,31.328,3,1017.0,1017,True,256,1015.616,True,10.486,1.51,40,2750,1000,10.0,-0.607,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.609,31.468,3,1017.0,1017,True,256,1017.079,True,10.676,1.489,40,2750,1000,10.0,-0.795,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.734,31.593,3,1017.0,1017,True,256,1018.14,True,10.52,1.125,40,2750,1000,10.0,-0.61,True,False,flow is within ±1.5 mg/s of target; parameters locked
+151.906,31.765,3,1017.0,1017,True,256,1019.373,True,10.196,0.723,40,2750,1000,10.0,-0.254,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.016,31.875,3,1022.0,1022,True,256,1020.799,True,10.685,1.22,40,2750,1000,10.0,-0.783,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.141,32.0,3,1022.0,1022,True,256,1022.116,True,10.803,1.183,40,2750,1000,10.0,-0.898,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.312,32.171,3,1022.0,1022,True,256,1023.584,True,10.658,0.912,40,2750,1000,10.0,-0.731,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.437,32.296,3,1022.0,1022,True,256,1024.339,True,10.07,0.163,40,2750,1000,10.0,-0.083,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.547,32.406,3,1028.0,1028,True,256,1025.958,True,10.784,1.007,40,2750,1000,10.0,-0.865,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.703,32.562,3,1028.0,1028,True,256,1027.722,True,11.008,1.064,40,2750,1000,10.0,-1.093,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.812,32.671,3,1028.0,1028,True,256,1028.743,True,10.869,0.752,40,2750,1000,10.0,-0.929,True,False,flow is within ±1.5 mg/s of target; parameters locked
+152.937,32.796,3,1028.0,1028,True,256,1029.686,True,10.457,0.212,40,2750,1000,10.0,-0.474,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.109,32.968,3,1028.0,1028,True,256,1030.79,True,9.885,-0.259,40,2750,1000,10.0,0.136,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.219,33.078,3,1033.0,1033,True,256,1032.101,True,10.163,0.112,40,2750,1000,10.0,-0.172,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.344,33.203,3,1033.0,1033,True,256,1033.298,True,10.088,0.017,40,2750,1000,10.0,-0.089,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.5,33.359,3,1033.0,1033,True,256,1034.497,True,9.731,-0.29,40,2750,1000,10.0,0.292,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.609,33.468,3,1033.0,1033,True,256,1035.045,True,8.996,-1.151,40,2750,1000,10.0,1.096,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.734,33.593,3,1039.0,1039,True,256,1036.728,True,9.533,-0.424,40,2750,1000,10.0,0.501,True,False,flow is within ±1.5 mg/s of target; parameters locked
+153.922,33.781,3,1039.0,1039,True,256,1038.61,True,9.531,-0.369,40,2750,1000,10.0,0.498,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.047,33.906,3,1039.0,1039,True,256,1039.639,True,9.293,-0.574,40,2750,1000,10.0,0.752,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.156,34.015,3,1039.0,1039,True,256,1040.319,True,8.777,-1.129,40,2750,1000,10.0,1.313,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.312,34.171,3,1044.0,1044,True,256,1042.14,True,9.048,-0.746,40,2750,1000,10.0,1.011,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.422,34.281,3,1045.0,1045,True,256,1043.504,True,9.476,-0.128,40,2750,1000,10.0,0.534,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.547,34.406,3,1045.0,1045,True,256,1044.75,True,9.535,-0.048,40,2750,1000,10.0,0.469,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.719,34.578,3,1045.0,1045,True,256,1046.112,True,9.284,-0.236,40,2750,1000,10.0,0.735,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.828,34.687,3,1045.0,1045,True,256,1046.698,True,8.674,-0.951,40,2750,1000,10.0,1.402,True,False,flow is within ±1.5 mg/s of target; parameters locked
+154.953,34.812,3,1051.0,1051,True,256,1048.42,True,9.33,-0.125,40,2750,1000,10.0,0.68,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.094,34.953,3,1052.0,1052,True,256,1050.187,True,9.794,0.331,40,2750,1000,10.0,0.179,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.203,35.062,3,1052.0,1052,True,256,1051.405,True,10.035,0.581,40,2750,1000,10.0,-0.081,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.344,35.203,3,1052.0,1052,True,256,1052.661,True,9.941,0.415,40,2750,1000,10.0,0.026,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.469,35.328,3,1052.0,1052,True,256,1053.525,True,9.535,-0.073,40,2750,1000,10.0,0.471,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.609,35.468,3,1058.0,1058,True,256,1055.488,True,10.198,0.568,40,2750,1000,10.0,-0.243,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.75,35.609,3,1058.0,1058,True,256,1057.145,True,10.505,0.783,40,2750,1000,10.0,-0.568,True,False,flow is within ±1.5 mg/s of target; parameters locked
+155.875,35.734,3,1058.0,1058,True,256,1058.371,True,10.492,0.664,40,2750,1000,10.0,-0.545,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.016,35.875,3,1058.0,1058,True,256,1059.486,True,10.19,0.29,40,2750,1000,10.0,-0.213,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.141,36.0,3,1058.0,1058,True,256,1060.21,True,9.564,-0.417,40,2750,1000,10.0,0.47,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.312,36.171,3,1065.0,1065,True,256,1062.471,True,10.047,0.016,40,2750,1000,10.0,-0.048,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.422,36.281,3,1065.0,1065,True,256,1063.861,True,10.437,0.486,40,2750,1000,10.0,-0.476,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.547,36.406,3,1065.0,1065,True,256,1065.136,True,10.457,0.443,40,2750,1000,10.0,-0.492,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.672,36.531,3,1065.0,1065,True,256,1066.157,True,10.165,0.073,40,2750,1000,10.0,-0.171,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.812,36.671,3,1065.0,1065,True,256,1067.065,True,9.622,-0.454,40,2750,1000,10.0,0.414,True,False,flow is within ±1.5 mg/s of target; parameters locked
+156.937,36.796,3,1070.0,1070,True,256,1068.611,True,9.982,-0.01,40,2750,1000,10.0,0.018,True,False,flow is within ±1.5 mg/s of target; parameters locked
+157.109,36.968,3,1070.0,1070,True,256,1070.262,True,9.924,-0.054,40,2750,1000,10.0,0.081,True,False,flow is within ±1.5 mg/s of target; parameters locked
+157.219,37.078,3,1070.0,1070,True,256,1071.083,True,9.548,-0.501,40,2750,1000,10.0,0.492,True,False,flow is within ±1.5 mg/s of target; parameters locked
+157.344,37.203,3,1070.0,1070,True,256,1071.818,True,8.94,-1.083,40,2750,1000,10.0,1.146,True,False,flow is within ±1.5 mg/s of target; parameters locked
+157.469,37.328,3,1070.0,1070,True,256,1072.342,True,8.102,-1.833,40,2750,1000,10.0,2.044,False,False,flow is below target; increase duty
+157.609,37.468,3,1075.0,1075,True,256,1073.766,True,8.176,-1.518,40,2750,1000,10.0,1.945,False,False,flow is below target; increase duty
+157.734,37.593,3,1076.0,1076,True,256,1075.021,True,8.28,-1.205,40,2750,1000,10.0,1.816,False,False,flow is below target; increase duty
+157.875,37.734,3,1076.0,1076,True,256,1076.141,True,8.073,-1.24,40,2750,1000,10.0,2.027,False,False,flow is below target; increase duty
+158.016,37.875,3,1076.0,1076,True,256,1077.014,True,7.628,-1.495,40,2750,1000,10.0,2.491,False,False,flow is below target; increase duty
+158.141,38.0,3,1076.0,1076,True,256,1077.565,True,6.972,-1.996,40,2770,1000,10.0,3.188,False,False,flow is below target; increase duty
+158.312,38.171,3,1082.0,1082,True,256,1079.382,True,7.205,-1.548,40,2770,1000,10.0,2.919,False,False,flow is below target; increase duty
+158.422,38.281,3,1082.0,1082,True,256,1080.532,True,7.535,-0.942,40,2770,1000,10.0,2.541,False,False,flow is below target; increase duty
+158.547,38.406,3,1082.0,1082,True,256,1081.573,True,7.545,-0.805,40,2770,1000,10.0,2.519,False,False,flow is below target; increase duty
+158.719,38.578,3,1082.0,1082,True,256,1082.687,True,7.257,-0.921,40,2770,1000,10.0,2.817,False,False,flow is below target; increase duty
+158.906,38.765,3,1088.0,1088,True,256,1084.823,True,7.722,-0.467,40,2770,1000,10.0,2.316,False,False,flow is below target; increase duty
+159.016,38.875,3,1088.0,1088,True,256,1086.135,True,8.306,0.303,40,2770,1000,10.0,1.67,False,False,flow is below target; increase duty
+159.141,39.0,3,1088.0,1088,True,256,1087.341,True,8.542,0.514,40,2770,1000,10.0,1.417,True,False,flow is within ±1.5 mg/s of target; parameters locked
+159.312,39.171,3,1088.0,1088,True,256,1088.647,True,8.488,0.404,40,2770,1000,10.0,1.48,True,False,flow is within ±1.5 mg/s of target; parameters locked
+159.422,39.281,3,1095.0,1095,True,256,1090.667,True,10.009,2.194,40,2770,1000,10.0,-0.185,True,False,flow is within ±1.5 mg/s of target; parameters locked
+159.547,39.406,3,1095.0,1095,True,256,1092.548,True,11.019,2.979,40,2770,1000,10.0,-1.258,True,False,flow is within ±1.5 mg/s of target; parameters locked
+159.672,39.531,3,1095.0,1095,True,256,1094.159,True,11.644,3.248,40,2770,1000,10.0,-1.904,False,False,flow is above target; reduce duty
+159.812,39.671,3,1095.0,1095,True,256,1095.657,True,11.923,3.081,40,2770,1000,10.0,-2.169,False,False,flow is above target; reduce duty
+159.937,39.796,3,1100.0,1100,True,256,1097.737,True,12.987,3.805,40,2770,1000,10.0,-3.291,False,False,flow is above target; reduce duty
+160.109,39.968,3,1101.0,1101,True,256,1100.222,True,13.811,3.937,40,2770,1000,10.0,-4.126,False,False,flow is above target; reduce duty
+160.219,40.078,3,1101.0,1101,True,256,1101.612,True,14.036,3.684,40,2750,1000,10.0,-4.33,False,False,flow is above target; reduce duty
+160.344,40.203,3,1101.0,1101,True,256,1102.916,True,13.921,3.071,40,2750,1000,10.0,-4.167,False,False,flow is above target; reduce duty
+160.469,40.328,3,1101.0,1101,True,256,1103.944,True,13.422,2.129,40,2750,1000,10.0,-3.592,False,False,flow is above target; reduce duty
+160.609,40.468,3,1108.0,1108,True,256,1106.275,True,14.182,2.569,40,2750,1000,10.0,-4.387,False,False,flow is above target; reduce duty
+160.734,40.593,3,1108.0,1108,True,256,1108.054,True,14.487,2.551,40,2750,1000,10.0,-4.691,False,False,flow is above target; reduce duty
+160.875,40.734,3,1108.0,1108,True,256,1109.698,True,14.395,2.124,40,2750,1000,10.0,-4.565,False,False,flow is above target; reduce duty
+161.016,40.875,3,1108.0,1108,True,256,1110.999,True,13.897,1.37,40,2750,1000,10.0,-4.006,False,False,flow is above target; reduce duty
+161.141,41.0,3,1114.0,1114,True,256,1112.997,True,14.369,1.691,40,2750,1000,10.0,-4.504,False,False,flow is above target; reduce duty
+161.312,41.171,3,1115.0,1115,True,256,1115.383,True,14.574,1.625,40,2750,1000,10.0,-4.704,False,False,flow is above target; reduce duty
+161.422,41.281,3,1115.0,1115,True,256,1116.597,True,14.208,0.965,40,2750,1000,10.0,-4.285,False,False,flow is above target; reduce duty
+161.547,41.406,3,1115.0,1115,True,256,1117.704,True,13.517,0.1,40,2750,1000,10.0,-3.525,False,False,flow is above target; reduce duty
+161.719,41.578,3,1115.0,1115,True,256,1119.025,True,12.657,-0.58,40,2750,1000,10.0,-2.611,False,False,flow is above target; reduce duty
+161.828,41.687,3,1115.0,1115,True,256,1119.321,True,11.107,-2.399,40,2750,1000,10.0,-0.915,True,False,flow is within ±1.5 mg/s of target; parameters locked
+161.937,41.796,3,1120.0,1120,True,256,1120.414,True,10.704,-2.573,40,2750,1000,10.0,-0.498,True,False,flow is within ±1.5 mg/s of target; parameters locked
+162.109,41.968,3,1121.0,1121,True,256,1121.973,True,10.049,-2.737,40,2750,1000,10.0,0.17,True,False,flow is within ±1.5 mg/s of target; parameters locked
+162.219,42.078,3,1121.0,1121,True,256,1122.65,True,9.185,-3.419,40,2750,1000,10.0,1.088,True,False,flow is within ±1.5 mg/s of target; parameters locked
+162.344,42.203,3,1121.0,1121,True,256,1123.217,True,8.093,-4.129,40,2750,1000,10.0,2.237,False,False,flow is below target; increase duty
+162.516,42.375,3,1121.0,1121,True,256,1123.838,True,6.764,-4.608,40,2750,1000,10.0,3.605,False,False,flow is below target; increase duty
+162.625,42.484,3,1121.0,1121,True,256,1123.839,True,5.285,-5.803,40,2750,1000,10.0,5.179,False,False,flow is below target; increase duty
+162.734,42.593,3,1127.0,1127,True,256,1124.904,True,5.374,-4.921,40,2750,1000,10.0,5.02,False,False,flow is below target; increase duty
+162.875,42.734,3,1127.0,1127,True,256,1125.89,True,4.975,-4.642,40,2750,1000,10.0,5.396,False,False,flow is below target; increase duty
+163.016,42.875,3,1127.0,1127,True,256,1126.636,True,4.417,-4.55,40,2750,1000,10.0,5.947,False,False,flow is below target; increase duty
+163.156,43.015,3,1127.0,1127,True,256,1127.168,True,3.735,-4.593,40,2750,1000,10.0,6.632,False,False,flow is below target; increase duty
+163.312,43.171,3,1133.0,1133,True,256,1128.756,True,4.039,-3.721,40,2750,1000,10.0,6.259,False,False,flow is below target; increase duty
+163.422,43.281,3,1134.0,1134,True,256,1130.142,True,4.944,-2.127,40,2750,1000,10.0,5.226,False,False,flow is below target; increase duty
+163.547,43.406,3,1134.0,1134,True,256,1131.395,True,5.46,-1.293,40,2750,1000,10.0,4.643,False,False,flow is below target; increase duty
+163.719,43.578,3,1134.0,1134,True,256,1132.652,True,5.532,-1.066,40,2750,1000,10.0,4.554,False,False,flow is below target; increase duty
+163.812,43.671,3,1134.0,1134,True,256,1133.329,True,5.703,-0.678,40,2750,1000,10.0,4.351,False,False,flow is below target; increase duty
+164.016,43.875,3,1139.0,1139,True,256,1135.383,True,6.229,-0.243,40,2750,1000,10.0,3.79,False,False,flow is below target; increase duty
+164.141,44.0,3,1139.0,1139,True,256,1136.728,True,6.881,0.484,40,2750,1000,10.0,3.081,False,False,flow is below target; increase duty
+164.312,44.171,3,1139.0,1139,True,256,1138.129,True,7.154,0.633,40,2770,1000,10.0,2.795,False,False,flow is below target; increase duty
+164.422,44.281,3,1139.0,1139,True,256,1138.936,True,7.246,0.659,40,2770,1000,10.0,2.701,False,False,flow is below target; increase duty
+164.547,44.406,3,1139.0,1139,True,256,1139.677,True,7.125,0.442,40,2770,1000,10.0,2.84,False,False,flow is below target; increase duty
+164.719,44.578,3,1144.0,1144,True,256,1141.528,True,7.74,0.86,40,2770,1000,10.0,2.191,False,False,flow is below target; increase duty
+164.828,44.687,3,1145.0,1145,True,256,1142.901,True,8.556,1.743,40,2770,1000,10.0,1.305,True,False,flow is within ±1.5 mg/s of target; parameters locked
+164.937,44.796,3,1145.0,1145,True,256,1144.075,True,9.064,2.133,40,2770,1000,10.0,0.765,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.078,44.937,3,1145.0,1145,True,256,1145.3,True,9.285,2.057,40,2770,1000,10.0,0.55,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.219,45.078,3,1145.0,1145,True,256,1146.303,True,9.229,1.729,40,2770,1000,10.0,0.633,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.344,45.203,3,1145.0,1145,True,256,1146.976,True,8.852,1.097,40,2770,1000,10.0,1.06,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.516,45.375,3,1151.0,1151,True,256,1149.012,True,9.474,1.433,40,2770,1000,10.0,0.411,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.625,45.484,3,1151.0,1151,True,256,1150.243,True,9.891,1.752,40,2770,1000,10.0,-0.031,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.734,45.593,3,1151.0,1151,True,256,1151.265,True,9.991,1.64,40,2770,1000,10.0,-0.122,True,False,flow is within ±1.5 mg/s of target; parameters locked
+165.922,45.781,3,1151.0,1151,True,256,1152.738,True,9.952,1.394,40,2770,1000,10.0,-0.064,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.031,45.89,3,1151.0,1151,True,256,1153.265,True,9.325,0.441,40,2770,1000,10.0,0.64,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.141,46.0,3,1156.0,1156,True,256,1154.634,True,9.839,1.006,40,2770,1000,10.0,0.08,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.312,46.171,3,1156.0,1156,True,256,1156.265,True,9.953,0.96,40,2770,1000,10.0,-0.03,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.422,46.281,3,1156.0,1156,True,256,1157.093,True,9.686,0.509,40,2770,1000,10.0,0.273,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.547,46.406,3,1156.0,1156,True,256,1157.846,True,9.196,-0.082,40,2770,1000,10.0,0.811,True,False,flow is within ±1.5 mg/s of target; parameters locked
+166.672,46.531,3,1156.0,1156,True,256,1158.396,True,8.467,-0.849,40,2770,1000,10.0,1.601,False,False,flow is below target; increase duty
+166.812,46.671,3,1163.0,1163,True,256,1160.258,True,9.082,-0.149,40,2770,1000,10.0,0.929,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.016,46.875,3,1163.0,1163,True,256,1162.286,True,9.183,-0.063,40,2770,1000,10.0,0.822,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.141,47.0,3,1163.0,1163,True,256,1163.347,True,9.071,-0.175,40,2770,1000,10.0,0.943,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.312,47.171,3,1163.0,1163,True,256,1164.517,True,8.709,-0.434,40,2770,1000,10.0,1.326,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.422,47.281,3,1168.0,1168,True,256,1165.978,True,9.35,0.402,40,2770,1000,10.0,0.617,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.547,47.406,3,1169.0,1169,True,256,1167.52,True,9.845,0.876,40,2770,1000,10.0,0.085,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.719,47.578,3,1169.0,1169,True,256,1169.181,True,9.956,0.845,40,2770,1000,10.0,-0.024,True,False,flow is within ±1.5 mg/s of target; parameters locked
+167.875,47.734,3,1169.0,1169,True,256,1170.395,True,9.752,0.558,40,2770,1000,10.0,0.203,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.0,47.859,3,1169.0,1169,True,256,1171.095,True,9.194,-0.112,40,2770,1000,10.0,0.815,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.141,48.0,3,1175.0,1175,True,256,1172.912,True,9.733,0.413,40,2770,1000,10.0,0.234,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.312,48.171,3,1176.0,1176,True,256,1174.866,True,10.053,0.607,40,2770,1000,10.0,-0.101,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.422,48.281,3,1176.0,1176,True,256,1175.98,True,10.126,0.615,40,2770,1000,10.0,-0.175,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.547,48.406,3,1176.0,1176,True,256,1177.001,True,9.903,0.295,40,2770,1000,10.0,0.074,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.672,48.531,3,1176.0,1176,True,256,1177.793,True,9.402,-0.279,40,2770,1000,10.0,0.621,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.812,48.671,3,1176.0,1176,True,256,1178.485,True,8.697,-0.913,40,2770,1000,10.0,1.376,True,False,flow is within ±1.5 mg/s of target; parameters locked
+168.937,48.796,3,1176.0,1176,True,256,1178.852,True,7.727,-1.825,40,2770,1000,10.0,2.419,False,False,flow is below target; increase duty
+169.109,48.968,3,1181.0,1181,True,256,1180.323,True,7.561,-1.711,40,2770,1000,10.0,2.576,False,False,flow is below target; increase duty
+169.219,49.078,3,1181.0,1181,True,256,1181.116,True,7.333,-1.759,40,2770,1000,10.0,2.807,False,False,flow is below target; increase duty
+169.344,49.203,3,1181.0,1181,True,256,1181.815,True,6.869,-2.02,40,2770,1000,10.0,3.293,False,False,flow is below target; increase duty
+169.469,49.328,3,1181.0,1181,True,256,1182.326,True,6.219,-2.444,40,2770,1000,10.0,3.977,False,False,flow is below target; increase duty
+169.609,49.468,3,1181.0,1181,True,256,1182.738,True,5.411,-2.887,40,2770,1000,10.0,4.82,False,False,flow is below target; increase duty
+169.734,49.593,3,1187.0,1187,True,256,1184.114,True,5.916,-1.964,40,2770,1000,10.0,4.241,False,False,flow is below target; increase duty
+169.875,49.734,3,1187.0,1187,True,256,1185.343,True,6.08,-1.547,40,2770,1000,10.0,4.044,False,False,flow is below target; increase duty
+170.016,49.875,3,1187.0,1187,True,256,1186.348,True,6.035,-1.383,40,2770,1000,10.0,4.075,False,False,flow is below target; increase duty
+170.141,50.0,3,1187.0,1187,True,256,1187.073,True,5.84,-1.406,40,2770,1000,10.0,4.272,False,False,flow is below target; increase duty
+170.266,50.125,3,1187.0,1187,True,256,1187.634,True,5.475,-1.609,40,2770,1000,10.0,4.654,False,False,flow is below target; increase duty
+170.406,50.265,3,1193.0,1193,True,256,1189.307,True,6.238,-0.667,40,2790,1000,10.0,3.815,False,False,flow is below target; increase duty
+170.547,50.406,3,1193.0,1193,True,256,1190.744,True,6.744,-0.1,40,2790,1000,10.0,3.264,False,False,flow is below target; increase duty
+170.719,50.578,3,1193.0,1193,True,256,1192.122,True,6.918,0.049,40,2790,1000,10.0,3.078,False,False,flow is below target; increase duty
+170.906,50.765,3,1193.0,1193,True,256,1193.334,True,6.861,0.001,40,2790,1000,10.0,3.139,False,False,flow is below target; increase duty
+171.016,50.875,3,1193.0,1193,True,256,1193.871,True,6.564,-0.359,40,2790,1000,10.0,3.465,False,False,flow is below target; increase duty
+171.141,51.0,3,1198.0,1198,True,256,1195.351,True,7.314,0.489,40,2790,1000,10.0,2.647,False,False,flow is below target; increase duty
+171.266,51.125,3,1198.0,1198,True,256,1196.615,True,7.791,0.932,40,2790,1000,10.0,2.135,False,False,flow is below target; increase duty
+171.422,51.281,3,1198.0,1198,True,256,1197.873,True,7.967,0.958,40,2790,1000,10.0,1.957,False,False,flow is below target; increase duty
+171.547,51.406,3,1198.0,1198,True,256,1198.701,True,7.876,0.734,40,2790,1000,10.0,2.065,False,False,flow is below target; increase duty
+171.672,51.531,3,1198.0,1198,True,256,1199.353,True,7.562,0.301,40,2790,1000,10.0,2.414,False,False,flow is below target; increase duty
+171.812,51.671,3,1198.0,1198,True,256,1199.932,True,7.086,-0.192,40,2790,1000,10.0,2.929,False,False,flow is below target; increase duty
+171.937,51.796,3,1198.0,1198,True,256,1200.253,True,6.386,-0.913,40,2790,1000,10.0,3.687,False,False,flow is below target; increase duty
+172.078,51.937,3,1203.0,1203,True,256,1201.515,True,6.653,-0.54,40,2790,1000,10.0,3.391,False,False,flow is below target; increase duty
+172.219,52.078,3,1203.0,1203,True,256,1202.558,True,6.694,-0.428,40,2790,1000,10.0,3.34,False,False,flow is below target; increase duty
+172.344,52.203,3,1203.0,1203,True,256,1203.314,True,6.546,-0.529,40,2790,1000,10.0,3.496,False,False,flow is below target; increase duty
+172.469,52.328,3,1203.0,1203,True,256,1203.902,True,6.21,-0.817,40,2810,1000,10.0,3.856,False,False,flow is below target; increase duty
+172.609,52.468,3,1203.0,1203,True,256,1204.411,True,5.717,-1.177,40,2810,1000,10.0,4.377,False,False,flow is below target; increase duty
+172.812,52.671,3,1207.0,1207,True,256,1205.838,True,5.693,-1.036,40,2810,1000,10.0,4.39,False,False,flow is below target; increase duty
+172.953,52.812,3,1208.0,1208,True,256,1206.904,True,5.838,-0.761,40,2810,1000,10.0,4.223,False,False,flow is below target; increase duty
+173.078,52.937,3,1208.0,1208,True,256,1207.702,True,5.833,-0.665,40,2810,1000,10.0,4.221,False,False,flow is below target; increase duty
+173.203,53.062,3,1208.0,1208,True,256,1208.341,True,5.647,-0.775,40,2810,1000,10.0,4.415,False,False,flow is below target; increase duty
+173.344,53.203,3,1208.0,1208,True,256,1208.904,True,5.298,-1.002,40,2810,1000,10.0,4.783,False,False,flow is below target; increase duty
+173.516,53.375,3,1208.0,1208,True,256,1209.44,True,4.811,-1.245,40,2810,1000,10.0,5.288,False,False,flow is below target; increase duty
+173.625,53.484,3,1214.0,1214,True,256,1210.766,True,5.788,0.116,40,2810,1000,10.0,4.202,False,False,flow is below target; increase duty
+173.75,53.609,3,1214.0,1214,True,256,1211.992,True,6.405,0.759,40,2810,1000,10.0,3.534,False,False,flow is below target; increase duty
+173.875,53.734,3,1214.0,1214,True,256,1213.039,True,6.788,1.066,40,2810,1000,10.0,3.126,False,False,flow is below target; increase duty
+174.0,53.859,3,1214.0,1214,True,256,1213.917,True,6.947,1.093,40,2810,1000,10.0,2.966,False,False,flow is below target; increase duty
+174.141,54.0,3,1214.0,1214,True,256,1214.726,True,6.908,0.91,40,2810,1000,10.0,3.019,False,False,flow is below target; increase duty
+174.312,54.171,3,1220.0,1220,True,256,1216.736,True,7.779,1.468,40,2810,1000,10.0,2.103,False,False,flow is below target; increase duty
+174.516,54.375,3,1220.0,1220,True,256,1218.683,True,8.321,1.627,40,2830,1000,10.0,1.549,False,False,flow is below target; increase duty
+174.672,54.531,3,1220.0,1220,True,256,1220.001,True,8.574,1.627,40,2830,1000,10.0,1.295,True,False,flow is within ±1.5 mg/s of target; parameters locked
+174.812,54.671,3,1220.0,1220,True,256,1220.974,True,8.541,1.378,40,2830,1000,10.0,1.348,True,False,flow is within ±1.5 mg/s of target; parameters locked
+174.937,54.796,3,1220.0,1220,True,256,1221.642,True,8.221,0.853,40,2830,1000,10.0,1.711,False,False,flow is below target; increase duty
+175.109,54.968,3,1225.0,1225,True,256,1223.455,True,8.705,1.114,40,2830,1000,10.0,1.206,True,False,flow is within ±1.5 mg/s of target; parameters locked
+175.219,55.078,3,1225.0,1225,True,256,1224.535,True,8.986,1.306,40,2830,1000,10.0,0.91,True,False,flow is within ±1.5 mg/s of target; parameters locked
+175.344,55.203,3,1225.0,1225,True,256,1225.535,True,8.989,1.135,40,2830,1000,10.0,0.921,True,False,flow is within ±1.5 mg/s of target; parameters locked
+175.469,55.328,3,1225.0,1225,True,256,1226.334,True,8.73,0.708,40,2830,1000,10.0,1.213,True,False,flow is within ±1.5 mg/s of target; parameters locked
+175.609,55.468,3,1225.0,1225,True,256,1227.05,True,8.28,0.185,40,2830,1000,10.0,1.705,False,False,flow is below target; increase duty
+175.734,55.593,3,1231.0,1231,True,256,1228.67,True,9.003,0.931,40,2830,1000,10.0,0.923,True,False,flow is within ±1.5 mg/s of target; parameters locked
+175.875,55.734,3,1231.0,1231,True,256,1230.159,True,9.358,1.143,40,2830,1000,10.0,0.551,True,False,flow is within ±1.5 mg/s of target; parameters locked
+176.016,55.875,3,1231.0,1231,True,256,1231.391,True,9.415,1.044,40,2830,1000,10.0,0.502,True,False,flow is within ±1.5 mg/s of target; parameters locked
+176.141,56.0,3,1231.0,1231,True,256,1232.261,True,9.167,0.641,40,2830,1000,10.0,0.782,True,False,flow is within ±1.5 mg/s of target; parameters locked
+176.266,56.125,3,1231.0,1231,True,256,1232.93,True,8.668,0.023,40,2830,1000,10.0,1.33,True,False,flow is within ±1.5 mg/s of target; parameters locked
+176.406,56.265,3,1231.0,1231,True,256,1233.515,True,7.998,-0.618,40,2830,1000,10.0,2.052,False,False,flow is below target; increase duty
+176.547,56.406,3,1235.0,1235,True,256,1234.709,True,7.988,-0.545,40,2850,1000,10.0,2.056,False,False,flow is below target; increase duty
+176.719,56.578,3,1235.0,1235,True,256,1235.86,True,7.707,-0.691,40,2850,1000,10.0,2.349,False,False,flow is below target; increase duty
+176.828,56.687,3,1235.0,1235,True,256,1236.357,True,7.165,-1.262,40,2850,1000,10.0,2.936,False,False,flow is below target; increase duty
+176.937,56.796,3,1235.0,1235,True,256,1236.704,True,6.441,-1.979,40,2850,1000,10.0,3.717,False,False,flow is below target; increase duty
+177.125,56.984,3,1235.0,1235,True,256,1237.304,True,5.609,-2.305,40,2850,1000,10.0,4.575,False,False,flow is below target; increase duty
+177.266,57.125,3,1235.0,1235,True,256,1237.458,True,4.631,-2.923,40,2850,1000,10.0,5.603,False,False,flow is below target; increase duty
+177.422,57.281,3,1240.0,1240,True,256,1238.516,True,4.532,-2.618,40,2850,1000,10.0,5.678,False,False,flow is below target; increase duty
+177.547,57.406,3,1241.0,1241,True,256,1239.449,True,4.67,-2.121,40,2850,1000,10.0,5.5,False,False,flow is below target; increase duty
+177.672,57.531,3,1241.0,1241,True,256,1240.213,True,4.641,-1.87,40,2850,1000,10.0,5.509,False,False,flow is below target; increase duty
+177.812,57.671,3,1241.0,1241,True,256,1240.876,True,4.412,-1.838,40,2850,1000,10.0,5.735,False,False,flow is below target; increase duty
+177.937,57.796,3,1241.0,1241,True,256,1241.33,True,4.083,-1.944,40,2850,1000,10.0,6.072,False,False,flow is below target; increase duty
+178.078,57.937,3,1241.0,1241,True,256,1241.709,True,3.621,-2.122,40,2850,1000,10.0,6.549,False,False,flow is below target; increase duty
+178.219,58.078,3,1247.0,1247,True,256,1243.159,True,4.343,-1.156,40,2850,1000,10.0,5.749,False,False,flow is below target; increase duty
+178.344,58.203,3,1247.0,1247,True,256,1244.354,True,4.992,-0.309,40,2850,1000,10.0,5.032,False,False,flow is below target; increase duty
+178.516,58.375,3,1247.0,1247,True,256,1245.567,True,5.252,-0.067,40,2850,1000,10.0,4.754,False,False,flow is below target; increase duty
+178.625,58.484,3,1247.0,1247,True,256,1246.311,True,5.481,0.223,40,2870,1000,10.0,4.501,False,False,flow is below target; increase duty
+178.75,58.609,3,1247.0,1247,True,256,1246.998,True,5.51,0.223,40,2870,1000,10.0,4.472,False,False,flow is below target; increase duty
+178.875,58.734,3,1252.0,1252,True,256,1248.551,True,6.572,1.327,40,2870,1000,10.0,3.321,False,False,flow is below target; increase duty
+179.016,58.875,3,1252.0,1252,True,256,1249.993,True,7.293,1.832,40,2870,1000,10.0,2.56,False,False,flow is below target; increase duty
+179.141,59.0,3,1252.0,1252,True,256,1251.135,True,7.782,2.109,40,2870,1000,10.0,2.049,False,False,flow is below target; increase duty
+179.266,59.125,3,1252.0,1252,True,256,1252.099,True,8.016,2.077,40,2870,1000,10.0,1.818,False,False,flow is below target; increase duty
+179.406,59.265,3,1252.0,1252,True,256,1252.994,True,8.04,1.824,40,2870,1000,10.0,1.814,False,False,flow is below target; increase duty
+179.531,59.39,3,1252.0,1252,True,256,1253.61,True,7.785,1.308,40,2870,1000,10.0,2.11,False,False,flow is below target; increase duty
+179.703,59.562,3,1258.0,1258,True,256,1255.575,True,8.539,1.718,40,2870,1000,10.0,1.324,True,False,flow is within ±1.5 mg/s of target; parameters locked
+179.812,59.671,3,1258.0,1258,True,256,1256.813,True,9.135,2.218,40,2870,1000,10.0,0.688,True,False,flow is within ±1.5 mg/s of target; parameters locked
+179.937,59.796,3,1258.0,1258,True,256,1257.977,True,9.419,2.225,40,2870,1000,10.0,0.403,True,False,flow is within ±1.5 mg/s of target; parameters locked
+180.125,59.984,3,1258.0,1258,True,256,1259.43,True,9.552,2.023,40,2870,1000,10.0,0.286,True,False,flow is within ±1.5 mg/s of target; parameters locked

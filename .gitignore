@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+web/dist/
+
+# Logs & temp
+logs/
+tmp/
+*.log
+
+# Build output
+output/
+dist/
+build/
+
+# Backups & local data
+_migration_backups/
+
+# IDE / local
+.claude/
+.DS_Store
+Thumbs.db
+
+# Env & secrets
+.env
+*.pem
+*.key
+.git.bak/
+.pnpm-store/
+.git.bak/

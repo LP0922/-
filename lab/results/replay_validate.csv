@@ -1,0 +1,127 @@
+﻿run_id,powder,target,final,n_samples,recorded_stop_idx,replay_stop_idx,hit,fired,kind,projected,residual,stop_reason
+dispense-1000mg-20260924_110756-7d33d9,失水剂2,1000,988.0,241,240,240,1,1,safety_stop,1009.1895,-21.189499999999953,projected safety stop: predicted final mass 1009
+dispense-1000mg-20260924_110900-dc10e8,失水剂2,1000,983.0,294,293,293,1,1,predictive_tail,997.9855,-14.985500000000002,predicted tail confirmed inside the acceptance w
+dispense-1000mg-20260924_111045-155d99,失水剂2,1000,1049.0,135,134,133,0,1,safety_stop,1022.2855,26.714500000000044,measured mass reached acceptance lower bound
+dispense-1000mg-20260924_111150-885acc,失水剂2,1000,993.0,180,179,179,1,1,safety_stop,1007.031,-14.030999999999949,projected safety stop: predicted final mass 1007
+dispense-1000mg-20260924_111543-ea30c0,失水剂2,1000,1012.0,122,121,121,1,1,safety_stop,1011.54,0.4600000000000364,projected safety stop: predicted final mass 1011
+dispense-1000mg-20260924_111723-8a58b7,失水剂2,1000,1023.0,241,240,240,1,1,safety_stop,1018.4115,4.588499999999954,projected safety stop: predicted final mass 1018
+dispense-1000mg-20260924_111831-06d88a,失水剂2,1000,994.0,182,181,181,1,1,predictive_tail,1002.7215,-8.721499999999992,predicted tail confirmed inside the acceptance w
+dispense-1000mg-20260924_141809-391fbd,失水剂2,1000,1002.0,295,294,294,0,0,no_stop,989.282,12.717999999999961,measured mass reached acceptance lower bound
+dispense-200mg-20260923_104956-bf7c51,润滑剂1,200,214.0,25,24,24,0,0,no_stop,206.4363,7.563700000000011,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105014-b6b7e8,润滑剂1,200,225.0,19,18,18,1,1,predictive_tail,246.36881499999998,-21.368814999999984,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105024-aeaa94,润滑剂1,200,210.0,25,24,24,1,1,predictive_tail,206.0247,3.9753000000000043,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105038-38c87f,润滑剂1,200,224.0,33,32,32,1,1,measured_safety,220.343665,3.6563350000000128,force stop: mass 194.0 >= 190 mg
+dispense-200mg-20260923_105059-ddbcab,润滑剂1,200,207.0,42,41,41,1,1,predictive_tail,209.314795,-2.3147950000000037,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105115-c69728,润滑剂1,200,201.0,46,45,45,1,1,predictive_tail,204.733035,-3.733035000000001,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105135-05cb24,润滑剂1,200,230.0,27,26,26,0,0,no_stop,209.5477,20.452300000000008,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_105148-0c08b4,润滑剂1,200,207.0,93,92,92,1,1,measured_safety,203.86549,3.134510000000006,force stop: mass 194.0 >= 190 mg
+dispense-200mg-20260923_105217-01fca2,润滑剂1,200,184.0,246,245,245,1,1,predictive_tail,206.11304,-22.113040000000012,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_142511-e0db62,润滑剂1,200,215.0,44,43,43,1,1,measured_safety,210.614,4.385999999999996,force stop: mass 193.0 >= 190 mg
+dispense-200mg-20260923_142528-5d2dc6,润滑剂1,200,198.0,103,102,102,1,1,predictive_tail,203.291,-5.290999999999997,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_143543-d5516a,润滑剂1,200,198.0,149,148,148,1,1,predictive_tail,205.008,-7.00800000000001,predicted tail confirmed inside the acceptance w
+dispense-200mg-20260923_143626-3e7482,润滑剂1,200,190.0,124,123,123,1,1,measured_safety,196.828,-6.828000000000003,force stop: mass 190.0 >= 190 mg
+dispense-200mg-20260923_143704-c2e7c6,润滑剂1,200,196.0,790,789,789,1,1,measured_safety,200.879,-4.878999999999991,force stop: mass 191.0 >= 190 mg
+dispense-500mg-20260923_142444-228ebf,润滑剂1,500,525.0,65,64,64,1,1,predictive_tail,537.986,-12.98599999999999,predicted tail confirmed inside the acceptance w
+dispense-500mg-20260923_162734-a263df,封堵剂1,500,510.0,57,56,56,1,1,predictive_tail,541.2465,-31.24649999999997,predicted tail confirmed inside the acceptance w
+dispense-500mg-20260923_184313-1b50a3,抑制剂1,500,503.0,115,114,114,1,1,predictive_tail,544.6320000000001,-41.63200000000006,predicted tail confirmed inside the acceptance w
+dispense-500mg-20260924_120218-e46693,大分子包被剂-text,500,506.0,62,61,61,1,1,predictive_tail,548.717,-42.716999999999985,predicted tail confirmed inside the acceptance w
+dispense-500mg-20260924_120244-0f42d9,大分子包被剂-text,500,563.0,85,84,84,1,1,predictive_tail,562.2175,0.7825000000000273,measured mass reached acceptance lower bound
+dispense-500mg-20260924_120413-929112,大分子包被剂-text,500,477.0,45,44,44,1,1,predictive_tail,510.557,-33.557000000000016,predicted tail confirmed inside the acceptance w
+large-dispense-10000mg-20260924_120653-0988d5,大分子包被剂-text,10000,10019.0,219,218,218,1,1,predictive_tail,10029.172,-10.17200000000048,predicted tail confirmed inside the acceptance w
+large-dispense-10000mg-20260924_142326-682070,失水剂2,10000,10013.0,246,245,245,1,1,predictive_tail,10004.9875,8.012500000000728,predicted tail confirmed inside the acceptance w
+large-dispense-1000mg-20260924_110708-09d771,失水剂2,1000,954.0,33,32,31,0,1,safety_stop,1014.7415,-60.741499999999974,projected safety stop: predicted final mass 1023
+large-dispense-1000mg-20260924_141059-3eecb8,失水剂2,1000,1019.0,159,158,158,1,1,safety_stop,1015.322,3.6779999999999973,projected safety stop: predicted final mass 1015
+large-dispense-1000mg-20260924_141741-0674a6,失水剂2,1000,1015.0,35,34,34,1,1,safety_stop,1005.961,9.038999999999987,projected safety stop: predicted final mass 1006
+large-dispense-1000mg-20260924_141927-2b279a,失水剂2,1000,998.0,116,115,115,1,1,predictive_tail,997.509,0.49099999999998545,predicted tail confirmed inside the acceptance w
+large-dispense-1000mg-20260924_142012-d2180f,失水剂2,1000,982.0,28,27,27,1,1,safety_stop,1011.8525,-29.852499999999964,projected safety stop: predicted final mass 1011
+large-dispense-1000mg-20260924_142045-1c09de,失水剂2,1000,989.0,61,60,60,1,1,safety_stop,1007.12,-18.120000000000005,projected safety stop: predicted final mass 1007
+large-dispense-2000mg-20260923_105942-7f9767,润滑剂1,2000,2009.0,190,189,189,1,1,measured_safety,2011.406145,-2.406144999999924,force stop: mass 1990.0 >= 1990 mg
+large-dispense-2000mg-20260923_110051-697dd0,润滑剂1,2000,1995.0,103,102,102,1,1,predictive_tail,2008.9075,-13.907500000000027,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_110129-eeb6c3,润滑剂1,2000,2030.0,177,176,176,1,1,measured_safety,2010.2618,19.738200000000006,force stop: mass 1998.0 >= 1990 mg
+large-dispense-2000mg-20260923_112215-0d80ff,润滑剂1,2000,2093.0,221,220,220,1,1,predictive_tail,2068.7967,24.203300000000127,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_112321-fd2f4b,润滑剂1,2000,2007.0,127,126,126,1,1,measured_safety,2023.30829,-16.308289999999943,force stop: mass 1993.0 >= 1990 mg
+large-dispense-2000mg-20260923_112436-256f61,润滑剂1,2000,2104.0,83,82,82,1,1,measured_safety,2085.11538,18.884619999999813,force stop: mass 2002.0 >= 1990 mg
+large-dispense-2000mg-20260923_113138-dff533,润滑剂1,2000,2052.0,101,100,100,1,1,measured_safety,2145.100445,-93.10044500000004,force stop: mass 1995.0 >= 1990 mg
+large-dispense-2000mg-20260923_113214-f90d34,润滑剂1,2000,2033.0,232,231,231,1,1,predictive_tail,2024.6831,8.316900000000032,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_113845-2fdaf5,润滑剂1,2000,1992.0,213,212,212,1,1,predictive_tail,1999.1333300000001,-7.1333300000001145,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_113954-f13307,润滑剂1,2000,2109.0,314,313,313,1,1,predictive_tail,2134.39782,-25.397820000000138,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_114156-42ba8b,润滑剂1,2000,2164.0,112,111,111,1,1,measured_safety,2122.1537,41.846300000000156,force stop: mass 1992.0 >= 1990 mg
+large-dispense-2000mg-20260923_135324-3bd03d,润滑剂1,2000,2041.0,171,170,170,1,1,measured_safety,2193.8545,-152.85449999999992,force stop: mass 1990.0 >= 1990 mg
+large-dispense-2000mg-20260923_135513-402929,润滑剂1,2000,2026.0,223,222,222,1,1,measured_safety,2023.474,2.5260000000000673,force stop: mass 1995.0 >= 1990 mg
+large-dispense-2000mg-20260923_135629-478ae3,润滑剂1,2000,1987.0,610,609,609,1,1,predictive_tail,1997.183,-10.182999999999993,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_135941-2dc1b5,润滑剂1,2000,2035.0,403,402,402,1,1,predictive_tail,2029.891,5.108999999999924,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_140539-2a8ec8,润滑剂1,2000,2060.0,387,386,386,1,1,predictive_tail,2191.7025,-131.70249999999987,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_142307-4a246e,润滑剂1,2000,2082.0,309,308,308,1,1,predictive_tail,2192.573,-110.57299999999987,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260923_142831-eaeee0,润滑剂1,2000,1992.0,116,115,115,1,1,predictive_tail,2072.629,-80.6289999999999,predicted tail confirmed inside the acceptance w
+large-dispense-2000mg-20260924_140715-f2ba95,失水剂2,2000,2026.0,44,43,37,0,1,safety_stop,2016.3875,9.612499999999955,projected safety stop: predicted final mass 2065
+large-dispense-2000mg-20260924_140825-5f3ae0,失水剂2,2000,2008.0,42,41,38,0,1,safety_stop,2022.1915,-14.191499999999905,projected safety stop: predicted final mass 2068
+large-dispense-2000mg-20260924_142140-78acf2,失水剂2,2000,1998.0,66,65,65,1,1,predictive_tail,2004.651,-6.651000000000067,predicted tail confirmed inside the acceptance w
+large-dispense-3000mg-20260924_112129-b8756a,失水剂2,3000,3089.0,73,72,65,0,1,safety_stop,3041.576,47.42399999999998,measured mass reached acceptance lower bound
+large-dispense-3000mg-20260924_112731-ca7480,失水剂2,3000,3003.0,81,80,80,1,1,safety_stop,3008.394,-5.393999999999778,projected safety stop: predicted final mass 3008
+large-dispense-3000mg-20260924_140639-ff2a44,失水剂2,3000,3011.0,60,59,55,0,1,safety_stop,3007.849,3.15099999999984,projected safety stop: predicted final mass 3036
+large-dispense-3000mg-20260924_141515-915531,失水剂2,3000,3016.0,66,65,61,0,1,safety_stop,3014.2135,1.78650000000016,projected safety stop: predicted final mass 3078
+large-dispense-5000mg-20260923_153212-3d8453,润滑剂1,5000,4999.0,542,541,541,1,1,predictive_tail,5011.871,-12.871000000000095,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_155137-a7e0fa,封堵剂1,5000,5038.0,320,319,319,1,1,predictive_tail,5033.6675,4.332500000000437,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_155305-2071c5,封堵剂1,5000,5027.0,395,394,394,1,1,predictive_tail,5020.051,6.948999999999614,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_155455-c97dc8,封堵剂1,5000,5000.0,316,315,315,1,1,predictive_tail,5003.912,-3.912000000000262,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_155650-fb66a0,封堵剂1,5000,5025.0,353,352,352,1,1,predictive_tail,5027.7975,-2.7974999999996726,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_160148-34abf6,封堵剂1,5000,5019.0,319,318,318,1,1,predictive_tail,5028.9035,-9.90350000000035,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_160325-33f3b3,封堵剂1,5000,5039.0,334,333,333,1,1,predictive_tail,5011.627,27.372999999999593,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_160508-9845a8,封堵剂1,5000,5020.0,404,403,403,1,1,predictive_tail,5014.28,5.720000000000255,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_161110-a7298f,封堵剂1,5000,5022.0,355,354,354,1,1,predictive_tail,5020.555,1.444999999999709,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_161248-ffb78d,封堵剂1,5000,5043.0,389,388,388,1,1,predictive_tail,5031.9915,11.008499999999913,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_161446-cbfed3,封堵剂1,5000,5013.0,437,436,436,1,1,predictive_tail,5037.22,-24.220000000000255,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_161709-8a95c5,封堵剂1,5000,4991.0,352,351,351,1,1,predictive_tail,5036.9075,-45.907500000000255,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_162305-dbfc9a,封堵剂1,5000,5006.0,353,352,352,1,1,predictive_tail,5020.1985,-14.198500000000422,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_162516-d0a27d,封堵剂1,5000,5021.0,317,316,316,1,1,predictive_tail,5018.3225,2.6774999999997817,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_162758-ab7dd3,封堵剂1,5000,4993.0,316,315,315,1,1,predictive_tail,5030.9955,-37.99549999999999,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_163218-d67329,封堵剂1,5000,5018.0,304,303,303,1,1,predictive_tail,5015.814,2.1859999999996944,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_163630-a6d5da,封堵剂1,5000,5053.0,483,482,482,1,1,predictive_tail,5032.5695,20.430500000000393,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_163914-92633d,封堵剂1,5000,5039.0,438,437,437,1,1,predictive_tail,5027.68,11.319999999999709,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_164111-c9f9df,封堵剂1,5000,5031.0,434,433,433,1,1,predictive_tail,5032.136,-1.136000000000422,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_164334-55ebb2,封堵剂1,5000,5027.0,499,498,498,1,1,predictive_tail,5031.2195,-4.219500000000153,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_171818-4bb3ae,封堵剂2,5000,4996.0,471,470,470,1,1,measured_safety,4995.069,0.9309999999995853,force stop: mass 4990.0 >= 4990 mg
+large-dispense-5000mg-20260923_172022-a67d11,封堵剂2,5000,4996.0,430,429,429,1,1,predictive_tail,4999.1685,-3.168499999999767,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_172530-021349,封堵剂2,5000,5011.0,610,609,609,1,1,predictive_tail,5003.3105,7.6895000000004075,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_172811-e82b02,封堵剂2,5000,5005.0,648,647,647,1,1,predictive_tail,5056.1615,-51.16150000000016,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_173546-3cb1e7,封堵剂2,5000,4984.0,586,585,585,1,1,predictive_tail,5016.9105,-32.910499999999956,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_174451-0ccbc6,封堵剂2,5000,5003.0,305,304,302,0,1,predictive_tail,5034.8715,-31.871500000000196,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_174620-c9ec81,封堵剂2,5000,4985.0,588,587,587,1,1,predictive_tail,5002.5095,-17.509500000000116,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_174854-939554,封堵剂2,5000,5008.0,532,531,529,0,1,predictive_tail,5031.713,-23.712999999999738,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_175157-fb0670,封堵剂2,5000,5021.0,397,396,393,0,1,predictive_tail,5039.863,-18.863000000000284,force stop: mass 5002.0 >= 4990 mg
+large-dispense-5000mg-20260923_180709-c8ac0c,封堵剂2,5000,5044.0,500,499,499,0,0,no_stop,4994.7795,49.22050000000036,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_180928-4fbae5,封堵剂2,5000,5000.0,598,597,597,0,0,no_stop,5001.5165,-1.5164999999997235,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_181209-13ddc8,封堵剂2,5000,4995.0,637,636,636,1,1,predictive_tail,4998.838,-3.837999999999738,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_182401-1ec123,抑制剂1,5000,4977.0,338,337,337,1,1,predictive_tail,5019.924,-42.92399999999998,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_182549-3234d7,抑制剂1,5000,5090.0,42,41,41,0,0,no_stop,4946.0,144.0,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_182619-ec9eda,抑制剂1,5000,4996.0,173,172,172,1,1,predictive_tail,5017.7135,-21.71349999999984,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_182733-d87859,抑制剂1,5000,4997.0,480,479,479,1,1,predictive_tail,5011.1365,-14.136499999999614,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_183327-71d96e,抑制剂1,5000,5111.0,435,434,434,0,0,no_stop,4993.627,117.37299999999959,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_183550-a9dbae,抑制剂1,5000,4983.0,154,153,153,1,1,predictive_tail,5029.502,-46.50200000000041,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_183649-d2a4b0,抑制剂1,5000,5052.0,247,246,246,0,0,no_stop,5194.1945,-142.1944999999996,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_183819-bfaf4c,抑制剂1,5000,5012.0,559,558,558,0,0,no_stop,4997.433,14.567000000000007,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260923_185243-1c7895,膨润土,5000,4974.0,703,702,702,1,1,predictive_tail,5001.906,-27.90599999999995,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_185628-6c0b41,膨润土,5000,5000.0,580,579,579,1,1,predictive_tail,5002.942,-2.9420000000000073,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_185905-1fb467,膨润土,5000,5006.0,598,597,597,1,1,predictive_tail,5004.063,1.9369999999998981,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260923_190156-7b2637,膨润土,5000,4995.0,812,811,811,1,1,predictive_tail,4998.185,-3.1850000000004,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_103637-cb4799,膨润土,5000,4992.0,175,174,174,1,1,predictive_tail,5002.923,-10.922999999999774,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_103737-37a7ba,膨润土,5000,5029.0,150,149,142,0,1,safety_stop,5008.4515,20.548499999999876,projected safety stop: predicted final mass 5074
+large-dispense-5000mg-20260924_103952-53d0c4,膨润土,5000,4994.0,233,232,232,1,1,predictive_tail,5000.217,-6.2169999999996435,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_104134-3e8396,膨润土,5000,5011.0,315,314,314,1,1,predictive_tail,4998.376,12.623999999999796,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_104307-38cee1,膨润土,5000,4984.0,202,201,201,1,1,safety_stop,5014.946,-30.945999999999913,projected safety stop: predicted final mass 5014
+large-dispense-5000mg-20260924_104429-ebecbe,膨润土,5000,4992.0,198,197,197,1,1,safety_stop,5010.609,-18.60900000000038,projected safety stop: predicted final mass 5010
+large-dispense-5000mg-20260924_104534-b7c2ea,膨润土,5000,4991.0,189,188,188,1,1,predictive_tail,5003.026,-12.02599999999984,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_104635-098db2,膨润土,5000,5004.0,193,192,192,1,1,safety_stop,5006.227,-2.2269999999998618,projected safety stop: predicted final mass 5006
+large-dispense-5000mg-20260924_104805-87dfe9,膨润土,5000,5002.0,180,179,179,1,1,predictive_tail,5002.894,-0.8940000000002328,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_105656-c69d92,失水剂2,5000,5015.0,388,387,387,1,1,force_stop,5018.637,-3.6369999999997162,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260924_110040-b403da,失水剂2,5000,5012.0,201,200,200,0,0,no_stop,4992.328,19.67199999999957,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260924_110141-efd24e,失水剂2,5000,4990.0,261,260,260,1,1,predictive_tail,4997.6365,-7.636499999999614,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_110359-b55e0d,失水剂2,5000,5007.0,282,281,281,0,0,no_stop,4994.83,12.170000000000073,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260924_112037-f15012,失水剂2,5000,4997.0,142,141,141,1,1,safety_stop,5007.378,-10.377999999999702,projected safety stop: predicted final mass 5007
+large-dispense-5000mg-20260924_113722-be6da3,大分子包被剂-text,5000,4999.0,488,487,487,1,1,measured_safety,5004.0,-5.0,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260924_120029-dd7bcd,大分子包被剂-text,5000,4981.0,237,236,236,1,1,predictive_tail,5007.4295,-26.42950000000019,predicted tail confirmed inside the acceptance w
+large-dispense-5000mg-20260924_120807-932dd2,大分子包被剂-text,5000,5001.0,319,318,318,1,1,predictive_tail,4998.7465,2.2534999999998035,measured mass reached acceptance lower bound
+large-dispense-5000mg-20260924_140258-29ea72,失水剂2,5000,5004.0,122,121,117,0,1,safety_stop,5019.9105,-15.910499999999956,projected safety stop: predicted final mass 5042
+large-dispense-8000mg-20260924_110528-3e6dd9,失水剂2,8000,7979.0,204,203,197,0,1,safety_stop,8021.4655,-42.46550000000025,projected safety stop: predicted final mass 8045
+large-dispense-8000mg-20260924_140357-6f5ef7,失水剂2,8000,8010.0,155,154,154,1,1,safety_stop,8007.375,2.625,projected safety stop: predicted final mass 8007
+large-dispense-8000mg-20260924_140543-1e9100,失水剂2,8000,8010.0,154,153,153,1,1,safety_stop,8007.7275,2.2725000000000364,projected safety stop: predicted final mass 8007

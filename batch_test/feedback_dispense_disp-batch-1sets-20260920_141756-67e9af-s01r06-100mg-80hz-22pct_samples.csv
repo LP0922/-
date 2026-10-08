@@ -1,0 +1,509 @@
+﻿elapsed_s,measurement_read_s,mass_mg,filtered_mass_mg,predicted_mass_mg,rate_valid,rate_mg_s,predicted_rate_mg_s,control_rate_mg_s,acceleration_mg_s2,jerk_mg_s3,estimated_tail_mg,projected_stop_mass_mg,predictive_stop_candidate,stop_confirmation_count,stop_confirmation_required,stall_recovery_active,stall_recovery_attempt,stage,target_rate_mg_s,frequency_hz,duty_permyriad,window_position_units,stable,status_word,reason
+5.86,0.125,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.078,0.109,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,motion estimate not valid; hold seed parameters
+6.344,0.156,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+6.594,0.141,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+6.875,0.156,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+7.078,0.093,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+7.328,0.14,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,motion estimate not valid; hold seed parameters
+7.61,0.157,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,observe light-powder mass gain before increasing duty
+7.813,0.094,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,observe light-powder mass gain before increasing duty
+8.063,0.141,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,observe light-powder mass gain before increasing duty
+8.344,0.156,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,observe light-powder mass gain before increasing duty
+8.61,0.157,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,observe light-powder mass gain before increasing duty
+8.875,0.156,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,0.0,5.0,5.0,False,0,2,False,0,coarse,15.0,80,2200,1100,True,768,observe light-powder mass gain before increasing duty
+9.141,0.156,5.0,2.25,3.978,True,1.88,2.728,2.728,1.131,0.85,7.186,12.186,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+9.344,0.094,5.0,3.71,6.733,True,3.264,4.795,4.795,2.041,1.577,8.857,13.857,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.594,0.141,5.0,4.775,8.332,True,3.939,5.548,5.548,2.146,1.346,9.41,14.41,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+9.813,0.11,5.0,5.379,8.988,True,4.094,5.532,5.532,1.916,0.867,9.342,14.342,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+10.078,0.156,10.0,8.092,13.287,True,5.911,7.941,7.941,2.707,1.29,11.222,21.222,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+10.328,0.14,10.0,9.81,15.641,True,6.726,8.823,8.823,2.795,1.103,11.861,21.861,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+10.547,0.109,10.0,10.742,16.443,True,6.722,8.48,8.48,2.345,0.471,11.511,21.511,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+10.813,0.157,15.0,13.687,20.681,True,8.243,10.406,10.406,2.885,0.782,12.991,27.991,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+11.063,0.141,15.0,15.461,22.683,True,8.629,10.631,10.631,2.67,0.454,13.096,28.096,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,flow is below target but still accelerating; suppress duty increase
+11.281,0.109,15.0,16.323,22.927,True,8.107,9.502,9.502,1.86,-0.38,12.927,27.927,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+11.547,0.156,19.0,18.75,25.882,True,8.773,10.245,10.245,1.963,-0.226,12.652,31.652,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+11.797,0.141,19.0,20.102,26.857,True,8.462,9.549,9.549,1.45,-0.592,12.857,31.857,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+12.078,0.156,19.0,20.946,26.859,True,7.61,8.16,8.16,0.733,-0.983,12.859,31.859,False,0,2,False,0,coarse,15.0,80,2200,1100,True,256,light powder is gaining mass; hold duty
+12.344,0.156,26.0,24.348,31.446,True,8.935,9.994,9.994,1.412,-0.276,12.342,38.342,False,0,2,False,0,coarse,15.0,80,2195,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+12.61,0.157,26.0,26.426,33.538,True,9.019,9.947,9.947,1.237,-0.352,12.538,38.538,False,0,2,False,0,coarse,15.0,80,2187,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+12.875,0.156,26.0,27.573,33.938,True,8.268,8.707,8.707,0.586,-0.774,12.938,38.938,False,0,2,False,0,coarse,15.0,80,2186,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.078,0.093,26.0,27.795,32.688,True,6.779,6.268,6.779,-0.681,-1.867,11.688,37.688,False,0,2,False,0,coarse,15.0,80,2186,1100,True,256,light powder is gaining mass; hold duty
+13.328,0.14,32.0,30.608,36.315,True,7.622,7.597,7.622,-0.033,-0.975,10.335,42.335,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.61,0.157,32.0,32.416,37.872,True,7.345,7.206,7.345,-0.185,-0.888,10.872,42.872,False,0,2,False,0,coarse,15.0,80,2171,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+13.875,0.156,32.0,33.295,37.897,True,6.407,5.865,6.407,-0.722,-1.115,10.897,42.897,False,0,2,False,0,coarse,15.0,80,2171,1100,True,256,light powder is gaining mass; hold duty
+14.141,0.156,38.0,36.336,41.839,True,7.352,7.324,7.352,-0.038,-0.378,10.147,48.147,False,0,2,False,0,coarse,15.0,80,2157,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.344,0.094,38.0,37.905,43.486,True,7.43,7.452,7.452,0.029,-0.236,10.486,48.486,False,0,2,False,0,coarse,15.0,80,2151,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.61,0.157,43.0,41.285,47.949,True,8.609,9.16,9.16,0.734,0.341,11.592,54.592,False,0,2,False,0,coarse,15.0,80,2135,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+14.86,0.141,43.0,43.253,49.883,True,8.609,9.071,9.071,0.616,0.178,11.883,54.883,False,0,2,False,0,coarse,15.0,80,2128,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+15.078,0.109,43.0,44.18,49.969,True,7.759,7.68,7.759,-0.106,-0.52,11.969,54.969,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+15.344,0.156,43.0,44.782,49.431,True,6.513,5.885,6.513,-0.838,-0.967,11.431,54.431,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+15.531,0.078,43.0,44.642,47.592,True,4.76,3.107,4.76,-2.204,-2.234,9.592,52.592,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+15.813,0.157,43.0,44.593,46.143,True,3.111,1.021,3.111,-2.787,-2.201,8.143,51.143,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+16.078,0.156,43.0,44.276,44.467,True,1.497,0.0,1.497,-3.315,-2.159,6.467,49.467,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+16.344,0.156,43.0,43.856,43.856,True,0.03,0.0,0.03,-3.667,-1.992,5.856,48.856,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+16.547,0.094,43.0,43.433,43.433,True,0.0,0.0,0.0,-3.973,-1.895,5.433,48.433,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+16.813,0.157,43.0,43.161,43.161,True,0.0,0.0,0.0,-4.039,-1.566,5.161,48.161,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+17.063,0.141,43.0,43.019,43.019,True,0.0,0.0,0.0,-4.048,-1.259,5.019,48.019,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+17.344,0.156,43.0,42.923,42.923,True,0.0,0.0,0.0,-4.019,-0.987,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+17.531,0.078,43.0,42.919,42.919,True,0.0,0.0,0.0,-3.952,-0.718,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+17.735,0.094,43.0,42.91,42.91,True,0.0,0.0,0.0,-3.889,-0.512,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+18.016,0.156,43.0,42.866,42.866,True,0.0,0.0,0.0,-3.84,-0.375,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+18.266,0.156,43.0,42.86,42.86,True,0.0,0.0,0.0,-3.775,-0.248,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2127,1100,True,256,light powder is gaining mass; hold duty
+18.531,0.156,43.0,42.85,42.85,True,0.0,0.0,0.0,-3.713,-0.151,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,"predicted flow is below target; increase duty; remaining mass is small, taper duty for loose-powder tail feed"
+18.75,0.109,43.0,42.869,42.869,True,0.0,0.0,0.0,-3.633,-0.048,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+19.0,0.156,43.0,42.865,42.865,True,0.0,0.0,0.0,-3.57,0.011,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+19.266,0.156,43.0,42.856,42.856,True,0.0,0.0,0.0,-3.511,0.053,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+19.547,0.156,43.0,42.845,42.845,True,0.0,0.0,0.0,-3.454,0.083,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+19.797,0.141,43.0,42.855,42.855,True,0.0,0.0,0.0,-3.387,0.121,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+20.0,0.094,43.0,42.882,42.882,True,0.0,0.0,0.0,-3.303,0.179,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+20.281,0.156,43.0,42.863,42.863,True,0.0,0.0,0.0,-3.253,0.179,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+20.531,0.14,43.0,42.869,42.869,True,0.0,0.0,0.0,-3.192,0.192,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+20.735,0.094,43.0,42.891,42.891,True,0.0,0.0,0.0,-3.116,0.228,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+21.016,0.156,43.0,42.873,42.873,True,0.0,0.0,0.0,-3.069,0.216,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+21.266,0.141,43.0,42.877,42.877,True,0.0,0.0,0.0,-3.012,0.218,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+21.469,0.094,43.0,42.898,42.898,True,0.0,0.0,0.0,-2.94,0.245,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+21.75,0.172,43.0,42.88,42.88,True,0.0,0.0,0.0,-2.896,0.228,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+22.0,0.156,43.0,42.884,42.884,True,0.0,0.0,0.0,-2.842,0.225,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+22.203,0.093,43.0,42.904,42.904,True,0.0,0.0,0.0,-2.775,0.247,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+22.406,0.093,43.0,42.916,42.916,True,0.0,0.0,0.0,-2.715,0.256,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,waiting for light-powder response before another duty increase
+22.672,0.156,43.0,42.901,42.901,True,0.0,0.0,0.0,-2.675,0.235,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2183,1100,True,256,predicted flow is below target; increase duty
+22.875,0.094,43.0,42.915,42.915,True,0.0,0.0,0.0,-2.615,0.247,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2183,1100,True,256,waiting for light-powder response before another duty increase
+23.141,0.156,43.0,42.902,42.902,True,0.0,0.0,0.0,-2.575,0.228,5.0,48.0,False,0,2,False,0,coarse,15.0,80,2183,1100,True,256,waiting for light-powder response before another duty increase
+23.344,0.094,47.0,44.717,45.588,True,1.522,0.8,1.522,-0.963,1.77,6.065,53.065,False,0,2,False,0,coarse,15.0,80,2153,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+23.61,0.157,47.0,45.948,47.288,True,1.985,1.587,1.985,-0.531,1.741,6.389,53.389,False,0,2,False,0,coarse,15.0,80,2137,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+23.875,0.156,47.0,46.701,48.123,True,2.049,1.744,2.049,-0.407,1.487,6.435,53.435,False,0,2,False,0,coarse,15.0,80,2134,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+24.141,0.156,47.0,47.127,48.389,True,1.854,1.51,1.854,-0.459,1.15,6.389,53.389,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+24.406,0.156,47.0,47.331,48.293,True,1.505,1.058,1.505,-0.596,0.816,6.293,53.293,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+24.61,0.094,47.0,47.344,47.916,True,1.077,0.449,1.077,-0.837,0.417,5.916,52.916,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+24.875,0.156,47.0,47.33,47.528,True,0.628,0.0,0.628,-0.974,0.23,5.528,52.528,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+25.141,0.156,47.0,47.255,47.255,True,0.195,0.0,0.195,-1.078,0.106,5.255,52.255,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+25.406,0.156,47.0,47.148,47.148,True,0.0,0.0,0.0,-1.14,0.038,5.148,52.148,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+25.61,0.11,47.0,47.068,47.068,True,0.0,0.0,0.0,-1.187,-0.016,5.068,52.068,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+25.875,0.156,47.0,47.015,47.015,True,0.0,0.0,0.0,-1.193,-0.017,5.015,52.015,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+26.141,0.156,47.0,46.985,46.985,True,0.0,0.0,0.0,-1.187,-0.009,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+26.406,0.156,47.0,46.969,46.969,True,0.0,0.0,0.0,-1.174,0.002,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,waiting for light-powder response before another duty increase
+26.672,0.156,47.0,46.96,46.96,True,0.0,0.0,0.0,-1.158,0.014,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,predicted flow is below target; increase duty
+26.875,0.094,47.0,46.965,46.965,True,0.0,0.0,0.0,-1.133,0.036,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2133,1100,True,256,predicted flow is below target; increase duty
+27.141,0.156,47.0,46.959,46.959,True,0.0,0.0,0.0,-1.116,0.042,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2138,1100,True,256,"predicted flow is below target; increase duty; remaining mass is small, taper duty for loose-powder tail feed"
+27.406,0.156,47.0,46.956,46.956,True,0.0,0.0,0.0,-1.097,0.047,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2138,1100,True,256,waiting for light-powder response before another duty increase
+27.672,0.156,47.0,46.954,46.954,True,0.0,0.0,0.0,-1.079,0.052,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2138,1100,True,256,waiting for light-powder response before another duty increase
+27.875,0.094,47.0,46.963,46.963,True,0.0,0.0,0.0,-1.052,0.067,5.0,52.0,False,0,2,False,0,coarse,15.0,80,2138,1100,True,256,waiting for light-powder response before another duty increase
+28.141,0.156,52.0,49.209,50.457,True,1.628,1.699,1.699,0.095,0.917,6.213,58.213,False,0,2,False,0,coarse,15.0,80,2120,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+28.406,0.156,52.0,50.704,52.789,True,2.542,3.016,3.016,0.632,1.139,7.266,59.266,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+28.61,0.094,52.0,51.58,54.124,True,3.046,3.74,3.74,0.926,1.199,7.845,59.845,False,0,2,False,0,coarse,15.0,80,2112,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+28.875,0.156,52.0,52.231,54.814,True,3.133,3.756,3.756,0.83,0.887,7.832,59.832,False,0,2,False,0,coarse,15.0,80,2110,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+29.141,0.156,52.0,52.601,54.972,True,2.943,3.38,3.38,0.583,0.524,7.972,59.972,False,0,2,False,0,coarse,15.0,80,2109,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+29.344,0.109,52.0,52.666,54.546,True,2.465,2.55,2.55,0.113,-0.044,7.546,59.546,False,0,2,False,0,coarse,15.0,80,2109,1100,True,256,waiting for light-powder response before another duty increase
+29.61,0.157,52.0,52.729,54.174,True,1.996,1.856,1.996,-0.187,-0.261,7.174,59.174,False,0,2,False,0,coarse,15.0,80,2109,1100,True,256,waiting for light-powder response before another duty increase
+29.875,0.156,52.0,52.688,53.662,True,1.475,1.121,1.475,-0.472,-0.424,6.662,58.662,False,0,2,False,0,coarse,15.0,80,2109,1100,True,256,waiting for light-powder response before another duty increase
+30.078,0.109,52.0,52.538,52.971,True,0.897,0.258,0.897,-0.852,-0.713,5.971,57.971,False,0,2,False,0,coarse,15.0,80,2109,1100,True,256,waiting for light-powder response before another duty increase
+30.328,0.14,57.0,54.655,56.515,True,2.39,2.57,2.57,0.24,0.303,6.858,63.858,False,0,2,False,0,coarse,15.0,80,2102,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+30.547,0.109,57.0,56.001,58.693,True,3.272,3.906,3.906,0.846,0.796,7.942,64.942,False,0,2,False,0,coarse,15.0,80,2096,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+30.75,0.109,57.0,56.825,59.798,True,3.6,4.327,4.327,0.969,0.758,8.266,65.266,False,0,2,False,0,coarse,15.0,80,2092,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+31.0,0.156,57.0,57.416,60.289,True,3.54,4.122,4.122,0.776,0.452,8.289,65.289,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,"waiting for light-powder response before another duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+31.266,0.156,57.0,57.762,60.311,True,3.226,3.573,3.573,0.463,0.126,8.311,65.311,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+31.469,0.094,57.0,57.784,59.722,True,2.617,2.549,2.617,-0.091,-0.445,7.722,64.722,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+31.672,0.109,57.0,57.723,59.017,True,1.952,1.501,1.952,-0.601,-0.858,7.017,64.017,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+31.938,0.157,57.0,57.671,58.424,True,1.333,0.675,1.333,-0.877,-0.894,6.424,63.424,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+32.203,0.156,57.0,57.547,57.78,True,0.726,0.0,0.726,-1.103,-0.886,5.78,62.78,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+32.406,0.109,57.0,57.369,57.369,True,0.171,0.0,0.171,-1.364,-0.966,5.369,62.369,False,0,2,False,0,coarse,15.0,80,2090,1100,True,256,light powder is gaining mass; hold duty
+32.672,0.156,61.0,59.001,59.73,True,1.174,0.767,1.174,-0.542,-0.155,5.822,66.822,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+32.938,0.157,61.0,60.062,61.271,True,1.671,1.554,1.671,-0.157,0.166,6.17,67.17,False,0,2,False,0,coarse,15.0,80,2086,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+33.141,0.11,61.0,60.669,62.142,True,1.936,1.994,1.994,0.077,0.363,6.414,67.414,False,0,2,False,0,coarse,15.0,80,2083,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+33.406,0.156,61.0,61.102,62.526,True,1.887,1.913,1.913,0.035,0.259,6.526,67.526,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,"light powder is gaining mass; hold duty; remaining mass is small, taper duty for loose-powder tail feed"
+33.672,0.156,61.0,61.333,62.555,True,1.669,1.592,1.669,-0.102,0.104,6.555,67.555,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,light powder is gaining mass; hold duty
+33.875,0.109,61.0,61.368,62.255,True,1.318,1.047,1.318,-0.362,-0.173,6.255,67.255,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,light powder is gaining mass; hold duty
+34.063,0.094,61.0,61.335,61.851,True,0.926,0.448,0.926,-0.637,-0.432,5.851,66.851,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,light powder is gaining mass; hold duty
+34.281,0.109,61.0,61.287,61.469,True,0.548,0.0,0.548,-0.813,-0.506,5.469,66.469,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,predicted flow is below target; increase duty
+34.469,0.094,61.0,61.207,61.207,True,0.195,0.0,0.195,-0.983,-0.586,5.207,66.207,False,0,2,False,0,coarse,15.0,80,2082,1100,True,256,predicted flow is below target; increase duty
+34.672,0.109,61.0,61.124,61.124,True,0.0,0.0,0.0,-1.071,-0.555,5.124,66.124,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,"predicted flow is below target; increase duty; remaining mass is small, taper duty for loose-powder tail feed"
+34.938,0.157,61.0,61.048,61.048,True,0.0,0.0,0.0,-1.09,-0.459,5.048,66.048,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+35.203,0.156,61.0,61.005,61.005,True,0.0,0.0,0.0,-1.093,-0.369,5.005,66.005,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+35.406,0.109,61.0,60.99,60.99,True,0.0,0.0,0.0,-1.086,-0.288,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+35.672,0.156,61.0,60.974,60.974,True,0.0,0.0,0.0,-1.075,-0.222,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+35.938,0.157,61.0,60.965,60.965,True,0.0,0.0,0.0,-1.06,-0.167,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+36.203,0.156,61.0,60.96,60.96,True,0.0,0.0,0.0,-1.044,-0.121,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+36.469,0.156,61.0,60.958,60.958,True,0.0,0.0,0.0,-1.026,-0.084,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+36.735,0.157,61.0,60.957,60.957,True,0.0,0.0,0.0,-1.009,-0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+37.0,0.156,61.0,60.957,60.957,True,0.0,0.0,0.0,-0.991,-0.029,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+37.203,0.093,61.0,60.965,60.965,True,0.0,0.0,0.0,-0.966,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+37.469,0.156,61.0,60.962,60.962,True,0.0,0.0,0.0,-0.95,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+37.672,0.094,61.0,60.968,60.968,True,0.0,0.0,0.0,-0.928,0.032,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+37.938,0.157,61.0,60.965,60.965,True,0.0,0.0,0.0,-0.913,0.037,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+38.203,0.156,61.0,60.963,60.963,True,0.0,0.0,0.0,-0.898,0.041,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+38.406,0.109,61.0,60.969,60.969,True,0.0,0.0,0.0,-0.876,0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,waiting for light-powder response before another duty increase
+38.672,0.156,61.0,60.966,60.966,True,0.0,0.0,0.0,-0.862,0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2087,1100,True,256,predicted flow is below target; increase duty
+38.938,0.157,61.0,60.965,60.965,True,0.0,0.0,0.0,-0.848,0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,predicted flow is below target; increase duty
+39.203,0.156,61.0,60.964,60.964,True,0.0,0.0,0.0,-0.833,0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+39.469,0.156,61.0,60.964,60.964,True,0.0,0.0,0.0,-0.818,0.055,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+39.672,0.094,61.0,60.971,60.971,True,0.0,0.0,0.0,-0.798,0.064,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+39.938,0.157,61.0,60.969,60.969,True,0.0,0.0,0.0,-0.785,0.061,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+40.203,0.156,61.0,60.968,60.968,True,0.0,0.0,0.0,-0.771,0.059,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+40.469,0.156,61.0,60.967,60.967,True,0.0,0.0,0.0,-0.758,0.057,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+40.672,0.094,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.739,0.064,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+40.938,0.157,61.0,60.971,60.971,True,0.0,0.0,0.0,-0.727,0.06,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+41.203,0.156,61.0,60.97,60.97,True,0.0,0.0,0.0,-0.715,0.058,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+41.406,0.093,61.0,60.975,60.975,True,0.0,0.0,0.0,-0.697,0.063,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+41.672,0.156,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.686,0.059,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+41.938,0.157,61.0,60.972,60.972,True,0.0,0.0,0.0,-0.675,0.056,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+42.141,0.094,61.0,60.977,60.977,True,0.0,0.0,0.0,-0.658,0.061,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+42.406,0.156,61.0,60.975,60.975,True,0.0,0.0,0.0,-0.648,0.057,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+42.672,0.141,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.637,0.054,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2117,1100,True,256,waiting for light-powder response before another duty increase
+42.938,0.157,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.626,0.051,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,predicted flow is below target; increase duty
+43.203,0.156,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.614,0.049,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+43.469,0.156,61.0,60.973,60.973,True,0.0,0.0,0.0,-0.603,0.048,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+43.672,0.094,61.0,60.978,60.978,True,0.0,0.0,0.0,-0.588,0.053,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+43.938,0.157,61.0,60.977,60.977,True,0.0,0.0,0.0,-0.579,0.05,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+44.203,0.156,61.0,60.976,60.976,True,0.0,0.0,0.0,-0.569,0.047,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+44.469,0.156,61.0,60.976,60.976,True,0.0,0.0,0.0,-0.559,0.045,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+44.735,0.157,61.0,60.976,60.976,True,0.0,0.0,0.0,-0.549,0.044,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+44.938,0.11,61.0,60.98,60.98,True,0.0,0.0,0.0,-0.535,0.049,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+45.141,0.11,61.0,60.983,60.983,True,0.0,0.0,0.0,-0.523,0.051,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+45.391,0.141,61.0,60.982,60.982,True,0.0,0.0,0.0,-0.515,0.047,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+45.61,0.11,61.0,60.983,60.983,True,0.0,0.0,0.0,-0.504,0.047,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+45.875,0.156,61.0,60.981,60.981,True,0.0,0.0,0.0,-0.497,0.044,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+46.125,0.14,61.0,60.981,60.981,True,0.0,0.0,0.0,-0.488,0.042,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+46.344,0.094,61.0,60.983,60.983,True,0.0,0.0,0.0,-0.477,0.043,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+46.61,0.157,61.0,60.981,60.981,True,0.0,0.0,0.0,-0.47,0.04,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+46.86,0.141,61.0,60.982,60.982,True,0.0,0.0,0.0,-0.461,0.039,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,waiting for light-powder response before another duty increase
+47.078,0.109,61.0,60.984,60.984,True,0.0,0.0,0.0,-0.451,0.04,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,predicted flow is below target; increase duty
+47.344,0.156,61.0,60.982,60.982,True,0.0,0.0,0.0,-0.444,0.038,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2147,1100,True,256,predicted flow is below target; increase duty
+47.594,0.141,61.0,60.983,60.983,True,0.0,0.0,0.0,-0.436,0.036,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,predicted flow is below target; increase duty
+47.813,0.11,61.0,60.985,60.985,True,0.0,0.0,0.0,-0.427,0.038,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+48.078,0.156,61.0,60.983,60.983,True,0.0,0.0,0.0,-0.42,0.035,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+48.328,0.14,61.0,60.984,60.984,True,0.0,0.0,0.0,-0.412,0.034,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+48.547,0.109,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.404,0.035,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+48.813,0.157,61.0,60.984,60.984,True,0.0,0.0,0.0,-0.397,0.033,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+49.063,0.141,61.0,60.984,60.984,True,0.0,0.0,0.0,-0.39,0.032,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+49.281,0.109,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.382,0.034,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+49.531,0.14,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.375,0.032,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+49.735,0.11,61.0,60.988,60.988,True,0.0,0.0,0.0,-0.367,0.034,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+50.016,0.172,61.0,60.985,60.985,True,0.0,0.0,0.0,-0.361,0.031,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+50.266,0.156,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.355,0.03,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+50.469,0.109,61.0,60.988,60.988,True,0.0,0.0,0.0,-0.346,0.032,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+50.75,0.156,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.341,0.03,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+51.0,0.156,61.0,60.986,60.986,True,0.0,0.0,0.0,-0.335,0.029,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+51.203,0.093,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.327,0.031,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+51.391,0.078,61.0,60.991,60.991,True,0.0,0.0,0.0,-0.319,0.033,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2177,1100,True,256,waiting for light-powder response before another duty increase
+51.61,0.094,61.0,60.991,60.991,True,0.0,0.0,0.0,-0.313,0.031,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,predicted flow is below target; increase duty
+51.875,0.156,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.309,0.029,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+52.125,0.14,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.303,0.027,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+52.344,0.109,61.0,60.99,60.99,True,0.0,0.0,0.0,-0.297,0.027,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+52.61,0.157,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.292,0.026,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+52.86,0.141,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.287,0.025,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+53.078,0.109,61.0,60.99,60.99,True,0.0,0.0,0.0,-0.281,0.025,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+53.344,0.156,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.277,0.024,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+53.594,0.141,61.0,60.989,60.989,True,0.0,0.0,0.0,-0.272,0.023,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+53.813,0.11,61.0,60.99,60.99,True,0.0,0.0,0.0,-0.266,0.024,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+54.078,0.156,61.0,60.99,60.99,True,0.0,0.0,0.0,-0.261,0.022,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+54.328,0.14,61.0,60.99,60.99,True,0.0,0.0,0.0,-0.257,0.021,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+54.547,0.109,61.0,60.991,60.991,True,0.0,0.0,0.0,-0.251,0.022,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+54.735,0.094,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.245,0.024,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+54.938,0.094,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.24,0.024,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+55.219,0.172,61.0,60.991,60.991,True,0.0,0.0,0.0,-0.237,0.022,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+55.469,0.156,61.0,60.991,60.991,True,0.0,0.0,0.0,-0.233,0.021,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,waiting for light-powder response before another duty increase
+55.672,0.109,61.0,60.992,60.992,True,0.0,0.0,0.0,-0.228,0.022,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,predicted flow is below target; increase duty
+55.922,0.141,61.0,60.992,60.992,True,0.0,0.0,0.0,-0.224,0.02,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2207,1100,True,256,predicted flow is below target; increase duty
+56.141,0.11,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.219,0.02,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,predicted flow is below target; increase duty
+56.406,0.156,61.0,60.992,60.992,True,0.0,0.0,0.0,-0.216,0.019,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+56.656,0.14,61.0,60.992,60.992,True,0.0,0.0,0.0,-0.212,0.018,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+56.875,0.125,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.208,0.019,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+57.063,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.203,0.02,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+57.266,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.199,0.02,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+57.547,0.172,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.196,0.018,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+57.797,0.156,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.192,0.017,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+58.0,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.188,0.018,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+58.281,0.171,61.0,60.992,60.992,True,0.0,0.0,0.0,-0.185,0.016,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+58.531,0.156,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.182,0.016,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+58.735,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.177,0.017,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+59.016,0.172,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.175,0.015,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+59.266,0.156,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.172,0.015,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+59.469,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.167,0.016,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+59.75,0.172,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.165,0.015,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+60.0,0.156,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.162,0.014,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,waiting for light-powder response before another duty increase
+60.266,0.156,61.0,60.993,60.993,True,0.0,0.0,0.0,-0.159,0.013,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,predicted flow is below target; increase duty
+60.469,0.094,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.155,0.015,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2237,1100,True,256,predicted flow is below target; increase duty
+60.735,0.157,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.153,0.014,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,predicted flow is below target; increase duty
+60.938,0.094,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.149,0.014,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+61.141,0.094,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.146,0.015,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+61.406,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.144,0.013,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+61.672,0.156,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.141,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+61.938,0.157,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.139,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+62.203,0.156,61.0,60.994,60.994,True,0.0,0.0,0.0,-0.137,0.011,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+62.406,0.093,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.133,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+62.656,0.14,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.131,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+62.875,0.109,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.128,0.012,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+63.141,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.126,0.011,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+63.391,0.141,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.124,0.011,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+63.672,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.122,0.01,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+63.938,0.157,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.12,0.01,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+64.141,0.094,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.117,0.011,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+64.406,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.115,0.01,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+64.672,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.113,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,waiting for light-powder response before another duty increase
+64.938,0.157,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.111,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2267,1100,True,256,predicted flow is below target; increase duty
+65.203,0.156,61.0,60.995,60.995,True,0.0,0.0,0.0,-0.109,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,predicted flow is below target; increase duty
+65.406,0.093,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.106,0.01,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+65.656,0.14,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.104,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+65.875,0.109,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.102,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+66.141,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.101,0.009,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+66.391,0.141,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.099,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+66.672,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.097,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+66.938,0.157,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.095,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+67.203,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.094,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+67.406,0.109,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.091,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+67.672,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.09,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+67.938,0.157,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.088,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+68.203,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.087,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+68.469,0.156,61.0,60.996,60.996,True,0.0,0.0,0.0,-0.085,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+68.656,0.078,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.083,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+68.875,0.109,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.081,0.008,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+69.141,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.08,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2297,1100,True,256,waiting for light-powder response before another duty increase
+69.391,0.141,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.078,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,predicted flow is below target; increase duty
+69.672,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.077,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+69.938,0.157,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.076,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+70.141,0.094,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.074,0.007,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+70.406,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.073,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+70.672,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.071,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+70.938,0.157,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.07,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+71.203,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.069,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+71.469,0.156,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.068,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+71.735,0.157,61.0,60.997,60.997,True,0.0,0.0,0.0,-0.066,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+71.938,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.065,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+72.141,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.063,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+72.391,0.141,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.062,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+72.61,0.11,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.061,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+72.86,0.141,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.06,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+73.063,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.059,0.006,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+73.344,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.058,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2327,1100,True,256,waiting for light-powder response before another duty increase
+73.594,0.141,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.057,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,predicted flow is below target; increase duty
+73.797,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.056,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+74.078,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.055,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+74.328,0.14,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.054,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+74.531,0.093,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.052,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+74.735,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.051,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+74.938,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.05,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+75.203,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.05,0.005,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+75.469,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.049,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+75.735,0.157,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.048,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+76.0,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.047,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+76.281,0.171,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.046,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+76.531,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.045,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+76.797,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.045,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+77.0,0.094,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.043,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+77.203,0.109,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.042,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+77.469,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.042,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2357,1100,True,256,waiting for light-powder response before another duty increase
+77.735,0.157,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.041,0.004,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,predicted flow is below target; increase duty
+78.0,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.04,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+78.266,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.04,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+78.547,0.172,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.039,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+78.797,0.156,61.0,60.998,60.998,True,0.0,0.0,0.0,-0.038,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+79.0,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.037,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+79.266,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.037,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+79.469,0.109,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.036,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+79.735,0.157,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.035,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+80.0,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.035,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+80.203,0.109,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.034,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+80.469,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.033,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+80.735,0.157,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.033,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+80.938,0.11,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.032,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+81.125,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.031,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+81.328,0.093,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.031,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+81.547,0.109,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.03,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,waiting for light-powder response before another duty increase
+81.797,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.03,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2387,1100,True,256,predicted flow is below target; increase duty
+82.063,0.157,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.029,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,predicted flow is below target; increase duty
+82.266,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.028,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+82.531,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.028,0.003,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+82.797,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.028,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+83.078,0.172,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.027,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+83.344,0.172,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.027,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+83.61,0.172,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.026,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+83.875,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.026,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+84.141,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.025,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+84.406,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.025,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+84.672,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.024,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+84.938,0.157,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.024,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+85.203,0.14,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.023,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+85.406,0.093,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.023,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+85.656,0.14,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.022,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+85.86,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.022,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,waiting for light-powder response before another duty increase
+86.141,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.022,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2417,1100,True,256,predicted flow is below target; increase duty
+86.391,0.141,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.021,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,predicted flow is below target; increase duty
+86.594,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.021,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+86.813,0.11,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.02,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+87.063,0.141,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.02,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+87.266,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.019,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+87.531,0.14,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.019,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+87.735,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.019,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+87.938,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.018,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+88.203,0.14,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.018,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+88.469,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.018,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+88.656,0.078,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.017,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+88.86,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.017,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+89.078,0.109,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.017,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+89.328,0.14,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.016,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+89.531,0.093,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.016,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+89.735,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.016,0.002,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+90.0,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.016,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+90.266,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.015,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,waiting for light-powder response before another duty increase
+90.531,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.015,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2447,1100,True,256,predicted flow is below target; increase duty
+90.797,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.015,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,predicted flow is below target; increase duty
+91.0,0.094,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.014,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+91.266,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.014,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+91.469,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.014,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+91.735,0.157,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.014,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+92.0,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.013,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+92.266,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.013,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+92.531,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.013,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+92.735,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.013,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+93.0,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.012,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+93.266,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.012,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+93.531,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.012,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+93.797,0.156,61.0,60.999,60.999,True,0.0,0.0,0.0,-0.012,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+94.0,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.011,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+94.266,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.011,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+94.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.011,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,waiting for light-powder response before another duty increase
+94.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.011,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2477,1100,True,256,predicted flow is below target; increase duty
+95.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.011,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,predicted flow is below target; increase duty
+95.266,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.01,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+95.547,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.01,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+95.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.01,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+96.0,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.01,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+96.266,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.01,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+96.531,0.14,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+96.735,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+96.938,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+97.141,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+97.344,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+97.594,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.009,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+97.875,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+98.141,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+98.391,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+98.672,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+98.938,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,waiting for light-powder response before another duty increase
+99.188,0.141,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,predicted flow is below target; increase duty
+99.406,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.008,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2507,1100,True,256,predicted flow is below target; increase duty
+99.672,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,predicted flow is below target; increase duty
+99.938,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+100.203,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+100.406,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+100.656,0.14,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+100.875,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+101.063,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.007,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+101.266,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+101.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+101.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+102.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+102.266,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+102.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+102.735,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+103.0,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.001,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+103.266,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.006,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+103.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2537,1100,True,256,waiting for light-powder response before another duty increase
+103.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,predicted flow is below target; increase duty
+104.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+104.266,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+104.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+104.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+105.0,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+105.266,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+105.547,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+105.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+106.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.005,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+106.328,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+106.531,0.093,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+106.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+107.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+107.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+107.61,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,waiting for light-powder response before another duty increase
+107.875,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2567,1100,True,256,predicted flow is below target; increase duty
+108.141,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,predicted flow is below target; increase duty
+108.406,0.171,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+108.594,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+108.86,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+109.063,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+109.328,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.004,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+109.547,0.125,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+109.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+110.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+110.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+110.61,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+110.86,0.141,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+111.063,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+111.266,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+111.469,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+111.735,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+112.0,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,waiting for light-powder response before another duty increase
+112.266,0.141,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2597,1100,True,256,predicted flow is below target; increase duty
+112.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,predicted flow is below target; increase duty
+112.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+113.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+113.328,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+113.61,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.003,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+113.797,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+114.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+114.328,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+114.531,0.093,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+114.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+115.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+115.266,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+115.547,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+115.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+116.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+116.266,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,waiting for light-powder response before another duty increase
+116.531,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,predicted flow is below target; increase duty
+116.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+117.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+117.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+117.594,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+117.86,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+118.078,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+118.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+118.594,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+118.875,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+119.141,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+119.391,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+119.672,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+119.938,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+120.188,0.141,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+120.469,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.002,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,waiting for light-powder response before another duty increase
+120.672,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,predicted flow is below target; increase duty
+120.938,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,predicted flow is below target; increase duty
+121.141,0.11,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,predicted flow is below target; increase duty
+121.391,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+121.594,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+121.875,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+122.141,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+122.344,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+122.61,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+122.797,0.094,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+123.063,0.157,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+123.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+123.547,0.109,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+123.797,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+124.078,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+124.344,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+124.594,0.156,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+124.875,0.172,61.0,61.0,61.0,True,0.0,0.0,0.0,-0.001,0.0,5.0,66.0,False,0,2,False,0,coarse,15.0,80,2687,1100,True,256,waiting for light-powder response before another duty increase
+125.063,0.094,66.0,63.25,65.881,True,2.659,4.356,4.356,2.262,2.408,8.604,74.604,False,0,2,False,0,coarse,15.0,80,2657,1100,True,256,"flow is below target but still accelerating; suppress duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+125.328,0.156,66.0,64.919,68.682,True,4.001,6.034,6.034,2.71,2.264,9.887,75.887,False,0,2,False,0,coarse,15.0,80,2627,1100,True,256,"flow is below target but still accelerating; suppress duty increase; remaining mass is small, taper duty for loose-powder tail feed"
+125.61,0.172,66.0,66.085,70.371,True,4.71,6.72,6.72,2.679,1.789,10.36,76.36,False,0,2,False,0,fine,3.0,80,2597,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+125.86,0.157,66.0,66.741,71.028,True,4.841,6.592,6.592,2.334,1.156,10.187,76.187,False,0,2,False,0,fine,3.0,80,2567,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+126.141,0.172,66.0,67.206,71.276,True,4.717,6.135,6.135,1.89,0.608,10.276,76.276,False,0,2,False,0,fine,3.0,80,2537,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+126.406,0.171,71.0,69.637,74.942,True,6.153,7.994,7.994,2.455,0.913,11.197,82.197,False,0,2,False,0,fine,3.0,80,2507,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+126.656,0.156,71.0,71.139,76.81,True,6.665,8.458,8.458,2.39,0.678,11.506,82.506,False,0,2,False,0,fine,3.0,80,2477,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+126.938,0.172,71.0,72.162,77.657,True,6.59,8.064,8.064,1.965,0.241,11.657,82.657,False,0,2,False,0,fine,3.0,80,2447,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+127.141,0.11,71.0,72.397,76.975,True,5.737,6.471,6.471,0.978,-0.779,10.975,81.975,False,0,2,False,0,fine,3.0,80,2417,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+127.391,0.156,76.0,74.824,80.381,True,6.837,7.981,7.981,1.526,-0.185,10.961,86.961,False,0,2,False,0,fine,3.0,80,2387,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+127.594,0.094,76.0,76.134,81.806,True,7.027,8.1,8.1,1.431,-0.241,11.021,87.021,False,0,2,False,0,fine,3.0,80,2357,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+127.875,0.172,76.0,77.191,82.464,True,6.658,7.403,7.403,0.992,-0.505,11.464,87.464,False,0,2,False,0,fine,3.0,80,2327,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+128.063,0.094,76.0,77.353,81.471,True,5.536,5.445,5.536,-0.121,-1.589,10.471,86.471,False,0,2,False,0,fine,3.0,80,2297,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+128.328,0.156,76.0,77.549,80.665,True,4.442,3.869,4.442,-0.763,-1.755,9.665,85.665,False,0,2,False,0,fine,3.0,80,2267,1100,True,256,"predicted flow is above target; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+128.547,0.125,81.0,79.627,83.707,True,5.415,5.467,5.467,0.07,-0.644,8.844,89.844,False,0,2,False,0,fine,3.0,80,2237,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+128.797,0.141,81.0,80.99,85.091,True,5.439,5.495,5.495,0.075,-0.511,9.091,90.091,False,0,2,False,0,fine,3.0,80,2207,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+129.063,0.157,81.0,81.792,85.41,True,4.918,4.729,4.918,-0.251,-0.654,9.41,90.41,False,0,2,False,0,fine,3.0,80,2177,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+129.344,0.172,86.0,84.44,88.923,True,5.856,6.099,6.099,0.324,-0.114,9.349,95.349,False,0,2,False,0,fine,3.0,80,2147,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+129.594,0.141,86.0,85.953,90.529,True,5.972,6.231,6.231,0.346,-0.074,9.529,95.529,False,0,2,False,0,fine,3.0,80,2117,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+129.797,0.094,86.0,86.645,90.712,True,5.464,5.382,5.464,-0.11,-0.507,9.712,95.712,False,0,2,False,0,fine,3.0,80,2087,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+130.078,0.172,86.0,87.197,90.536,True,4.659,4.246,4.659,-0.55,-0.72,9.536,95.536,False,0,2,False,0,fine,3.0,80,2057,1100,True,256,"predicted flow is above the overspeed guard; reduce duty; remaining mass is small, taper duty for loose-powder tail feed"
+130.328,0.14,90.0,89.089,92.942,True,5.184,5.089,5.184,-0.127,-0.237,8.629,98.629,False,0,2,False,0,settle,0.0,80,2057,1100,True,256,force stop: mass 90.0 >= 90 mg
