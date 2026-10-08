@@ -1,7 +1,7 @@
 # 粉体工作空间库 (Powder–Head Operating Space Library)
 
 开放式粉末特征档案库，每种粉末一个 `.json` 文件。方法生成器
-(`method_generator.py`) 从这里生成 `data/control_profiles` 下的运行时草稿配置。
+(`profiles.py`) 从这里生成 `data/control_profiles` 下的运行时草稿配置。
 
 ## 档案格式
 

@@ -3,10 +3,10 @@
 This package plans bounded LA10 window/vibration actions. It does not open a
 serial port or bypass the safety state machine.
 
-`l0_repository.py` selects an approved 100 mg / 500 mg L0 row and interpolates
+`models.py` (L0Repository) selects an approved 100 mg / 500 mg L0 row and interpolates
 only between profiles with the same powder, batch, head, and recipe version.
 `four_stage_planner.py` produces coarse, slow, fine, or settle decisions from
-the stable mass and predicted tail mass. `calibration.py` estimates local yield
+the stable mass and predicted tail mass. `models.py` (LocalYieldEstimator) estimates local yield
 from approved calibration samples. `ilc.py` provides a bounded, shadow-mode
 recommendation for the next task's coarse duration.
 
@@ -49,7 +49,7 @@ using the planner to command equipment.
 `data/control_profiles/{powder_id}.json` is the runtime bridge between a fixed
 powder workspace and the common feedback controller.  Each file stores common
 controller settings plus a small set of target-mass anchors.  The resolver in
-`control_profiles.py` accepts every integer target from 100 through 1000 mg and
+`profiles.py` accepts every integer target from 100 through 1000 mg and
 piecewise-linearly resolves continuous target parameters.  JSON anchor keys are
 normalized to integers when loaded.
 
