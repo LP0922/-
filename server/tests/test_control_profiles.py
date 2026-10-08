@@ -7,20 +7,20 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT / "src"))
 
-from powder_sampling_control.dispensing_algorithm.control_profiles import (
+from powder_sampling_control.dispensing_algorithm.profiles import (
     list_control_profiles,
     load_control_profile,
     normalize_target_keys,
     resolve_control_profile,
 )
-from powder_sampling_control.dispensing_algorithm.method_generator import (
+from powder_sampling_control.dispensing_algorithm.profiles import (
     build_candidate_control_profile,
 )
 from powder_sampling_control.dispensing_algorithm.powder_fingerprint import (
     list_fingerprints,
     load_fingerprint,
 )
-from powder_sampling_control.dispensing_algorithm.product_requirements import (
+from powder_sampling_control.dispensing_algorithm.models import (
     acceptance_limits,
     validate_target_mass,
 )

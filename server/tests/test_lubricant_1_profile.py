@@ -16,11 +16,11 @@ from device_control_server import (
     resolve_powder_identity,
     resolve_tail_pulse_config,
 )
-from powder_sampling_control.dispensing_algorithm.control_profiles import (
+from powder_sampling_control.dispensing_algorithm.profiles import (
     load_control_profile,
     resolve_default_target_rate_band,
 )
-from powder_sampling_control.dispensing_algorithm.feedback_profiles import interpolate_profile
+from powder_sampling_control.dispensing_algorithm.profiles import interpolate_profile
 from powder_sampling_control.dispensing_algorithm.feedback_controller import (
     ContinuousFeedbackController,
     FeedbackControllerSettings,

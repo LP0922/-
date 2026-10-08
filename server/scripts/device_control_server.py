@@ -35,7 +35,7 @@ from powder_sampling_control.dispensing_algorithm.continuous_taper_planner impor
     ContinuousTaperConfig,
     ContinuousTaperPlanner,
 )
-from powder_sampling_control.dispensing_algorithm.control_profiles import (
+from powder_sampling_control.dispensing_algorithm.profiles import (
     list_control_profiles,
     load_control_profile,
     resolve_default_target_rate_band,
@@ -55,7 +55,7 @@ from powder_sampling_control.dispensing_algorithm.experiment_orchestrator import
     collect_scan_results,
     REFERENCE_POWDER_SCANS,
 )
-from powder_sampling_control.dispensing_algorithm.feedback_profiles import (
+from powder_sampling_control.dispensing_algorithm.profiles import (
     DISPENSE_ALLOWED_OVERWEIGHT_MG,
     DISPENSE_ALLOWED_UNDERWEIGHT_MG,
     DISPENSE_PRESETS,
@@ -86,7 +86,7 @@ from powder_sampling_control.dispensing_algorithm.rate_band_searcher import (
     apply_rate_search,
     execute_rate_search,
 )
-from powder_sampling_control.dispensing_algorithm.product_requirements import (
+from powder_sampling_control.dispensing_algorithm.models import (
     acceptance_limits,
 )
 

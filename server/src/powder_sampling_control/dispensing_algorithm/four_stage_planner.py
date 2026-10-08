@@ -4,12 +4,12 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from .calibration import LocalYieldEstimator
 from .models import (
     ActuationLimits,
     DispenseStage,
     FeedAction,
     L0Profile,
+    LocalYieldEstimator,
     MassObservation,
     PlanDecision,
     Recipe,

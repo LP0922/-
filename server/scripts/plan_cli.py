@@ -40,13 +40,13 @@ from powder_sampling_control.dispensing_algorithm import (  # noqa: E402
     RatePlannerSettings,
     Recipe,
 )
-from powder_sampling_control.dispensing_algorithm.feedback_profiles import (  # noqa: E402
+from powder_sampling_control.dispensing_algorithm.profiles import (  # noqa: E402
     DISPENSE_ALLOWED_OVERWEIGHT_MG,
     DISPENSE_ALLOWED_UNDERWEIGHT_MG,
     DISPENSE_TARGET_PROFILES,
     dispense_plan,
 )
-from powder_sampling_control.dispensing_algorithm.method_generator import (  # noqa: E402
+from powder_sampling_control.dispensing_algorithm.profiles import (  # noqa: E402
     build_candidate_control_profile,
 )
 from powder_sampling_control.dispensing_algorithm.window_pid_planner import (  # noqa: E402

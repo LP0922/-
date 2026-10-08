@@ -15,11 +15,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable
 
-from powder_sampling_control.dispensing_algorithm.feedback_profiles import (
-    powder_classification_params,
-)
-from powder_sampling_control.dispensing_algorithm.control_profiles import (
+from .profiles import (
     normalize_target_keys,
+    powder_classification_params,
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
